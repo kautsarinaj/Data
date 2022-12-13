@@ -1,0 +1,1189 @@
+Airlines,Suhu,Kelembaban,CurahHujan,KecepatanAngin,ArahAngin,Status
+Lion Air,26,20,19,10,0,34,8,25,NE,Delay kurang dari 30 menit
+AirAsia,26,29,19,10,0,48,8,37,NE,Delay lebih dari 30 menit
+Garuda Indonesia,26,00,18,86,1,12,8,35,NE,Delay kurang dari 30 menit
+Batik Air,26,00,18,80,1,29,8,49,NE,Delay kurang dari 30 menit
+Lion Air,26,33,18,86,0,68,9,02,NE,Delay kurang dari 30 menit
+Citilink,26,26,18,80,0,43,8,36,NNE,Delay lebih dari 30 menit
+AirAsia,26,23,18,92,0,42,8,12,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,26,23,18,92,0,42,8,12,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,26,23,18,92,0,42,8,12,NNE,Delay lebih dari 30 menit
+Batik Air,26,09,18,68,0,93,8,93,NNE,Delay lebih dari 30 menit
+Lion Air,26,11,18,19,0,20,6,87,NE,Delay kurang dari 30 menit
+Citilink,25,99,18,62,0,21,5,79,NE,Delay lebih dari 30 menit
+AirAsia,25,86,18,55,0,19,5,91,NE,Delay kurang dari 30 menit
+Garuda Indonesia,25,86,18,55,0,19,5,91,NE,Delay lebih dari 30 menit
+Batik Air,25,94,18,19,0,10,7,89,NE,Delay kurang dari 30 menit
+Lion Air,26,48,19,10,0,06,7,59,NNE,Delay kurang dari 30 menit
+Citilink,26,44,18,98,0,06,7,52,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,42,18,49,0,09,7,54,NNE,Delay kurang dari 30 menit
+AirAsia,26,38,18,31,0,07,7,44,NNE,Delay lebih dari 30 menit
+Lion Air,26,12,18,92,0,01,4,91,NNE,Delay kurang dari 30 menit
+Citilink,26,28,18,92,0,02,3,88,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,31,18,80,0,03,3,05,NNE,Delay kurang dari 30 menit
+AirAsia,26,28,18,68,0,03,2,84,NE,Delay lebih dari 30 menit
+Batik Air,26,26,18,43,0,06,3,36,NE,Delay lebih dari 30 menit
+Lion Air,26,15,18,62,0,23,5,46,NNE,Delay kurang dari 30 menit
+Citilink,26,26,18,68,0,15,5,14,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,27,18,74,0,10,5,05,NE,Delay kurang dari 30 menit
+AirAsia,26,27,18,74,0,09,5,07,NE,Delay lebih dari 30 menit
+Lion Air,26,16,18,98,0,13,6,01,NE,Delay kurang dari 30 menit
+Citilink,26,30,19,10,0,12,6,20,NE,Delay lebih dari 30 menit
+Garuda Indonesia,26,23,19,23,0,12,5,93,NE,Delay kurang dari 30 menit
+AirAsia,26,18,19,23,0,11,5,84,NE,Delay lebih dari 30 menit
+Batik Air,26,14,19,17,0,07,5,92,NE,Delay lebih dari 30 menit
+Lion Air,26,29,18,62,0,07,7,34,NE,Delay kurang dari 30 menit
+Citilink,26,34,18,62,0,04,7,35,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,33,18,68,0,02,6,98,NE,Delay lebih dari 30 menit
+AirAsia,26,30,18,68,0,02,6,76,NE,Delay lebih dari 30 menit
+Batik Air,26,26,18,68,0,02,6,29,NNE,Delay lebih dari 30 menit
+Lion Air,26,23,17,58,0,00,6,03,NE,Delay kurang dari 30 menit
+Citilink,26,27,17,52,0,01,5,97,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,29,17,46,0,01,5,84,NNE,Delay kurang dari 30 menit
+AirAsia,26,25,17,40,0,01,5,85,NNE,Delay kurang dari 30 menit
+Batik Air,26,11,17,15,0,01,6,11,NNE,Delay lebih dari 30 menit
+Lion Air,26,15,17,52,0,01,6,10,NNE,Delay kurang dari 30 menit
+Citilink,26,30,17,76,0,01,5,85,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,25,17,94,0,02,5,56,NNE,Delay kurang dari 30 menit
+AirAsia,26,18,18,07,0,02,5,49,NNE,Delay kurang dari 30 menit
+Lion Air,26,22,19,10,0,00,5,47,NNE,Delay kurang dari 30 menit
+Citilink,26,47,19,23,0,02,5,35,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,39,19,23,0,01,5,66,NNE,Delay kurang dari 30 menit
+AirAsia,26,32,19,23,0,02,5,94,NNE,Delay lebih dari 30 menit
+Lion Air,25,79,16,05,0,00,7,48,NE,Delay lebih dari 30 menit
+Garuda Indonesia,25,90,16,11,0,00,7,43,NE,Delay kurang dari 30 menit
+AirAsia,25,92,16,17,0,00,7,41,NE,Delay kurang dari 30 menit
+Lion Air,26,26,15,93,0,01,7,80,NE,Delay kurang dari 30 menit
+Citilink,26,32,15,93,0,01,7,90,NE,Delay lebih dari 30 menit
+Garuda Indonesia,26,33,15,93,0,00,7,66,NE,Delay kurang dari 30 menit
+AirAsia,26,33,15,87,0,00,7,44,NE,Delay lebih dari 30 menit
+Lion Air,25,77,16,91,0,25,7,18,NNE,Delay kurang dari 30 menit
+Citilink,25,86,17,09,0,09,7,47,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,25,92,17,27,0,08,7,23,NNE,Delay kurang dari 30 menit
+AirAsia,25,94,17,40,0,11,7,09,NNE,Delay kurang dari 30 menit
+Lion Air,25,93,17,70,0,18,7,38,NNE,Delay kurang dari 30 menit
+Citilink,25,96,17,70,0,06,6,99,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,25,90,17,88,0,05,6,53,NNE,Delay kurang dari 30 menit
+AirAsia,25,84,17,94,0,06,6,39,NNE,Delay kurang dari 30 menit
+Lion Air,25,98,18,13,0,07,7,07,NNE,Delay kurang dari 30 menit
+Citilink,25,99,18,25,0,07,6,79,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,25,97,18,37,0,08,6,57,NNE,Delay kurang dari 30 menit
+AirAsia,25,94,18,49,0,06,6,60,NNE,Delay kurang dari 30 menit
+Lion Air,25,85,17,40,0,02,6,69,NNE,Delay kurang dari 30 menit
+Citilink,25,91,17,33,0,02,6,89,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,25,90,17,33,0,02,6,99,NNE,Delay kurang dari 30 menit
+AirAsia,25,87,17,40,0,01,7,02,NNE,Delay kurang dari 30 menit
+Lion Air,25,94,17,94,0,03,7,84,NNE,Delay kurang dari 30 menit
+Citilink,26,01,18,19,0,07,7,68,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,25,96,18,49,0,13,7,74,NNE,Delay kurang dari 30 menit
+AirAsia,25,96,18,55,0,11,7,83,NNE,Delay lebih dari 30 menit
+Lion Air,25,85,17,52,0,03,7,80,NNE,Delay kurang dari 30 menit
+Citilink,25,91,17,52,0,06,7,82,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,25,89,17,58,0,07,7,71,NNE,Delay lebih dari 30 menit
+AirAsia,25,85,17,52,0,05,7,60,NNE,Delay kurang dari 30 menit
+Lion Air,25,73,17,82,0,06,6,26,NNE,Delay kurang dari 30 menit
+Citilink,25,89,17,94,0,03,5,89,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,25,89,18,07,0,06,6,10,NNE,Delay kurang dari 30 menit
+AirAsia,25,86,18,07,0,16,6,39,NNE,Delay lebih dari 30 menit
+Lion Air,25,79,18,13,0,22,6,37,NNE,Delay kurang dari 30 menit
+Citilink,25,96,18,19,0,17,6,41,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,25,96,18,25,0,11,6,27,NNE,Delay kurang dari 30 menit
+AirAsia,25,93,18,31,0,08,6,16,NNE,Delay kurang dari 30 menit
+Lion Air,25,90,17,70,0,01,5,26,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,10,17,82,0,01,4,75,NE,Delay kurang dari 30 menit
+AirAsia,26,13,17,88,0,01,4,52,NE,Delay kurang dari 30 menit
+Citilink,26,08,17,21,0,01,3,67,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,26,39,16,97,0,02,3,57,NNE,Delay kurang dari 30 menit
+AirAsia,26,49,16,91,0,01,3,53,NNE,Delay lebih dari 30 menit
+Citilink,25,94,17,82,0,01,4,09,N,Delay lebih dari 30 menit
+Garuda Indonesia,26,15,17,46,0,01,4,48,N,Delay kurang dari 30 menit
+AirAsia,26,18,17,27,0,01,4,50,N,Delay kurang dari 30 menit
+Lion Air,26,04,17,64,0,02,4,50,NNE,Delay kurang dari 30 menit
+Citilink,26,29,17,58,0,01,4,89,NNE,Delay kurang dari 30 menit
+AirAsia,26,61,17,33,0,01,5,21,NNE,Delay kurang dari 30 menit
+Lion Air,26,51,18,07,0,02,4,80,NNE,Delay kurang dari 30 menit
+Lion Air,26,51,18,07,0,02,4,80,NNE,Delay kurang dari 30 menit
+Citilink,26,60,18,07,0,01,5,33,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,59,17,88,0,01,5,59,NNE,Delay kurang dari 30 menit
+AirAsia,26,61,17,64,0,01,5,60,NNE,Delay kurang dari 30 menit
+Lion Air,26,12,17,33,0,00,6,07,NE,Delay kurang dari 30 menit
+Citilink,26,36,17,40,0,00,6,18,NE,Delay kurang dari 30 menit
+AirAsia,26,58,17,52,0,00,6,00,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,58,17,52,0,00,6,00,NE,Delay kurang dari 30 menit
+Citilink,26,30,17,40,0,01,4,45,NE,Delay kurang dari 30 menit
+AirAsia,26,54,17,40,0,01,4,00,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,53,17,46,0,01,3,77,NE,Delay kurang dari 30 menit
+Lion Air,26,18,17,82,0,02,3,51,NE,Delay kurang dari 30 menit
+Citilink,26,29,17,94,0,06,3,79,NE,Delay lebih dari 30 menit
+Garuda Indonesia,26,45,17,82,0,04,3,45,NE,Delay lebih dari 30 menit
+AirAsia,26,47,17,82,0,03,3,20,NE,Delay lebih dari 30 menit
+Lion Air,26,46,17,46,0,06,4,04,NE,Delay kurang dari 30 menit
+Citilink,26,57,17,46,0,20,3,94,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,67,17,52,0,19,3,94,NNE,Delay kurang dari 30 menit
+AirAsia,26,69,17,52,0,11,3,91,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,08,18,13,0,03,3,41,NE,Delay kurang dari 30 menit
+AirAsia,26,98,18,19,0,03,2,99,NE,Delay lebih dari 30 menit
+Lion Air,26,79,18,74,0,02,4,69,ENE,Delay kurang dari 30 menit
+Citilink,27,05,18,86,0,04,4,46,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,05,19,04,0,07,4,00,ENE,Delay kurang dari 30 menit
+AirAsia,27,01,19,10,0,09,3,81,NE,Delay kurang dari 30 menit
+Lion Air,27,29,18,98,0,04,6,32,NE,Delay lebih dari 30 menit
+Citilink,27,33,18,92,0,03,5,70,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,26,18,98,0,03,5,17,NE,Delay kurang dari 30 menit
+AirAsia,27,22,18,98,0,04,4,94,NE,Delay kurang dari 30 menit
+Lion Air,26,82,19,35,0,03,6,54,NE,Delay kurang dari 30 menit
+Citilink,26,85,19,35,0,03,6,38,NE,Delay kurang dari 30 menit
+AirAsia,26.9,19.29,0.03,6.51,NNW,Delay kurang dari 30 menit
+Citilink,27,00,19,53,0,06,7,15,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,98,19,65,0,07,7,18,NE,Delay kurang dari 30 menit
+AirAsia,26,97,19,65,0,11,7,27,NE,Delay kurang dari 30 menit
+Citilink,26,83,18,86,0,13,8,07,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,68,19,17,0,13,7,63,NE,Delay kurang dari 30 menit
+AirAsia,26,57,19,23,0,11,7,66,NE,Delay kurang dari 30 menit
+Lion Air,26,33,19,10,0,31,8,47,NNE,Delay lebih dari 30 menit
+Citilink,26,41,19,35,0,37,8,25,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,48,19,47,0,34,7,82,NNE,Delay kurang dari 30 menit
+AirAsia,26,45,19,59,0,36,7,26,NNE,Delay kurang dari 30 menit
+Citilink,26,21,19,96,0,70,7,29,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,11,19,84,1,10,7,40,NE,Delay kurang dari 30 menit
+AirAsia,26,12,19,84,1,17,7,13,NE,Delay kurang dari 30 menit
+Citilink,26,23,19,35,0,22,4,40,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,26,35,19,65,0,45,4,55,NE,Delay lebih dari 30 menit
+AirAsia,26,39,19,71,0,54,4,65,NE,Delay kurang dari 30 menit
+Lion Air,26,65,18,01,0,01,6,62,NE,Delay kurang dari 30 menit
+Citilink,26,71,18,13,0,00,6,19,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,71,18,43,0,01,5,58,NE,Delay kurang dari 30 menit
+AirAsia,26,66,18,80,0,02,5,18,NE,Delay kurang dari 30 menit
+Lion Air,26,63,19,23,0,09,4,97,NE,Delay kurang dari 30 menit
+Citilink,26,62,19,47,0,11,4,53,NNE,Delay kurang dari 30 menit
+AirAsia,26,45,19,78,0,30,4,88,NNE,Delay kurang dari 30 menit
+Lion Air,26,69,19,17,0,29,5,51,NE,Delay kurang dari 30 menit
+Citilink,26,73,19,35,0,94,5,18,NE,Delay kurang dari 30 menit
+AirAsia,26,42,19,41,0,70,3,93,NE,Delay kurang dari 30 menit
+Citilink,26,63,19,84,0,59,6,52,ENE,Delay kurang dari 30 menit
+AirAsia,26,47,19,53,0,57,6,42,ENE,Delay kurang dari 30 menit
+Lion Air,26,52,19,10,0,05,5,09,ENE,Delay kurang dari 30 menit
+Citilink,26,58,19,04,0,04,4,89,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,52,19,10,0,06,4,67,ENE,Delay kurang dari 30 menit
+AirAsia,26,52,19,10,0,06,4,67,ENE,Delay kurang dari 30 menit
+Lion Air,26,79,19,59,0,11,5,47,ENE,Delay kurang dari 30 menit
+Citilink,26,94,19,47,0,12,5,45,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,90,19,59,0,14,5,53,NE,Delay kurang dari 30 menit
+AirAsia,26,73,19,71,0,20,5,70,ENE,Delay kurang dari 30 menit
+Citilink,26,87,19,29,0,20,4,81,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,77,19,29,0,24,5,15,ENE,Delay kurang dari 30 menit
+Lion Air,26,57,18,80,0,03,4,48,ENE,Delay kurang dari 30 menit
+Citilink,26,76,18,86,0,04,4,51,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,80,18,98,0,05,4,62,ENE,Delay kurang dari 30 menit
+AirAsia,26,75,19,10,0,06,4,83,ENE,Delay kurang dari 30 menit
+Citilink,27,04,18,98,0,07,3,99,ENE,Delay kurang dari 30 menit
+AirAsia,27,08,18,74,0,04,3,60,ENE,Delay kurang dari 30 menit
+Lion Air,27,15,19,17,0,00,5,05,ENE,Delay kurang dari 30 menit
+Citilink,27,36,19,04,0,00,5,05,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,47,18,80,0,00,4,61,ENE,Delay kurang dari 30 menit
+AirAsia,27,44,18,80,0,01,4,73,ENE,Delay kurang dari 30 menit
+Lion Air,27,44,16,91,0,00,3,45,ENE,Delay kurang dari 30 menit
+Citilink,27,57,17,09,0,00,3,81,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,71,16,97,0,00,3,47,NE,Delay kurang dari 30 menit
+AirAsia,27,76,16,85,0,00,3,26,NE,Delay kurang dari 30 menit
+Citilink,27,30,18,13,0,00,4,17,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,39,17,94,0,00,3,74,NE,Delay kurang dari 30 menit
+AirAsia,27,42,17,76,0,00,3,23,ENE,Delay kurang dari 30 menit
+Lion Air,27,87,16,85,0,00,4,17,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,85,17,52,0,01,4,19,NE,Delay kurang dari 30 menit
+AirAsia,27,62,18,37,0,03,3,85,NE,Delay kurang dari 30 menit
+Citilink,26,96,18,86,0,13,6,07,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,85,18,80,0,26,5,99,NE,Delay kurang dari 30 menit
+AirAsia,26,85,18,80,0,26,5,99,NE,Delay kurang dari 30 menit
+Citilink,26,00,18,62,0,20,7,73,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,03,18,74,0,13,7,80,NNE,Delay kurang dari 30 menit
+AirAsia,26,11,18,49,0,14,8,78,NE,Delay kurang dari 30 menit
+Lion Air,26,55,18,98,0,68,9,11,NNE,Delay lebih dari 30 menit
+Citilink,26,57,19,35,1,20,9,60,NNE,Delay kurang dari 30 menit
+AirAsia,26,55,19,65,2,16,9,61,NNE,Delay kurang dari 30 menit
+Lion Air,26,93,19,10,0,18,8,31,NE,Delay lebih dari 30 menit
+Citilink,26,94,19,47,0,25,7,58,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,90,19,59,0,40,7,75,NE,Delay kurang dari 30 menit
+AirAsia,26,85,19,29,0,57,8,27,NE,Delay kurang dari 30 menit
+Lion Air,26,96,19,41,0,28,7,72,ENE,Delay kurang dari 30 menit
+Citilink,27,01,19,78,0,26,6,90,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,98,19,78,0,25,6,47,ENE,Delay kurang dari 30 menit
+AirAsia,26,95,19,71,0,21,6,44,NE,Delay kurang dari 30 menit
+Citilink,27,39,18,86,0,08,7,98,NE,Delay lebih dari 30 menit
+Garuda Indonesia,27,32,18,98,0,07,7,33,NE,Delay kurang dari 30 menit
+AirAsia,27,26,18,92,0,06,7,07,NE,Delay lebih dari 30 menit
+Citilink,27,44,18,92,0,07,6,31,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,40,19,35,0,08,5,60,NE,Delay kurang dari 30 menit
+AirAsia,27,34,19,59,0,09,4,98,NE,Delay kurang dari 30 menit
+Citilink,27,11,20,08,0,22,5,43,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,05,20,08,0,23,5,56,NNE,Delay kurang dari 30 menit
+AirAsia,26,98,20,02,0,23,5,83,NNE,Delay kurang dari 30 menit
+Citilink,27,21,19,65,0,41,5,93,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,04,19,53,0,37,6,38,NNE,Delay kurang dari 30 menit
+AirAsia,26,97,18,92,0,17,6,99,NNE,Delay kurang dari 30 menit
+Citilink,26,98,20,02,0,29,4,90,NNE,Delay kurang dari 30 menit
+AirAsia,26,94,20,39,0,54,4,94,NNE,Delay kurang dari 30 menit
+Citilink,26,97,20,26,0,89,4,20,ENE,Delay lebih dari 30 menit
+AirAsia,26,65,19,71,0,82,4,83,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,26,65,19,71,0,82,4,83,ENE,Delay lebih dari 30 menit
+Lion Air,26,44,18,92,0,08,3,64,E,Delay kurang dari 30 menit
+Citilink,26,59,18,86,0,05,3,28,E,Delay kurang dari 30 menit
+Garuda Indonesia,26,67,18,74,0,04,2,39,E,Delay kurang dari 30 menit
+AirAsia,26,67,18,74,0,04,2,39,E,Delay kurang dari 30 menit
+Lion Air,26,74,18,74,0,05,3,74,NE,Delay kurang dari 30 menit
+Citilink,26,92,18,92,0,08,4,03,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,98,19,17,0,18,4,23,NE,Delay kurang dari 30 menit
+AirAsia,27,02,19,41,0,25,4,21,NE,Delay kurang dari 30 menit
+Citilink,27,62,19,71,0,85,5,35,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,58,19,53,0,67,5,52,NE,Delay kurang dari 30 menit
+Lion Air,27,50,17,88,0,00,6,58,NE,Delay kurang dari 30 menit
+Citilink,27,73,17,88,0,00,6,48,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,83,18,07,0,00,6,56,NE,Delay lebih dari 30 menit
+AirAsia,27,83,18,31,0,00,6,61,NE,Delay kurang dari 30 menit
+Lion Air,27,30,17,58,0,02,5,64,NE,Delay kurang dari 30 menit
+Citilink,27,38,17,52,0,01,5,13,NE,Delay kurang dari 30 menit
+AirAsia,27,46,17,27,0,01,4,51,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,43,17,27,0,01,4,55,NE,Delay kurang dari 30 menit
+Lion Air,26,46,18,31,0,09,4,49,NNE,Delay kurang dari 30 menit
+Citilink,26,72,18,43,0,05,4,65,NNE,Delay kurang dari 30 menit
+AirAsia,27,08,18,55,0,02,4,85,N,Delay kurang dari 30 menit
+Lion Air,26,64,19,65,0,43,5,86,N,Delay kurang dari 30 menit
+Citilink,26,62,19,84,0,93,6,17,N,Delay kurang dari 30 menit
+Garuda Indonesia,26,57,20,02,2,10,6,67,N,Delay kurang dari 30 menit
+AirAsia,26,63,20,08,2,04,6,91,N,Delay kurang dari 30 menit
+Lion Air,27,18,20,69,0,26,6,20,ENE,Delay kurang dari 30 menit
+Citilink,27,22,20,51,0,16,5,90,E,Delay kurang dari 30 menit
+Garuda Indonesia,27,19,20,14,0,03,5,04,ESE,Delay lebih dari 30 menit
+AirAsia,27,19,20,14,0,03,5,04,ESE,Delay kurang dari 30 menit
+Lion Air,27,09,18,55,0,00,4,42,ESE,Delay lebih dari 30 menit
+Citilink,27,33,18,80,0,00,3,49,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,51,19,10,0,00,2,54,ENE,Delay kurang dari 30 menit
+AirAsia,27,53,19,78,0,01,2,00,NE,Delay kurang dari 30 menit
+Citilink,27,18,21,06,0,20,3,76,NE,Delay lebih dari 30 menit
+Garuda Indonesia,27,35,21,12,0,21,3,35,ENE,Delay kurang dari 30 menit
+AirAsia,27,38,21,18,0,25,3,08,ENE,Delay kurang dari 30 menit
+Citilink,27,18,19,96,0,10,2,67,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,30,19,90,0,16,2,84,NE,Delay lebih dari 30 menit
+AirAsia,27,37,19,96,0,10,3,54,ENE,Delay kurang dari 30 menit
+Citilink,27,48,20,08,0,11,4,28,NE,Delay lebih dari 30 menit
+Garuda Indonesia,27,83,20,02,0,13,4,10,NE,Delay lebih dari 30 menit
+AirAsia,27,84,19,96,0,09,4,01,NE,Delay kurang dari 30 menit
+Lion Air,27,95,19,59,0,19,2,56,E,Delay lebih dari 30 menit
+Citilink,27,94,19,53,0,23,1,60,ESE,Delay lebih dari 30 menit
+AirAsia,28,00,19,35,0,20,0,30,E,Delay kurang dari 30 menit
+Lion Air,27,71,19,10,0,14,2,01,E,Delay kurang dari 30 menit
+Citilink,27,81,19,29,0,14,2,55,E,Delay lebih dari 30 menit
+AirAsia,28,02,19,53,0,15,3,28,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,28,02,19,53,0,15,3,28,ENE,Delay kurang dari 30 menit
+Citilink,27,59,18,92,0,21,2,88,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,59,18,92,0,21,2,88,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,59,18,92,0,21,2,88,E,Delay lebih dari 30 menit
+AirAsia,27,83,19,35,0,24,3,77,E,Delay lebih dari 30 menit
+Lion Air,27,51,19,35,0,36,4,03,SSE,Delay kurang dari 30 menit
+Citilink,27,44,19,71,0,45,4,29,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,27,44,19,71,0,44,4,50,S,Delay kurang dari 30 menit
+AirAsia,27,47,19,17,0,33,3,52,S,Delay lebih dari 30 menit
+Lion Air,27,94,18,74,0,15,3,80,ESE,Delay kurang dari 30 menit
+Citilink,28,01,19,04,0,26,4,33,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,27,87,19,17,0,33,4,38,ESE,Delay kurang dari 30 menit
+AirAsia,27,84,19,10,0,31,4,08,ESE,Delay kurang dari 30 menit
+Lion Air,27,96,18,49,0,00,3,35,E,Delay lebih dari 30 menit
+Citilink,28,08,18,49,0,01,2,92,E,Delay kurang dari 30 menit
+Garuda Indonesia,28,19,18,55,0,01,2,66,E,Delay lebih dari 30 menit
+AirAsia,28,26,18,74,0,01,2,76,E,Delay lebih dari 30 menit
+Lion Air,27,79,18,92,0,04,2,33,ENE,Delay lebih dari 30 menit
+Citilink,27,93,19,29,0,02,3,17,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,03,19,47,0,03,3,69,ENE,Delay lebih dari 30 menit
+AirAsia,28,04,19,53,0,01,3,85,ENE,Delay lebih dari 30 menit
+Lion Air,28,00,19,78,0,07,3,73,E,Delay lebih dari 30 menit
+Citilink,27,98,19,90,0,07,3,87,E,Delay lebih dari 30 menit
+AirAsia,27,91,19,96,0,06,3,11,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,91,19,96,0,06,3,11,E,Delay lebih dari 30 menit
+Lion Air,27,81,19,78,0,02,3,82,ENE,Delay kurang dari 30 menit
+Citilink,27,84,19,96,0,02,3,83,ENE,Delay kurang dari 30 menit
+AirAsia,27,91,19,96,0,04,3,21,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,98,19,84,0,04,2,92,ENE,Delay lebih dari 30 menit
+Lion Air,28,03,18,13,0,00,1,98,ENE,Delay lebih dari 30 menit
+Citilink,28,21,18,13,0,01,1,85,NE,Delay kurang dari 30 menit
+AirAsia,28,29,18,19,0,01,1,77,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,28,30,18,55,0,02,2,02,N,Delay kurang dari 30 menit
+Lion Air,27,74,19,23,0,06,2,30,E,Delay kurang dari 30 menit
+Citilink,27,82,19,41,0,05,2,51,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,83,19,29,0,04,1,81,E,Delay lebih dari 30 menit
+AirAsia,27,75,19,10,0,07,1,23,NE,Delay kurang dari 30 menit
+Lion Air,28,43,19,65,0,10,4,08,NE,Delay kurang dari 30 menit
+Citilink,28,43,19,96,0,22,4,04,NE,Delay lebih dari 30 menit
+Garuda Indonesia,28,30,20,14,0,23,3,94,NE,Delay lebih dari 30 menit
+AirAsia,28,30,20,14,0,23,3,94,NE,Delay lebih dari 30 menit
+Citilink,27,94,19,47,0,18,2,92,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,92,19,17,0,08,2,16,ENE,Delay lebih dari 30 menit
+AirAsia,27,98,19,17,0,10,2,43,NNE,Delay kurang dari 30 menit
+Citilink,27,85,18,86,0,03,2,62,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,28,09,18,86,0,02,2,86,SE,Delay lebih dari 30 menit
+AirAsia,28,21,18,86,0,02,2,98,SE,Delay lebih dari 30 menit
+AirAsia,28,09,18,98,0,19,2,31,ENE,Delay kurang dari 30 menit
+Citilink,28,09,18,98,0,19,2,31,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,20,18,98,0,16,2,36,ENE,Delay lebih dari 30 menit
+AirAsia,28,24,19,59,0,31,2,95,ENE,Delay kurang dari 30 menit
+Citilink,28,24,19,59,0,31,2,95,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,30,19,65,0,26,3,00,ENE,Delay kurang dari 30 menit
+AirAsia,28,21,19,71,0,23,4,51,NE,Delay kurang dari 30 menit
+Citilink,28,21,19,71,0,23,4,51,NE,Delay kurang dari 30 menit
+Garuda Indonesia,28,20,19,71,0,30,4,26,NE,Delay lebih dari 30 menit
+AirAsia,27,71,18,92,0,18,2,94,NE,Delay kurang dari 30 menit
+Citilink,27,71,18,92,0,18,2,94,NE,Delay lebih dari 30 menit
+AirAsia,28,51,19,90,0,18,5,15,ENE,Delay kurang dari 30 menit
+Citilink,28,51,19,90,0,18,5,15,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,46,19,84,0,18,5,11,ENE,Delay kurang dari 30 menit
+Citilink,27,44,18,80,0,36,3,40,NE,Delay lebih dari 30 menit
+Garuda Indonesia,26,91,18,98,0,60,3,96,NNE,Delay kurang dari 30 menit
+AirAsia,26,93,18,62,0,65,3,18,N,Delay kurang dari 30 menit
+Citilink,26,93,18,62,0,65,3,18,N,Delay lebih dari 30 menit
+Garuda Indonesia,26,73,18,80,1,11,3,01,N,Delay kurang dari 30 menit
+AirAsia,26,98,18,80,1,43,5,39,NNE,Delay kurang dari 30 menit
+Citilink,26,98,18,80,1,43,5,39,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,26,92,18,55,0,43,5,74,NNE,Delay lebih dari 30 menit
+AirAsia,27,66,18,98,0,21,4,06,NE,Delay kurang dari 30 menit
+Citilink,27,66,18,98,0,21,4,06,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,84,18,86,0,21,4,24,NNE,Delay lebih dari 30 menit
+AirAsia,27,59,18,19,0,00,3,02,NE,Delay kurang dari 30 menit
+Citilink,27,59,18,19,0,00,3,02,NE,Delay lebih dari 30 menit
+Garuda Indonesia,27,65,18,19,0,00,2,80,NE,Delay kurang dari 30 menit
+Citilink,27,44,18,55,0,00,2,69,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,67,18,62,0,00,2,64,ENE,Delay kurang dari 30 menit
+Citilink,27,65,18,01,0,00,1,46,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,90,18,01,0,00,1,32,E,Delay kurang dari 30 menit
+AirAsia,27,93,18,43,0,01,1,13,SE,Delay kurang dari 30 menit
+Citilink,27,93,18,43,0,01,1,13,SE,Delay kurang dari 30 menit
+Garuda Indonesia,28,01,18,55,0,00,0,73,ESE,Delay lebih dari 30 menit
+Lion Air,28,41,19,41,0,10,1,68,S,Delay kurang dari 30 menit
+AirAsia,28,61,19,53,0,15,1,37,SSE,Delay kurang dari 30 menit
+Citilink,28,61,19,53,0,15,1,37,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,28,60,19,84,0,10,1,85,S,Delay kurang dari 30 menit
+Lion Air,28,18,20,45,0,16,2,33,SSE,Delay kurang dari 30 menit
+AirAsia,28,28,20,45,0,14,2,41,S,Delay lebih dari 30 menit
+Citilink,28,28,20,45,0,14,2,41,S,Delay kurang dari 30 menit
+Garuda Indonesia,28,55,20,39,0,15,2,72,SSW,Delay kurang dari 30 menit
+Lion Air,28,21,20,14,0,06,2,99,SE,Delay kurang dari 30 menit
+AirAsia,28,33,20,08,0,07,2,55,SE,Delay kurang dari 30 menit
+Citilink,28,33,20,08,0,07,2,55,SE,Delay kurang dari 30 menit
+Citilink,28,37,19,78,0,00,4,42,E,Delay kurang dari 30 menit
+Garuda Indonesia,28,59,19,53,0,01,3,28,ENE,Delay kurang dari 30 menit
+AirAsia,28,67,19,17,0,00,5,76,NE,Delay kurang dari 30 menit
+Citilink,28,67,19,17,0,00,5,76,NE,Delay lebih dari 30 menit
+Citilink,28,69,20,02,0,10,6,10,NE,Delay kurang dari 30 menit
+Garuda Indonesia,28,69,20,08,0,12,6,11,NE,Delay kurang dari 30 menit
+AirAsia,28,79,20,08,0,07,3,84,NE,Delay kurang dari 30 menit
+Citilink,28,79,20,08,0,07,3,84,NE,Delay lebih dari 30 menit
+Garuda Indonesia,29,01,20,14,0,13,4,12,NE,Delay lebih dari 30 menit
+Citilink,28,08,20,39,0,23,4,35,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,49,20,45,0,12,3,90,E,Delay kurang dari 30 menit
+Citilink,28,66,20,08,0,04,4,70,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,28,51,20,75,0,26,4,71,ENE,Delay lebih dari 30 menit
+Citilink,28,26,20,57,0,28,3,78,ENE,Delay lebih dari 30 menit
+AirAsia,28,38,20,51,0,32,3,40,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,28,39,20,45,0,28,3,28,ENE,Delay kurang dari 30 menit
+Citilink,28,69,20,45,0,31,3,36,E,Delay lebih dari 30 menit
+AirAsia,28,64,20,26,0,28,2,70,E,Delay kurang dari 30 menit
+Garuda Indonesia,28,55,20,14,0,27,2,48,E,Delay kurang dari 30 menit
+Batik Air,28,48,20,08,0,25,2,36,E,Delay kurang dari 30 menit
+Citilink,28,65,19,65,0,11,3,37,SE,Delay lebih dari 30 menit
+Garuda Indonesia,28,81,18,68,0,04,1,23,SE,Delay kurang dari 30 menit
+Citilink,28,92,19,53,0,01,2,70,SE,Delay kurang dari 30 menit
+AirAsia,29,02,19,41,0,04,2,10,SE,Delay lebih dari 30 menit
+Garuda Indonesia,29,08,19,29,0,03,1,69,SE,Delay kurang dari 30 menit
+Batik Air,29,07,19,23,0,06,1,31,SSE,Delay lebih dari 30 menit
+Citilink,28,91,18,98,0,03,1,81,NE,Delay lebih dari 30 menit
+AirAsia,29,01,19,17,0,01,2,14,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,29,11,19,17,0,01,2,13,E,Delay lebih dari 30 menit
+Batik Air,29,12,19,17,0,02,2,00,E,Delay kurang dari 30 menit
+Citilink,29,21,19,23,0,01,2,47,ESE,Delay lebih dari 30 menit
+AirAsia,29,30,19,23,0,03,2,54,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,29,26,19,10,0,02,2,48,ESE,Delay kurang dari 30 menit
+Batik Air,29,26,18,98,0,03,2,31,ESE,Delay lebih dari 30 menit
+Lion Air,28,19,18,43,0,82,0,79,E,Delay lebih dari 30 menit
+Citilink,27,74,18,49,0,98,0,69,E,Delay lebih dari 30 menit
+AirAsia,27,48,18,43,0,97,0,28,S,Delay lebih dari 30 menit
+Garuda Indonesia,27,41,18,37,1,05,0,06,NE,Delay kurang dari 30 menit
+Batik Air,27,31,18,37,0,93,0,19,NW,Delay lebih dari 30 menit
+Lion Air,28,33,19,17,0,06,2,48,ESE,Delay kurang dari 30 menit
+Citilink,28,55,19,47,0,06,2,86,SE,Delay lebih dari 30 menit
+AirAsia,28,91,19,53,0,04,2,96,SE,Delay lebih dari 30 menit
+Batik Air,28,96,19,47,0,02,2,82,SE,Delay kurang dari 30 menit
+Lion Air,28,93,20,08,0,06,3,56,SSE,Delay kurang dari 30 menit
+Citilink,29,06,20,26,0,04,3,77,SSE,Delay kurang dari 30 menit
+AirAsia,29,17,20,08,0,07,2,86,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,29,19,20,02,0,10,2,61,S,Delay lebih dari 30 menit
+Batik Air,29,19,20,02,0,10,2,61,S,Delay lebih dari 30 menit
+Lion Air,28,78,20,63,0,11,3,80,SE,Delay kurang dari 30 menit
+Citilink,28,77,20,81,0,19,4,01,SE,Delay lebih dari 30 menit
+AirAsia,28,83,20,81,0,16,3,84,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,28,83,20,81,0,16,3,72,SSE,Delay kurang dari 30 menit
+Batik Air,28,78,20,81,0,21,3,58,SSE,Delay lebih dari 30 menit
+Lion Air,28,62,20,14,0,26,2,01,SE,Delay kurang dari 30 menit
+Lion Air,28,62,20,14,0,26,2,01,SE,Delay kurang dari 30 menit
+Citilink,28,58,20,14,0,27,1,92,SE,Delay kurang dari 30 menit
+AirAsia,28,58,20,02,0,24,1,89,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,28,61,19,96,0,26,1,91,SE,Delay kurang dari 30 menit
+Batik Air,28,54,19,84,0,21,1,84,SE,Delay lebih dari 30 menit
+Lion Air,28,62,19,29,0,06,2,92,E,Delay kurang dari 30 menit
+Citilink,28,75,19,10,0,05,2,77,ESE,Delay kurang dari 30 menit
+AirAsia,28,77,19,04,0,06,2,63,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,28,65,18,80,0,15,1,94,ESE,Delay kurang dari 30 menit
+Batik Air,28,44,18,49,0,28,1,02,E,Delay kurang dari 30 menit
+Citilink,28,26,19,10,0,02,3,08,ENE,Delay lebih dari 30 menit
+AirAsia,28,47,19,29,0,01,3,03,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,28,63,19,35,0,01,2,93,ENE,Delay lebih dari 30 menit
+Lion Air,28,79,19,96,0,05,2,54,ESE,Delay kurang dari 30 menit
+Citilink,28,94,19,84,0,04,2,41,E,Delay kurang dari 30 menit
+AirAsia,29,22,20,08,0,04,2,90,E,Delay lebih dari 30 menit
+Garuda Indonesia,29,29,20,20,0,05,3,18,E,Delay lebih dari 30 menit
+Batik Air,29,42,20,32,0,07,3,43,ENE,Delay lebih dari 30 menit
+Lion Air,29,33,20,69,0,10,4,39,NE,Delay kurang dari 30 menit
+Citilink,29,37,20,63,0,09,3,69,NE,Delay lebih dari 30 menit
+AirAsia,29,37,20,63,0,09,3,69,NE,Delay lebih dari 30 menit
+Batik Air,29,28,21,36,0,27,3,70,NE,Delay lebih dari 30 menit
+Lion Air,28,98,20,51,0,33,3,06,ESE,Delay kurang dari 30 menit
+Citilink,28,99,20,39,0,37,2,73,ESE,Delay lebih dari 30 menit
+AirAsia,28,87,20,26,0,28,3,06,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,28,80,19,96,0,22,3,14,ESE,Delay kurang dari 30 menit
+Batik Air,28,76,19,65,0,26,3,18,ESE,Delay lebih dari 30 menit
+Lion Air,28,95,20,94,0,28,4,18,E,Delay kurang dari 30 menit
+Citilink,28,69,21,06,0,49,4,10,E,Delay lebih dari 30 menit
+AirAsia,28,63,20,75,0,21,3,75,E,Delay kurang dari 30 menit
+Garuda Indonesia,28,76,20,51,0,10,3,69,E,Delay kurang dari 30 menit
+Batik Air,28,94,20,39,0,08,3,80,E,Delay lebih dari 30 menit
+Lion Air,28,62,19,35,0,03,3,10,E,Delay lebih dari 30 menit
+Garuda Indonesia,28,83,20,32,0,14,3,21,E,Delay lebih dari 30 menit
+Citilink,28,83,20,32,0,14,3,21,E,Delay kurang dari 30 menit
+AirAsia,28,94,20,94,0,28,3,28,ENE,Delay lebih dari 30 menit
+Batik Air,29,08,21,24,0,28,3,44,ENE,Delay lebih dari 30 menit
+Lion Air,29,64,20,51,0,34,1,30,ESE,Delay kurang dari 30 menit
+Citilink,29,65,20,51,0,30,1,48,SSE,Delay lebih dari 30 menit
+AirAsia,29,73,20,39,0,29,0,71,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,76,20,26,0,22,0,20,E,Delay lebih dari 30 menit
+Batik Air,29,72,20,32,0,19,0,80,NE,Delay lebih dari 30 menit
+Lion Air,29,30,19,90,0,19,0,69,SW,Delay lebih dari 30 menit
+Citilink,29,33,20,08,0,21,1,15,WSW,Delay lebih dari 30 menit
+AirAsia,29,36,20,20,0,28,1,19,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,31,20,20,0,27,1,18,SW,Delay kurang dari 30 menit
+Citilink,28,21,17,94,0,01,2,00,SSW,Delay lebih dari 30 menit
+AirAsia,28,58,17,70,0,00,1,70,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,74,17,64,0,00,1,66,SSW,Delay kurang dari 30 menit
+Lion Air,28,94,19,29,0,05,1,39,S,Delay kurang dari 30 menit
+Citilink,28,95,19,47,0,03,1,67,SSE,Delay lebih dari 30 menit
+AirAsia,29,08,19,78,0,03,2,12,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,29,12,19,84,0,06,2,06,SSE,Delay lebih dari 30 menit
+Lion Air,29,19,19,90,0,11,2,00,SSE,Delay kurang dari 30 menit
+Citilink,29,31,19,90,0,08,2,09,SSE,Delay lebih dari 30 menit
+AirAsia,29,42,20,14,0,09,2,54,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,42,20,32,0,08,2,89,SSW,Delay kurang dari 30 menit
+Batik Air,29,50,20,45,0,09,3,15,SW,Delay lebih dari 30 menit
+Lion Air,29,85,20,02,0,14,2,52,SW,Delay kurang dari 30 menit
+Citilink,29,94,20,02,0,19,2,60,SW,Delay kurang dari 30 menit
+AirAsia,30,02,20,26,0,19,2,95,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,30,01,20,39,0,20,3,18,SSW,Delay kurang dari 30 menit
+Batik Air,29,99,20,45,0,20,3,30,SSW,Delay lebih dari 30 menit
+Lion Air,28,83,21,61,0,62,5,55,SW,Delay kurang dari 30 menit
+Citilink,28,83,21,06,0,34,5,68,SW,Delay lebih dari 30 menit
+AirAsia,29,04,19,78,0,07,4,79,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,19,19,10,0,02,4,31,SSW,Delay lebih dari 30 menit
+Batik Air,29,38,18,62,0,00,4,03,SSW,Delay lebih dari 30 menit
+Citilink,29,57,20,69,0,40,3,01,SSW,Delay lebih dari 30 menit
+AirAsia,29,55,20,57,0,52,2,71,SW,Delay kurang dari 30 menit
+Garuda Indonesia,29,46,20,39,0,55,2,38,SW,Delay kurang dari 30 menit
+Batik Air,29,35,20,26,0,57,2,32,WSW,Delay lebih dari 30 menit
+Citilink,28,88,20,08,0,47,2,25,W,Delay lebih dari 30 menit
+AirAsia,28,80,20,26,0,47,3,04,WNW,Delay kurang dari 30 menit
+Garuda Indonesia,28,76,20,26,0,46,3,46,WNW,Delay kurang dari 30 menit
+Batik Air,28,73,20,14,0,39,3,77,WNW,Delay lebih dari 30 menit
+Citilink,28,76,18,07,0,09,0,70,W,Delay lebih dari 30 menit
+AirAsia,28,96,18,55,0,06,1,77,W,Delay lebih dari 30 menit
+Garuda Indonesia,29,05,18,92,0,05,2,38,W,Delay lebih dari 30 menit
+Batik Air,29,12,19,29,0,06,2,93,W,Delay lebih dari 30 menit
+Citilink,29,22,20,32,0,23,3,35,SSW,Delay lebih dari 30 menit
+AirAsia,29,23,20,26,0,29,3,15,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,18,20,26,0,32,3,08,SSW,Delay kurang dari 30 menit
+Citilink,28,27,20,51,0,98,5,04,SSW,Delay lebih dari 30 menit
+AirAsia,28,33,20,69,1,04,5,17,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,46,20,51,1,03,5,12,S,Delay kurang dari 30 menit
+Citilink,29,16,20,32,0,09,3,60,S,Delay lebih dari 30 menit
+AirAsia,29,26,20,14,0,07,2,69,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,25,20,02,0,08,2,21,S,Delay lebih dari 30 menit
+Citilink,29,19,21,00,0,07,3,22,SE,Delay lebih dari 30 menit
+Garuda Indonesia,29,29,21,12,0,17,2,99,SE,Delay kurang dari 30 menit
+Citilink,29,00,19,84,0,04,1,81,WSW,Delay lebih dari 30 menit
+AirAsia,29,31,20,32,0,06,3,08,W,Delay lebih dari 30 menit
+Garuda Indonesia,29,41,20,63,0,08,3,58,W,Delay lebih dari 30 menit
+Lion Air,29,94,20,32,0,04,5,27,W,Delay kurang dari 30 menit
+Citilink,30,05,21,00,0,19,5,42,W,Delay kurang dari 30 menit
+Garuda Indonesia,30,24,21,24,0,39,5,33,W,Delay lebih dari 30 menit
+Citilink,29,26,21,36,1,53,6,33,SW,Delay kurang dari 30 menit
+AirAsia,29,08,20,63,0,65,7,04,SW,Delay kurang dari 30 menit
+Garuda Indonesia,29,08,20,63,0,65,7,04,SW,Delay kurang dari 30 menit
+Citilink,29,84,20,20,0,07,5,71,SSW,Delay lebih dari 30 menit
+AirAsia,29,82,20,45,0,13,5,98,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,81,20,51,0,14,6,16,SW,Delay lebih dari 30 menit
+Citilink,29,37,19,90,0,37,3,30,SW,Delay lebih dari 30 menit
+AirAsia,29,29,19,84,0,28,3,01,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,23,19,84,0,23,2,91,SSW,Delay kurang dari 30 menit
+Citilink,29,19,20,57,0,45,5,34,SW,Delay kurang dari 30 menit
+AirAsia,29,25,20,26,0,17,4,88,SW,Delay kurang dari 30 menit
+Garuda Indonesia,29,23,19,96,0,10,4,39,SW,Delay kurang dari 30 menit
+Citilink,29,11,20,45,0,25,3,28,SW,Delay kurang dari 30 menit
+AirAsia,29,19,20,32,0,25,3,32,SW,Delay lebih dari 30 menit
+Garuda Indonesia,29,24,20,26,0,17,3,36,SW,Delay kurang dari 30 menit
+Lion Air,29,08,19,84,0,05,2,82,SSE,Delay kurang dari 30 menit
+Citilink,29,18,19,84,0,04,3,12,SE,Delay lebih dari 30 menit
+Garuda Indonesia,29,33,19,53,0,03,2,59,SSE,Delay kurang dari 30 menit
+AirAsia,29,33,19,53,0,03,2,59,SSE,Delay lebih dari 30 menit
+Lion Air,29,31,19,71,0,25,2,07,SW,Delay lebih dari 30 menit
+Citilink,29,21,19,59,0,37,1,56,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,11,19,65,0,42,1,34,SSW,Delay kurang dari 30 menit
+Lion Air,28,32,19,59,0,22,3,08,SSW,Delay kurang dari 30 menit
+Citilink,28,53,19,65,0,16,3,27,S,Delay kurang dari 30 menit
+Garuda Indonesia,28,70,19,78,0,22,3,59,S,Delay kurang dari 30 menit
+AirAsia,28,70,19,78,0,22,3,59,S,Delay lebih dari 30 menit
+Citilink,28,71,19,96,0,44,3,34,SSW,Delay kurang dari 30 menit
+AirAsia,28,51,19,71,0,51,2,95,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,42,19,53,0,42,2,78,SSW,Delay kurang dari 30 menit
+Lion Air,28,80,18,25,0,03,2,22,SW,Delay kurang dari 30 menit
+Citilink,28,90,18,92,0,05,2,90,SW,Delay lebih dari 30 menit
+AirAsia,28,83,19,10,0,05,3,13,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,86,19,17,0,08,3,18,WSW,Delay kurang dari 30 menit
+Citilink,28,96,19,47,0,06,3,45,SSW,Delay lebih dari 30 menit
+AirAsia,29,18,19,53,0,08,3,26,SW,Delay kurang dari 30 menit
+Garuda Indonesia,29,26,19,53,0,10,3,04,SW,Delay kurang dari 30 menit
+Lion Air,29,25,18,43,0,01,3,83,WSW,Delay kurang dari 30 menit
+Citilink,29,37,18,13,0,01,3,26,WSW,Delay lebih dari 30 menit
+AirAsia,29,50,18,31,0,02,3,13,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,51,18,43,0,03,3,19,WSW,Delay kurang dari 30 menit
+Citilink,28,17,18,25,0,01,2,05,WNW,Delay lebih dari 30 menit
+AirAsia,28,36,17,94,0,00,2,11,W,Delay lebih dari 30 menit
+Garuda Indonesia,28,49,17,88,0,00,2,31,W,Delay lebih dari 30 menit
+Citilink,29,55,19,65,0,16,1,83,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,59,19,84,0,19,2,18,SW,Delay kurang dari 30 menit
+Citilink,29,26,19,90,0,13,3,18,SSW,Delay kurang dari 30 menit
+AirAsia,29,36,19,90,0,19,3,12,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,42,19,90,0,16,3,20,SW,Delay lebih dari 30 menit
+Lion Air,28,75,18,49,0,16,0,80,S,Delay kurang dari 30 menit
+Citilink,28,78,18,43,0,17,1,24,S,Delay lebih dari 30 menit
+AirAsia,28,76,18,37,0,17,1,51,S,Delay kurang dari 30 menit
+Garuda Indonesia,28,68,18,31,0,17,1,56,S,Delay kurang dari 30 menit
+Citilink,29,07,18,98,0,25,2,76,S,Delay kurang dari 30 menit
+AirAsia,29,13,18,98,0,29,2,48,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,10,18,92,0,24,2,38,S,Delay kurang dari 30 menit
+Citilink,29,18,19,41,0,28,1,72,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,14,18,92,0,25,1,30,S,Delay kurang dari 30 menit
+Citilink,31,12,20,26,0,14,3,67,SSE,Delay lebih dari 30 menit
+AirAsia,31,22,20,69,0,27,3,22,SSE,Delay kurang dari 30 menit
+Garuda Indonesia,31,27,20,94,0,32,3,07,SSE,Delay lebih dari 30 menit
+Citilink,29,62,19,23,0,05,2,85,S,Delay lebih dari 30 menit
+AirAsia,29,61,19,10,0,06,2,68,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,67,19,23,0,05,2,78,S,Delay kurang dari 30 menit
+Lion Air,29,10,18,13,0,06,1,29,W,Delay kurang dari 30 menit
+Citilink,29,26,18,43,0,08,1,89,NNW,Delay lebih dari 30 menit
+AirAsia,29,31,18,80,0,16,2,32,NNW,Delay kurang dari 30 menit
+Garuda Indonesia,29,27,18,86,0,17,2,33,N,Delay kurang dari 30 menit
+Citilink,28,78,17,70,0,12,1,65,ENE,Delay lebih dari 30 menit
+AirAsia,28,96,17,64,0,08,1,39,E,Delay lebih dari 30 menit
+Garuda Indonesia,29,00,17,58,0,08,1,22,E,Delay kurang dari 30 menit
+Lion Air,29,37,18,37,0,07,2,64,SW,Delay kurang dari 30 menit
+Citilink,29,42,18,55,0,15,2,67,SSW,Delay lebih dari 30 menit
+AirAsia,29,33,18,86,0,17,2,79,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,26,18,98,0,14,2,84,SSW,Delay kurang dari 30 menit
+Citilink,31,00,17,94,0,06,1,88,SSW,Delay lebih dari 30 menit
+AirAsia,31,39,17,94,0,11,1,59,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,31,48,18,13,0,11,1,76,SSW,Delay kurang dari 30 menit
+Citilink,29,35,19,59,0,08,3,24,SW,Delay lebih dari 30 menit
+AirAsia,29,34,20,02,0,10,3,84,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,23,20,08,0,11,3,96,SSW,Delay kurang dari 30 menit
+Citilink,29,48,21,06,0,29,4,68,SSW,Delay lebih dari 30 menit
+AirAsia,29,40,21,24,0,40,4,87,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,36,21,30,0,47,4,99,SSW,Delay lebih dari 30 menit
+Citilink,31,66,18,43,0,69,1,56,WNW,Delay kurang dari 30 menit
+AirAsia,31,01,19,78,0,83,3,13,NW,Delay kurang dari 30 menit
+Garuda Indonesia,30,74,20,57,2,62,4,45,NNW,Delay lebih dari 30 menit
+Lion Air,27,76,17,27,0,13,2,26,SSW,Delay kurang dari 30 menit
+Citilink,28,77,16,85,0,03,1,76,S,Delay lebih dari 30 menit
+AirAsia,28,94,16,97,0,04,1,79,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,97,17,09,0,06,1,86,SW,Delay lebih dari 30 menit
+Lion Air,28,50,17,76,0,17,0,77,W,Delay kurang dari 30 menit
+Citilink,28,55,17,40,0,13,0,40,SW,Delay lebih dari 30 menit
+AirAsia,28,51,17,40,0,18,0,47,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,55,17,46,0,21,0,87,W,Delay kurang dari 30 menit
+Lion Air,28,12,19,78,0,45,3,37,SSW,Delay kurang dari 30 menit
+Citilink,28,19,19,90,0,47,3,83,SSW,Delay lebih dari 30 menit
+AirAsia,28,19,19,96,0,49,4,00,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,18,20,02,0,41,4,20,SSW,Delay lebih dari 30 menit
+Lion Air,28,45,19,29,0,43,2,03,WSW,Delay kurang dari 30 menit
+Citilink,28,73,19,04,0,19,1,80,WSW,Delay lebih dari 30 menit
+AirAsia,28,80,18,86,0,18,1,58,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,92,18,74,0,15,1,43,SW,Delay lebih dari 30 menit
+Lion Air,28,91,18,98,0,03,1,88,SSW,Delay kurang dari 30 menit
+Citilink,29,05,19,29,0,02,2,41,S,Delay lebih dari 30 menit
+AirAsia,29,12,19,41,0,01,2,50,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,15,19,41,0,02,2,49,S,Delay lebih dari 30 menit
+Citilink,29,69,18,49,0,03,2,31,NW,Delay kurang dari 30 menit
+AirAsia,29,87,18,86,0,05,2,53,NW,Delay kurang dari 30 menit
+Garuda Indonesia,29,94,19,10,0,02,3,24,WNW,Delay lebih dari 30 menit
+Lion Air,29,12,19,65,0,20,2,69,SSW,Delay lebih dari 30 menit
+Citilink,29,45,19,96,0,24,2,86,SSW,Delay lebih dari 30 menit
+AirAsia,29,58,20,14,0,30,3,13,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,61,20,26,0,29,3,36,SSW,Delay lebih dari 30 menit
+Lion Air,30,08,20,94,0,26,6,97,SW,Delay kurang dari 30 menit
+AirAsia,30,10,21,30,0,52,7,64,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,98,21,30,0,72,7,98,SSW,Delay lebih dari 30 menit
+Lion Air,29,62,20,45,0,38,6,45,SSW,Delay kurang dari 30 menit
+Citilink,29,70,20,45,0,30,6,64,SSW,Delay lebih dari 30 menit
+AirAsia,29,70,20,45,0,33,6,55,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,67,20,45,0,29,6,41,SSW,Delay lebih dari 30 menit
+Lion Air,29,30,20,75,0,37,6,00,SSW,Delay kurang dari 30 menit
+Citilink,29,35,20,63,0,31,6,90,SSW,Delay lebih dari 30 menit
+AirAsia,29,34,20,51,0,14,6,94,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,42,20,32,0,04,6,77,SSW,Delay lebih dari 30 menit
+Lion Air,29,23,21,12,0,21,6,29,S,Delay kurang dari 30 menit
+Citilink,29,36,21,18,0,11,5,86,S,Delay lebih dari 30 menit
+AirAsia,29,38,21,12,0,11,5,68,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,52,21,00,0,09,5,51,S,Delay lebih dari 30 menit
+Lion Air,30,12,22,28,0,63,1,00,SSW,Delay kurang dari 30 menit
+Citilink,29,80,22,03,0,65,1,02,SW,Delay lebih dari 30 menit
+AirAsia,29,70,22,09,0,59,1,60,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,62,22,40,0,47,3,36,SW,Delay kurang dari 30 menit
+Lion Air,28,59,20,57,0,49,5,89,WSW,Delay kurang dari 30 menit
+Citilink,28,71,20,39,0,21,4,89,W,Delay lebih dari 30 menit
+AirAsia,28,68,20,39,0,23,4,61,W,Delay lebih dari 30 menit
+Garuda Indonesia,28,65,20,39,0,24,4,28,W,Delay kurang dari 30 menit
+Lion Air,29,83,19,96,0,06,6,18,SE,Delay kurang dari 30 menit
+AirAsia,30,07,19,47,0,02,5,40,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,30,14,19,59,0,03,5,37,SSE,Delay lebih dari 30 menit
+Citilink,30,26,19,78,0,06,5,51,SSE,Delay lebih dari 30 menit
+Lion Air,29,71,20,02,0,07,4,45,SW,Delay kurang dari 30 menit
+Garuda Indonesia,30,08,20,63,0,08,5,16,SW,Delay kurang dari 30 menit
+AirAsia,30,55,20,32,0,09,4,75,SW,Delay kurang dari 30 menit
+Lion Air,29,74,20,75,0,83,2,42,WSW,Delay kurang dari 30 menit
+Citilink,29,09,20,81,0,98,2,43,SSW,Delay lebih dari 30 menit
+AirAsia,28,99,21,06,0,78,3,05,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,92,21,12,0,75,3,49,SSW,Delay kurang dari 30 menit
+Lion Air,29,16,19,53,0,10,5,32,SSW,Delay kurang dari 30 menit
+Citilink,29,12,19,71,0,10,6,04,SSW,Delay kurang dari 30 menit
+AirAsia,29,14,19,65,0,11,5,84,SW,Delay lebih dari 30 menit
+Garuda Indonesia,29,24,19,59,0,12,5,58,SW,Delay kurang dari 30 menit
+Lion Air,27,95,20,08,0,52,4,51,WSW,Delay kurang dari 30 menit
+Citilink,27,91,19,84,0,61,4,08,WSW,Delay kurang dari 30 menit
+AirAsia,27,80,19,65,0,68,3,80,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,27,72,19,53,0,65,3,64,WSW,Delay lebih dari 30 menit
+Lion Air,27,91,19,59,1,20,5,53,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,82,19,84,1,70,6,04,SW,Delay kurang dari 30 menit
+AirAsia,27,91,20,08,1,93,6,37,SW,Delay kurang dari 30 menit
+Lion Air,29,01,19,65,0,18,8,00,WSW,Delay kurang dari 30 menit
+AirAsia,29,38,19,84,0,07,7,66,W,Delay kurang dari 30 menit
+Garuda Indonesia,29,44,19,78,0,09,7,80,W,Delay kurang dari 30 menit
+Lion Air,28,95,19,84,0,19,8,90,WSW,Delay kurang dari 30 menit
+AirAsia,29,44,19,78,0,18,7,20,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,58,19,71,0,11,7,00,WSW,Delay kurang dari 30 menit
+Lion Air,28,98,19,84,0,25,5,68,WSW,Delay kurang dari 30 menit
+AirAsia,28,86,20,14,0,36,6,01,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,78,20,14,0,28,5,82,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,78,20,14,0,28,5,82,SW,Delay kurang dari 30 menit
+Citilink,28,78,20,14,0,28,5,82,SW,Delay kurang dari 30 menit
+Lion Air,28,83,19,84,0,18,4,55,SSW,Delay kurang dari 30 menit
+AirAsia,29,02,20,32,0,28,4,93,SSW,Delay kurang dari 30 menit
+Citilink,29,08,20,39,0,24,4,94,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,19,20,39,0,18,4,84,SSW,Delay kurang dari 30 menit
+Lion Air,29,33,20,63,0,15,3,84,S,Delay kurang dari 30 menit
+AirAsia,29,44,21,48,0,38,4,69,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,45,21,55,0,38,4,81,S,Delay lebih dari 30 menit
+Citilink,29,49,21,30,0,35,4,94,S,Delay kurang dari 30 menit
+Lion Air,28,55,20,20,0,48,4,43,S,Delay kurang dari 30 menit
+AirAsia,28,73,19,84,0,19,4,67,S,Delay kurang dari 30 menit
+Garuda Indonesia,28,83,19,78,0,13,4,54,S,Delay kurang dari 30 menit
+Citilink,28,84,19,65,0,10,4,39,S,Delay kurang dari 30 menit
+Citilink,28,26,19,90,0,11,3,16,SSE,Delay lebih dari 30 menit
+AirAsia,28,40,20,20,0,10,3,25,S,Delay kurang dari 30 menit
+Garuda Indonesia,28,43,20,32,0,15,3,19,S,Delay lebih dari 30 menit
+Lion Air,28,47,20,51,0,39,3,94,SSW,Delay kurang dari 30 menit
+Citilink,28,79,20,81,0,27,4,83,SSW,Delay lebih dari 30 menit
+AirAsia,28,85,20,81,0,32,4,82,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,92,20,87,0,31,4,75,SSW,Delay kurang dari 30 menit
+Lion Air,28,13,20,32,0,61,4,22,SSW,Delay kurang dari 30 menit
+Citilink,28,12,20,39,0,67,4,15,SW,Delay lebih dari 30 menit
+AirAsia,28,10,20,45,0,71,4,15,SW,Delay kurang dari 30 menit
+Garuda Indonesia,28,05,20,51,0,76,4,17,SW,Delay lebih dari 30 menit
+Lion Air,28,56,18,74,0,19,0,27,NNE,Delay kurang dari 30 menit
+Citilink,29,34,17,94,0,12,0,07,W,Delay kurang dari 30 menit
+AirAsia,29,55,17,82,0,09,0,58,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,80,17,82,0,04,1,26,WSW,Delay kurang dari 30 menit
+Lion Air,29,11,18,92,0,06,2,14,N,Delay kurang dari 30 menit
+AirAsia,29,06,19,35,0,07,2,70,NNE,Delay kurang dari 30 menit
+Citilink,29,10,19,41,0,09,2,78,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,29,07,19,47,0,10,2,89,NNE,Delay lebih dari 30 menit
+Lion Air,29,41,18,80,0,02,2,51,ENE,Delay kurang dari 30 menit
+Citilink,29,52,18,31,0,02,1,75,NNE,Delay lebih dari 30 menit
+AirAsia,29,57,18,37,0,01,1,88,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,29,54,18,55,0,02,2,02,NNE,Delay kurang dari 30 menit
+Lion Air,29,07,19,04,0,05,2,87,NE,Delay kurang dari 30 menit
+Citilink,28,94,19,41,0,08,3,72,ENE,Delay lebih dari 30 menit
+AirAsia,28,98,19,41,0,06,3,79,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,29,02,19,35,0,04,3,69,ENE,Delay lebih dari 30 menit
+Lion Air,28,71,18,98,0,06,2,45,ESE,Delay kurang dari 30 menit
+Citilink,28,89,18,80,0,02,2,16,ESE,Delay kurang dari 30 menit
+AirAsia,28,94,18,74,0,02,2,10,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,29,01,18,68,0,02,2,01,SE,Delay kurang dari 30 menit
+Lion Air,27,90,19,96,0,37,3,92,S,Delay kurang dari 30 menit
+AirAsia,27,69,20,20,0,69,4,58,SSE,Delay kurang dari 30 menit
+Garuda Indonesia,27,68,20,20,0,72,4,49,SSE,Delay kurang dari 30 menit
+Lion Air,28,62,18,43,0,09,2,91,SSW,Delay kurang dari 30 menit
+Citilink,29,00,18,80,0,11,3,25,S,Delay lebih dari 30 menit
+AirAsia,29,05,19,10,0,11,3,59,SSE,Delay kurang dari 30 menit
+Garuda Indonesia,29,12,19,35,0,10,3,77,SSE,Delay kurang dari 30 menit
+Lion Air,29,30,19,84,0,05,4,00,S,Delay kurang dari 30 menit
+Citilink,29,35,20,20,0,11,4,18,S,Delay kurang dari 30 menit
+AirAsia,29,31,20,39,0,17,4,09,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,32,20,45,0,16,3,98,S,Delay kurang dari 30 menit
+Lion Air,29,07,19,90,0,09,3,36,S,Delay kurang dari 30 menit
+Citilink,29,15,20,02,0,06,4,26,S,Delay lebih dari 30 menit
+AirAsia,29,12,20,20,0,08,4,46,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,12,20,32,0,13,4,49,S,Delay lebih dari 30 menit
+Lion Air,29,16,20,45,0,17,4,76,SSW,Delay kurang dari 30 menit
+Citilink,29,15,21,00,0,35,5,74,SSW,Delay kurang dari 30 menit
+AirAsia,29,24,20,94,0,37,5,94,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,32,20,81,0,35,6,13,SSW,Delay kurang dari 30 menit
+Lion Air,29,29,20,94,0,48,5,77,SW,Delay kurang dari 30 menit
+Citilink,28,94,21,12,1,04,4,85,WSW,Delay kurang dari 30 menit
+AirAsia,28,79,21,06,1,18,4,68,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,55,20,94,1,22,4,43,WSW,Delay lebih dari 30 menit
+Citilink,28,88,18,74,0,01,2,62,SSW,Delay lebih dari 30 menit
+AirAsia,29,15,18,74,0,01,2,59,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,20,18,74,0,03,2,50,SSW,Delay kurang dari 30 menit
+Citilink,28,57,17,76,0,06,0,54,ENE,Delay kurang dari 30 menit
+AirAsia,28,88,17,52,0,09,0,15,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,28,95,17,46,0,16,0,06,SE,Delay kurang dari 30 menit
+Lion Air,27,87,19,47,0,77,2,21,SSW,Delay kurang dari 30 menit
+Citilink,28,01,19,65,0,84,2,49,SW,Delay kurang dari 30 menit
+AirAsia,28,26,19,71,0,70,2,56,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,35,19,71,0,90,2,57,W,Delay kurang dari 30 menit
+Citilink,28,38,19,96,0,55,7,01,WSW,Delay kurang dari 30 menit
+AirAsia,28,40,20,02,0,52,7,27,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,34,19,96,0,46,7,30,WSW,Delay kurang dari 30 menit
+Lion Air,28,67,19,47,0,09,5,35,W,Delay kurang dari 30 menit
+Citilink,28,65,19,41,0,21,4,59,WSW,Delay lebih dari 30 menit
+AirAsia,28,57,19,41,0,48,4,26,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,31,19,59,0,60,4,68,SW,Delay kurang dari 30 menit
+Citilink,29,04,18,43,0,02,5,33,WSW,Delay lebih dari 30 menit
+AirAsia,29,12,18,55,0,02,5,07,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,14,18,62,0,03,4,81,WSW,Delay lebih dari 30 menit
+Citilink,29,08,19,96,0,24,5,45,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,16,19,96,0,27,5,45,SSW,Delay lebih dari 30 menit
+Citilink,29,32,20,14,0,17,6,22,SSW,Delay kurang dari 30 menit
+AirAsia,29,48,20,14,0,15,6,39,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,55,20,20,0,19,6,42,SSW,Delay lebih dari 30 menit
+Citilink,29,78,19,96,0,36,6,08,SW,Delay kurang dari 30 menit
+AirAsia,29,69,20,32,0,35,6,06,SW,Delay lebih dari 30 menit
+Garuda Indonesia,29,67,20,45,0,39,6,12,WSW,Delay kurang dari 30 menit
+Citilink,29,10,19,84,0,12,4,97,SSW,Delay lebih dari 30 menit
+AirAsia,29,12,19,90,0,14,5,01,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,08,19,96,0,15,5,09,SSW,Delay lebih dari 30 menit
+Citilink,29,45,19,71,0,00,5,36,S,Delay lebih dari 30 menit
+AirAsia,29,62,19,47,0,01,5,06,S,Delay lebih dari 30 menit
+Garuda Indonesia,29,73,19,29,0,00,4,86,SSW,Delay kurang dari 30 menit
+Lion Air,29,24,20,26,0,10,3,13,SSE,Delay kurang dari 30 menit
+Citilink,29,21,20,57,0,16,3,23,SSE,Delay lebih dari 30 menit
+AirAsia,29,15,20,57,0,18,2,92,SSE,Delay lebih dari 30 menit
+Garuda Indonesia,29,14,20,51,0,21,2,79,SSE,Delay kurang dari 30 menit
+Lion Air,28,90,19,10,0,17,1,79,S,Delay kurang dari 30 menit
+Citilink,28,87,18,98,0,14,1,79,SSW,Delay lebih dari 30 menit
+AirAsia,28,83,19,04,0,16,2,08,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,83,19,17,0,13,2,31,SSW,Delay lebih dari 30 menit
+Citilink,28,89,18,92,0,14,1,50,SSW,Delay kurang dari 30 menit
+AirAsia,28,91,19,29,0,14,2,09,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,90,19,53,0,11,2,41,SW,Delay lebih dari 30 menit
+Lion Air,28,66,19,84,0,12,3,11,SW,Delay kurang dari 30 menit
+Citilink,28,80,20,02,0,11,3,90,SW,Delay kurang dari 30 menit
+AirAsia,29,06,19,90,0,08,4,06,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,15,19,96,0,16,4,26,WSW,Delay kurang dari 30 menit
+AirAsia,29,59,19,90,0,25,4,57,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,62,19,78,0,23,4,83,SSW,Delay kurang dari 30 menit
+Lion Air,29,32,19,47,0,08,4,16,S,Delay kurang dari 30 menit
+Citilink,29,51,19,10,0,04,4,08,S,Delay lebih dari 30 menit
+AirAsia,29,97,18,92,0,02,4,14,S,Delay lebih dari 30 menit
+Garuda Indonesia,30,15,18,92,0,02,4,19,S,Delay kurang dari 30 menit
+Citilink,29,62,21,00,0,27,5,04,SW,Delay kurang dari 30 menit
+AirAsia,29,53,20,75,0,32,4,57,SW,Delay kurang dari 30 menit
+Garuda Indonesia,29,41,20,69,0,38,4,35,SW,Delay kurang dari 30 menit
+Citilink,28,95,19,59,0,16,3,39,SW,Delay lebih dari 30 menit
+AirAsia,29,08,19,84,0,18,3,84,SW,Delay lebih dari 30 menit
+Garuda Indonesia,29,10,19,90,0,15,4,03,SW,Delay lebih dari 30 menit
+Citilink,28,40,19,71,0,26,4,88,SW,Delay lebih dari 30 menit
+AirAsia,28,53,19,47,0,19,4,11,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,59,19,29,0,15,3,88,SW,Delay kurang dari 30 menit
+Lion Air,28,98,19,65,0,16,4,82,WSW,Delay kurang dari 30 menit
+Lion Air,29,20,19,84,0,21,4,79,SW,Delay kurang dari 30 menit
+Citilink,29,08,20,14,0,41,4,51,SSW,Delay kurang dari 30 menit
+AirAsia,28,94,20,45,1,33,4,97,S,Delay lebih dari 30 menit
+Garuda Indonesia,28,87,20,57,1,97,5,57,S,Delay kurang dari 30 menit
+Lion Air,30,32,18,49,0,02,5,08,SSW,Delay kurang dari 30 menit
+Citilink,30,40,18,55,0,05,4,96,SSW,Delay kurang dari 30 menit
+AirAsia,30,22,19,10,0,16,5,15,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,30,06,19,35,0,35,5,08,SSW,Delay kurang dari 30 menit
+Citilink,28,92,19,84,0,33,3,11,SW,Delay lebih dari 30 menit
+AirAsia,28,85,19,78,0,36,3,29,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,82,19,78,0,42,3,47,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,82,19,78,0,42,3,47,WSW,Delay kurang dari 30 menit
+Citilink,28,98,20,63,0,29,5,85,SSW,Delay lebih dari 30 menit
+AirAsia,29,33,20,45,0,21,6,01,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,38,20,39,0,18,5,97,SSW,Delay lebih dari 30 menit
+Lion Air,29,19,20,26,0,21,6,24,SSW,Delay kurang dari 30 menit
+Citilink,29,23,20,39,0,26,6,64,SSW,Delay kurang dari 30 menit
+AirAsia,29,14,20,32,0,42,6,68,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,05,20,32,0,46,6,63,S,Delay kurang dari 30 menit
+Garuda Indonesia,29,05,20,32,0,46,6,63,S,Delay kurang dari 30 menit
+Garuda Indonesia,27,40,19,65,1,13,4,33,S,Delay kurang dari 30 menit
+Citilink,27,30,19,59,1,26,4,32,S,Delay lebih dari 30 menit
+AirAsia,27,29,19,41,1,14,4,26,S,Delay kurang dari 30 menit
+Citilink,28,29,17,82,0,14,2,72,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,34,17,33,0,14,2,01,WSW,Delay kurang dari 30 menit
+AirAsia,27,57,16,72,1,63,0,09,ENE,Delay kurang dari 30 menit
+Lion Air,29,20,17,58,0,01,2,46,WNW,Delay kurang dari 30 menit
+Citilink,29,23,17,64,0,04,2,14,WNW,Delay kurang dari 30 menit
+AirAsia,29,19,17,76,0,07,1,81,WNW,Delay kurang dari 30 menit
+Garuda Indonesia,29,17,17,88,0,10,1,89,WNW,Delay lebih dari 30 menit
+Citilink,27,90,18,07,0,15,1,02,SE,Delay lebih dari 30 menit
+AirAsia,28,01,18,31,0,11,1,32,SE,Delay kurang dari 30 menit
+Garuda Indonesia,28,01,18,37,0,09,1,18,SSE,Delay kurang dari 30 menit
+Citilink,27,40,19,29,0,13,1,81,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,97,19,47,0,15,2,03,SSW,Delay kurang dari 30 menit
+AirAsia,28,18,19,41,0,15,2,20,SSW,Delay lebih dari 30 menit
+Citilink,28,43,19,29,0,16,1,83,SW,Delay lebih dari 30 menit
+AirAsia,28,52,19,17,0,18,1,80,S,Delay kurang dari 30 menit
+Citilink,28,95,18,68,0,21,0,74,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,29,14,18,62,0,12,0,74,SW,Delay kurang dari 30 menit
+Lion Air,29,80,18,49,0,00,3,58,SSW,Delay lebih dari 30 menit
+Citilink,29,80,18,80,0,00,3,87,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,89,18,98,0,00,3,78,SSW,Delay lebih dari 30 menit
+Lion Air,29,84,21,00,0,38,5,67,SW,Delay kurang dari 30 menit
+Citilink,29,73,21,48,0,90,5,21,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,19,21,91,1,49,5,56,SSW,Delay kurang dari 30 menit
+AirAsia,29,14,21,85,1,50,6,23,SSW,Delay kurang dari 30 menit
+Batik Air,29,14,21,85,1,50,6,23,SSW,Delay kurang dari 30 menit
+Citilink,29,15,19,84,0,04,5,84,SW,Delay lebih dari 30 menit
+Batik Air,29,29,19,96,0,28,6,55,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,30,20,02,0,39,6,59,SSW,Delay lebih dari 30 menit
+Lion Air,29,07,20,39,0,51,4,72,SSW,Delay kurang dari 30 menit
+Citilink,28,92,20,45,0,49,5,82,SW,Delay kurang dari 30 menit
+AirAsia,28,81,19,84,0,27,6,46,SW,Delay kurang dari 30 menit
+Garuda Indonesia,28,68,19,65,0,29,6,38,SW,Delay kurang dari 30 menit
+Citilink,29,23,18,74,0,02,2,87,WSW,Delay lebih dari 30 menit
+AirAsia,29,37,18,98,0,07,3,34,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,36,19,10,0,14,3,65,W,Delay lebih dari 30 menit
+Lion Air,29,80,16,54,0,00,2,25,SW,Delay kurang dari 30 menit
+Citilink,30,06,16,42,0,00,2,04,W,Delay kurang dari 30 menit
+AirAsia,30,13,16,78,0,02,2,35,WNW,Delay kurang dari 30 menit
+Garuda Indonesia,30,11,17,03,0,03,2,66,WNW,Delay kurang dari 30 menit
+Lion Air,29,47,18,01,0,07,3,06,WSW,Delay lebih dari 30 menit
+Citilink,29,35,18,43,0,21,3,38,WSW,Delay kurang dari 30 menit
+AirAsia,28,86,19,35,0,45,4,58,WSW,Delay kurang dari 30 menit
+Batik Air,28,60,19,59,0,51,5,25,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,37,19,59,0,44,5,65,WSW,Delay lebih dari 30 menit
+Lion Air,28,48,17,76,0,03,2,12,SSW,Delay lebih dari 30 menit
+Citilink,28,64,17,76,0,07,2,29,SSW,Delay kurang dari 30 menit
+AirAsia,28,61,18,01,0,14,2,54,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,52,18,07,0,15,2,61,SSW,Delay kurang dari 30 menit
+Lion Air,26,98,18,49,0,70,3,58,SW,Delay kurang dari 30 menit
+Citilink,27,12,18,74,0,53,3,85,SW,Delay kurang dari 30 menit
+AirAsia,27,07,18,86,0,43,3,87,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,07,18,80,0,49,3,81,SW,Delay kurang dari 30 menit
+Batik Air,27,07,18,80,0,49,3,81,SW,Delay kurang dari 30 menit
+Citilink,28,40,19,17,0,40,4,22,WNW,Delay kurang dari 30 menit
+AirAsia,28,31,18,98,0,24,4,42,WNW,Delay kurang dari 30 menit
+Garuda Indonesia,28,30,18,80,0,22,4,38,W,Delay kurang dari 30 menit
+Batik Air,28,23,18,68,0,28,4,33,W,Delay kurang dari 30 menit
+Lion Air,27,27,18,98,0,56,4,35,WSW,Delay kurang dari 30 menit
+Citilink,27,41,19,10,0,41,4,11,WSW,Delay kurang dari 30 menit
+AirAsia,27,37,19,04,0,45,3,67,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,27,30,19,04,0,40,3,62,WSW,Delay lebih dari 30 menit
+Batik Air,27,30,19,04,0,40,3,62,WSW,Delay lebih dari 30 menit
+Citilink,28,61,18,49,0,09,2,57,SW,Delay kurang dari 30 menit
+AirAsia,28,69,18,55,0,11,2,91,SW,Delay kurang dari 30 menit
+Garuda Indonesia,28,72,18,68,0,12,3,28,SW,Delay kurang dari 30 menit
+Citilink,29,15,19,65,0,22,6,64,SSW,Delay lebih dari 30 menit
+AirAsia,28,90,20,08,0,34,7,54,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,69,19,96,0,43,7,71,SSW,Delay kurang dari 30 menit
+Batik Air,28,49,19,84,0,41,7,72,SSW,Delay kurang dari 30 menit
+Citilink,28,36,19,65,0,59,6,40,SW,Delay kurang dari 30 menit
+AirAsia,28,15,19,59,0,84,6,81,SW,Delay kurang dari 30 menit
+Batik Air,28,01,19,53,0,83,6,95,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,99,19,47,0,86,6,89,SW,Delay lebih dari 30 menit
+Citilink,28,76,19,35,0,13,5,53,SW,Delay kurang dari 30 menit
+AirAsia,28,84,19,29,0,11,5,05,SW,Delay kurang dari 30 menit
+Garuda Indonesia,28,91,19,23,0,09,4,89,SW,Delay kurang dari 30 menit
+Batik Air,28,89,19,23,0,05,4,82,SW,Delay kurang dari 30 menit
+Lion Air,28,47,19,96,0,26,3,42,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,48,20,08,0,39,3,63,SSW,Delay lebih dari 30 menit
+Citilink,28,53,20,20,0,55,4,20,SW,Delay kurang dari 30 menit
+AirAsia,28,50,20,39,0,53,4,60,SW,Delay lebih dari 30 menit
+Batik Air,28,48,20,57,0,61,4,97,SW,Delay kurang dari 30 menit
+Citilink,28,76,19,96,0,49,5,22,SW,Delay kurang dari 30 menit
+Batik Air,28,26,20,14,0,80,6,15,SW,Delay kurang dari 30 menit
+Garuda Indonesia,28,12,20,02,0,80,6,43,SW,Delay lebih dari 30 menit
+Lion Air,28,29,18,31,0,09,7,08,SW,Delay kurang dari 30 menit
+Citilink,28,26,18,31,0,04,6,87,SW,Delay kurang dari 30 menit
+AirAsia,28,31,18,01,0,01,6,38,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,35,17,88,0,02,6,11,SW,Delay kurang dari 30 menit
+Batik Air,28,27,17,82,0,01,6,05,SW,Delay kurang dari 30 menit
+Citilink,27,32,18,19,0,02,3,52,WSW,Delay kurang dari 30 menit
+AirAsia,27,53,18,43,0,05,3,99,WSW,Delay kurang dari 30 menit
+Batik Air,27,64,18,55,0,04,4,45,WSW,Delay lebih dari 30 menit
+Lion Air,28,46,19,78,0,15,4,56,SW,Delay kurang dari 30 menit
+Citilink,28,57,19,65,0,13,4,50,SW,Delay kurang dari 30 menit
+AirAsia,28,80,19,59,0,19,4,63,SW,Delay lebih dari 30 menit
+Batik Air,28,83,19,65,0,20,4,76,SW,Delay lebih dari 30 menit
+Lion Air,29,04,19,90,0,16,5,49,SSW,Delay lebih dari 30 menit
+Citilink,29,08,20,08,0,17,5,76,S,Delay kurang dari 30 menit
+Batik Air,28,84,20,32,0,30,6,19,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,74,20,32,0,44,6,24,SSW,Delay kurang dari 30 menit
+Lion Air,28,35,19,84,0,20,4,36,SSW,Delay kurang dari 30 menit
+Citilink,28,30,20,08,0,31,4,76,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,13,20,08,0,47,4,43,SSW,Delay lebih dari 30 menit
+Batik Air,28,13,20,02,0,43,4,34,SSW,Delay lebih dari 30 menit
+Lion Air,28,81,19,41,0,02,3,95,SSW,Delay kurang dari 30 menit
+Citilink,28,94,19,47,0,05,3,89,SSW,Delay lebih dari 30 menit
+AirAsia,29,10,19,65,0,09,4,19,SSW,Delay kurang dari 30 menit
+Garuda Indonesia,29,11,19,78,0,11,4,32,SSW,Delay kurang dari 30 menit
+Batik Air,29,13,19,90,0,20,4,40,SSW,Delay kurang dari 30 menit
+Citilink,29,12,20,69,0,60,6,11,SSW,Delay kurang dari 30 menit
+AirAsia,28,96,20,45,0,41,6,52,SSW,Delay kurang dari 30 menit
+Batik Air,28,85,20,26,0,38,6,61,SW,Delay lebih dari 30 menit
+Garuda Indonesia,28,83,20,14,0,27,6,57,SW,Delay lebih dari 30 menit
+Lion Air,29,01,18,86,0,12,6,28,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,30,10,18,68,0,07,6,89,SW,Delay kurang dari 30 menit
+Batik Air,30,25,18,62,0,06,6,80,SW,Delay kurang dari 30 menit
+Citilink,28,12,20,20,1,13,5,85,WSW,Delay kurang dari 30 menit
+Batik Air,27,50,20,20,3,58,5,64,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,45,20,14,5,48,5,70,SW,Delay lebih dari 30 menit
+Garuda Indonesia,27,37,19,53,1,79,5,06,SW,Delay kurang dari 30 menit
+Citilink,27,48,19,78,2,20,5,04,SW,Delay lebih dari 30 menit
+AirAsia,27,68,19,84,1,75,5,15,SW,Delay lebih dari 30 menit
+Batik Air,27,98,19,78,1,22,5,16,SW,Delay kurang dari 30 menit
+Lion Air,29,44,20,14,0,28,4,97,SW,Delay lebih dari 30 menit
+Citilink,29,33,20,20,0,41,4,95,SW,Delay kurang dari 30 menit
+Batik Air,28,86,20,32,0,63,4,21,SSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,73,20,32,0,63,4,05,SSW,Delay lebih dari 30 menit
+Lion Air,26,76,18,25,1,08,1,31,SSW,Delay kurang dari 30 menit
+Citilink,27,19,18,25,0,11,1,78,SW,Delay kurang dari 30 menit
+Garuda Indonesia,27,55,18,07,0,05,1,07,S,Delay lebih dari 30 menit
+Batik Air,27,66,18,13,0,07,1,28,SSE,Delay lebih dari 30 menit
+Citilink,28,23,18,98,0,36,1,08,SE,Delay kurang dari 30 menit
+Garuda Indonesia,28,31,19,29,0,40,1,81,SSW,Delay kurang dari 30 menit
+Batik Air,28,25,19,71,0,47,2,73,SSW,Delay lebih dari 30 menit
+Citilink,27,55,19,29,0,55,3,34,NNW,Delay lebih dari 30 menit
+Batik Air,27,62,19,23,0,51,2,73,NW,Delay lebih dari 30 menit
+Garuda Indonesia,27,63,19,35,0,50,2,97,WNW,Delay lebih dari 30 menit
+Citilink,28,88,18,55,0,06,3,92,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,28,91,18,55,0,09,2,75,E,Delay kurang dari 30 menit
+Batik Air,28,94,18,37,0,12,2,31,E,Delay lebih dari 30 menit
+Citilink,28,30,19,29,0,16,3,88,ENE,Delay kurang dari 30 menit
+AirAsia,28,06,19,53,0,26,4,25,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,87,19,47,0,27,4,27,ENE,Delay lebih dari 30 menit
+Batik Air,27,75,19,29,0,28,4,21,ENE,Delay kurang dari 30 menit
+Citilink,27,56,19,71,0,73,4,81,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,27,23,19,47,0,71,4,53,ESE,Delay kurang dari 30 menit
+Batik Air,27,17,19,35,0,55,4,47,ESE,Delay lebih dari 30 menit
+Citilink,27,88,17,88,0,18,2,05,NNE,Delay lebih dari 30 menit
+Batik Air,27,51,18,55,0,29,2,43,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,34,18,55,0,30,2,20,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,28,12,18,25,0,21,1,61,ENE,Delay kurang dari 30 menit
+Citilink,28,15,18,25,0,26,1,49,ENE,Delay kurang dari 30 menit
+AirAsia,28,06,18,31,0,25,1,43,E,Delay kurang dari 30 menit
+Batik Air,27,22,18,62,0,57,2,09,SSE,Delay kurang dari 30 menit
+Garuda Indonesia,27,41,19,53,0,93,4,40,W,Delay kurang dari 30 menit
+Citilink,27,46,19,59,0,91,4,54,W,Delay kurang dari 30 menit
+AirAsia,27,42,19,71,1,03,4,72,W,Delay lebih dari 30 menit
+Batik Air,27,33,19,71,0,96,4,82,WSW,Delay lebih dari 30 menit
+Citilink,27,65,17,94,0,02,4,83,WSW,Delay kurang dari 30 menit
+AirAsia,27,80,17,94,0,00,5,08,WSW,Delay lebih dari 30 menit
+Batik Air,28,01,17,76,0,00,4,57,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,28,05,17,58,0,00,3,99,WSW,Delay lebih dari 30 menit
+Citilink,28,09,18,07,0,10,2,23,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,28,12,18,68,0,07,3,42,SW,Delay kurang dari 30 menit
+Batik Air,28,15,18,80,0,04,3,79,SW,Delay lebih dari 30 menit
+Citilink,27,53,18,92,0,50,2,62,W,Delay kurang dari 30 menit
+Garuda Indonesia,27,62,18,80,0,40,2,82,W,Delay lebih dari 30 menit
+Batik Air,27,68,18,86,0,39,3,10,W,Delay lebih dari 30 menit
+Garuda Indonesia,27,29,19,35,0,95,4,53,W,Delay kurang dari 30 menit
+Batik Air,27,08,19,17,0,87,4,32,W,Delay kurang dari 30 menit
+Batik Air,28,44,19,10,0,34,3,98,WNW,Delay lebih dari 30 menit
+Garuda Indonesia,28,48,18,98,0,31,3,39,W,Delay lebih dari 30 menit
+Garuda Indonesia,26,26,19,59,0,04,4,73,WSW,Delay kurang dari 30 menit
+Citilink,26,19,19,90,0,08,4,78,WSW,Delay lebih dari 30 menit
+Batik Air,26,40,20,14,0,10,5,29,W,Delay lebih dari 30 menit
+Lion Air,28,19,20,32,0,18,5,37,WSW,Delay lebih dari 30 menit
+Citilink,28,52,20,26,0,16,5,33,WSW,Delay lebih dari 30 menit
+AirAsia,28,71,20,20,0,16,5,56,W,Delay lebih dari 30 menit
+Garuda Indonesia,28,71,20,20,0,16,5,56,W,Delay kurang dari 30 menit
+Batik Air,28,73,20,26,0,22,5,64,W,Delay kurang dari 30 menit
+AirAsia,27,84,19,78,1,30,2,92,W,Delay kurang dari 30 menit
+Batik Air,27,80,19,84,1,94,3,09,W,Delay kurang dari 30 menit
+Garuda Indonesia,27,82,19,96,2,06,3,40,WNW,Delay lebih dari 30 menit
+Lion Air,28,16,19,23,0,34,2,84,WNW,Delay kurang dari 30 menit
+Citilink,28,12,19,29,0,43,2,67,WNW,Delay kurang dari 30 menit
+AirAsia,27,83,19,47,0,54,3,02,W,Delay kurang dari 30 menit
+Garuda Indonesia,27,83,19,47,0,54,3,02,W,Delay kurang dari 30 menit
+AirAsia,27,83,19,47,0,54,3,02,W,Delay lebih dari 30 menit
+Garuda Indonesia,27,83,19,47,0,54,3,02,W,Delay kurang dari 30 menit
+Batik Air,27,47,19,71,1,17,4,40,W,Delay kurang dari 30 menit
+Lion Air,28,39,18,31,0,01,2,78,WNW,Delay kurang dari 30 menit
+Citilink,27,23,19,17,2,44,2,60,WNW,Delay lebih dari 30 menit
+AirAsia,27,13,19,17,3,32,2,46,W,Delay kurang dari 30 menit
+Garuda Indonesia,27,13,19,17,3,32,2,46,W,Delay kurang dari 30 menit
+Lion Air,27,15,18,31,0,90,1,61,WSW,Delay kurang dari 30 menit
+Lion Air,27,80,18,62,0,55,1,75,SW,Delay lebih dari 30 menit
+AirAsia,27,40,18,80,0,64,1,64,WSW,Delay lebih dari 30 menit
+Garuda Indonesia,27,40,18,80,0,64,1,64,WSW,Delay lebih dari 30 menit
+Batik Air,27,30,18,92,0,70,1,94,WSW,Delay lebih dari 30 menit
+Citilink,27,88,19,10,0,15,2,03,N,Delay lebih dari 30 menit
+Garuda Indonesia,27,65,19,10,0,45,1,74,NNE,Delay kurang dari 30 menit
+Batik Air,27,48,19,10,0,60,1,59,NNE,Delay lebih dari 30 menit
+AirAsia,27,71,18,86,0,60,2,17,NNE,Delay kurang dari 30 menit
+Citilink,27,71,18,86,0,60,2,17,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,26,18,86,0,80,1,66,N,Delay lebih dari 30 menit
+Batik Air,27,08,18,80,0,70,1,48,NNW,Delay lebih dari 30 menit
+Lion Air,27,61,19,41,0,37,2,10,NNE,Delay kurang dari 30 menit
+AirAsia,28,16,19,96,0,42,2,93,NE,Delay kurang dari 30 menit
+Citilink,28,17,20,02,0,48,3,05,NE,Delay kurang dari 30 menit
+Batik Air,28,17,20,02,0,45,3,08,NE,Delay lebih dari 30 menit
+Garuda Indonesia,28,17,20,02,0,45,3,08,NE,Delay lebih dari 30 menit
+Citilink,27,59,19,71,0,65,3,11,NNE,Delay lebih dari 30 menit
+AirAsia,27,58,19,59,0,71,2,43,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,54,19,53,0,66,2,13,NE,Delay kurang dari 30 menit
+Batik Air,27,56,19,47,0,53,2,02,NE,Delay lebih dari 30 menit
+AirAsia,27,33,19,59,0,29,3,68,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,33,19,47,0,21,3,36,NNE,Delay kurang dari 30 menit
+Batik Air,27,33,19,47,0,21,3,36,NNE,Delay lebih dari 30 menit
+Citilink,27,65,18,49,0,10,2,41,NNW,Delay lebih dari 30 menit
+AirAsia,27,77,18,62,0,09,2,48,NW,Delay lebih dari 30 menit
+Garuda Indonesia,27,77,18,62,0,09,2,48,NW,Delay kurang dari 30 menit
+Batik Air,27,83,18,68,0,12,2,53,NW,Delay lebih dari 30 menit
+Lion Air,27,16,18,55,0,11,1,72,WNW,Delay kurang dari 30 menit
+Citilink,27,33,18,80,0,07,2,28,W,Delay lebih dari 30 menit
+Garuda Indonesia,27,31,18,92,0,07,2,69,WNW,Delay kurang dari 30 menit
+Lion Air,26,55,18,74,0,73,1,88,NE,Delay kurang dari 30 menit
+AirAsia,26,37,18,55,1,43,1,52,NE,Delay kurang dari 30 menit
+Garuda Indonesia,26,37,18,55,1,43,1,52,NE,Delay lebih dari 30 menit
+Batik Air,26,26,18,49,1,89,1,39,NE,Delay lebih dari 30 menit
+Citilink,27,43,18,98,1,76,4,45,NNW,Delay kurang dari 30 menit
+AirAsia,27,39,18,92,2,48,5,30,NNW,Delay kurang dari 30 menit
+Garuda Indonesia,27,26,18,86,2,36,5,79,NNW,Delay kurang dari 30 menit
+Batik Air,27,22,18,68,2,07,6,14,NNW,Delay kurang dari 30 menit
+Lion Air,27,90,19,23,0,21,2,73,N,Delay kurang dari 30 menit
+Citilink,27,91,19,17,0,16,2,64,NNW,Delay lebih dari 30 menit
+Garuda Indonesia,27,98,19,65,0,29,4,10,N,Delay kurang dari 30 menit
+AirAsia,27,94,19,65,0,24,4,46,N,Delay kurang dari 30 menit
+Batik Air,27,92,19,53,0,17,4,72,N,Delay lebih dari 30 menit
+Citilink,27,35,18,86,0,37,1,78,NNW,Delay kurang dari 30 menit
+Garuda Indonesia,27,32,18,86,0,48,1,96,WNW,Delay lebih dari 30 menit
+AirAsia,27,27,18,86,0,49,2,11,WNW,Delay kurang dari 30 menit
+Batik Air,27,15,18,86,0,51,2,19,NW,Delay kurang dari 30 menit
+Citilink,29,23,16,60,0,03,1,55,NW,Delay kurang dari 30 menit
+Batik Air,29,20,16,54,0,03,1,33,NW,Delay lebih dari 30 menit
+Garuda Indonesia,26,46,18,37,0,55,1,49,N,Delay lebih dari 30 menit
+Citilink,26,46,18,37,0,55,1,49,N,Delay lebih dari 30 menit
+AirAsia,26,46,18,37,0,55,1,49,N,Delay kurang dari 30 menit
+Batik Air,26,26,18,37,0,59,1,48,N,Delay lebih dari 30 menit
+Garuda Indonesia,26,23,19,84,0,25,3,53,ESE,Delay lebih dari 30 menit
+Citilink,26,23,19,84,0,25,3,53,ESE,Delay kurang dari 30 menit
+Batik Air,26,15,19,65,0,31,3,34,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,27,50,19,29,0,39,4,10,ESE,Delay lebih dari 30 menit
+Citilink,27,50,19,29,0,39,4,10,ESE,Delay lebih dari 30 menit
+AirAsia,27,45,19,35,0,48,4,40,E,Delay lebih dari 30 menit
+Batik Air,27,45,19,35,0,48,4,40,E,Delay lebih dari 30 menit
+Garuda Indonesia,26,95,18,80,0,26,3,73,E,Delay kurang dari 30 menit
+Citilink,27,85,18,07,0,01,3,96,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,91,18,37,0,02,4,48,NNE,Delay lebih dari 30 menit
+AirAsia,27,91,18,37,0,02,4,48,NNE,Delay kurang dari 30 menit
+Batik Air,27,85,18,55,0,04,4,82,NNE,Delay lebih dari 30 menit
+Citilink,27,66,19,96,0,67,6,66,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,62,19,96,0,66,6,42,NNE,Delay kurang dari 30 menit
+AirAsia,27,62,19,96,0,66,6,42,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,62,19,96,0,66,6,42,NNE,Delay lebih dari 30 menit
+Citilink,27,64,20,02,0,56,6,20,NNE,Delay kurang dari 30 menit
+Batik Air,27,66,20,08,0,50,6,06,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,24,20,69,0,90,6,02,NNE,Delay lebih dari 30 menit
+AirAsia,27,24,20,69,0,90,6,02,NNE,Delay lebih dari 30 menit
+Batik Air,27,22,20,69,0,79,6,34,NNE,Delay lebih dari 30 menit
+Lion Air,27,42,20,32,0,34,5,25,ENE,Delay kurang dari 30 menit
+Garuda Indonesia,27,35,20,57,0,35,5,05,NE,Delay kurang dari 30 menit
+Batik Air,27,37,20,63,0,34,5,02,NE,Delay lebih dari 30 menit
+Garuda Indonesia,27,40,20,51,0,75,5,06,NNE,Delay kurang dari 30 menit
+AirAsia,27,40,20,51,0,75,5,06,NNE,Delay kurang dari 30 menit
+Batik Air,27,44,20,51,0,80,4,92,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,51,20,20,0,41,4,72,ENE,Delay lebih dari 30 menit
+Batik Air,27,48,20,14,0,37,4,71,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,45,19,90,0,13,3,95,ENE,Delay kurang dari 30 menit
+Batik Air,27,48,19,78,0,07,3,52,E,Delay kurang dari 30 menit
+Lion Air,27,54,19,84,0,15,4,17,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,67,19,84,0,11,3,68,E,Delay kurang dari 30 menit
+Batik Air,27,72,19,84,0,08,3,53,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,85,19,59,0,16,2,14,NE,Delay kurang dari 30 menit
+Batik Air,27,83,19,59,0,22,2,13,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,27,83,20,08,0,30,3,48,NNE,Delay lebih dari 30 menit
+Batik Air,27,82,20,08,0,31,3,60,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,44,19,04,0,21,0,39,ESE,Delay lebih dari 30 menit
+Batik Air,27,38,18,86,0,17,0,42,W,Delay lebih dari 30 menit
+Lion Air,27,68,19,90,0,27,3,27,NNE,Delay lebih dari 30 menit
+Garuda Indonesia,27,77,20,02,0,28,3,39,NNE,Delay lebih dari 30 menit
+AirAsia,27,83,20,08,0,30,3,48,NNE,Delay lebih dari 30 menit
+Batik Air,27,83,20,08,0,30,3,48,NNE,Delay kurang dari 30 menit
+Lion Air,27,82,20,08,0,31,3,60,NNE,Delay kurang dari 30 menit
+Garuda Indonesia,28,08,19,71,0,22,5,01,NE,Delay kurang dari 30 menit
+Batik Air,27,45,19,47,0,35,2,05,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,39,18,92,0,23,0,14,SSW,Delay kurang dari 30 menit
+AirAsia,27,38,18,86,0,17,0,42,W,Delay lebih dari 30 menit
+Batik Air,27,38,18,86,0,17,0,42,W,Delay lebih dari 30 menit
+Garuda Indonesia,28,40,20,26,0,11,5,47,WSW,Delay kurang dari 30 menit
+AirAsia,28,43,20,26,0,10,5,68,WSW,Delay kurang dari 30 menit
+Batik Air,28,47,20,26,0,10,5,81,WSW,Delay kurang dari 30 menit
+Garuda Indonesia,27,74,19,53,0,28,2,18,S,Delay kurang dari 30 menit
+Batik Air,27,75,19,59,0,24,2,24,S,Delay kurang dari 30 menit
+Lion Air,27,94,20,45,0,28,4,62,SSE,Delay kurang dari 30 menit
+Garuda Indonesia,28,03,21,00,0,53,5,28,SSE,Delay kurang dari 30 menit
+AirAsia,28,03,21,00,0,53,5,28,SSE,Delay kurang dari 30 menit
+Batik Air,28,05,21,06,0,37,5,32,S,Delay lebih dari 30 menit
+Lion Air,26,93,19,35,1,49,4,81,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,27,11,19,29,1,22,3,89,SE,Delay kurang dari 30 menit
+Batik Air,27,20,19,17,0,61,3,47,SE,Delay lebih dari 30 menit
+Lion Air,27,01,19,59,0,23,3,04,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,27,29,19,53,0,22,3,13,E,Delay lebih dari 30 menit
+AirAsia,27,30,19,59,0,24,3,25,E,Delay lebih dari 30 menit
+Batik Air,27,30,19,59,0,25,3,37,E,Delay kurang dari 30 menit
+Citilink,27,77,18,13,0,01,2,82,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,27,87,17,94,0,01,2,19,ESE,Delay kurang dari 30 menit
+Batik Air,27,94,17,76,0,01,1,62,SE,Delay kurang dari 30 menit
+Lion Air,28,16,17,88,0,01,0,90,E,Delay lebih dari 30 menit
+Citilink,27,94,18,92,0,06,2,41,E,Delay lebih dari 30 menit
+Garuda Indonesia,27,94,18,86,0,05,2,22,E,Delay kurang dari 30 menit
+AirAsia,27,89,18,74,0,04,2,02,E,Delay lebih dari 30 menit
+Batik Air,27,89,18,74,0,04,2,02,E,Delay kurang dari 30 menit
+Lion Air,28,19,19,47,0,15,3,30,NE,Delay lebih dari 30 menit
+Garuda Indonesia,28,19,19,47,0,15,3,30,NE,Delay kurang dari 30 menit
+AirAsia,28,17,19,47,0,20,3,30,NE,Delay lebih dari 30 menit
+Batik Air,28,15,19,53,0,21,3,27,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,99,19,90,0,31,3,52,NE,Delay lebih dari 30 menit
+Batik Air,27,98,19,84,0,24,3,41,NE,Delay lebih dari 30 menit
+Lion Air,28,53,20,45,0,34,3,15,NE,Delay lebih dari 30 menit
+Garuda Indonesia,28,53,20,45,0,34,3,15,NE,Delay kurang dari 30 menit
+AirAsia,28,53,20,45,0,34,3,15,NE,Delay lebih dari 30 menit
+Batik Air,28,60,20,39,0,34,2,76,NE,Delay kurang dari 30 menit
+Garuda Indonesia,27,95,21,06,1,38,5,29,ENE,Delay kurang dari 30 menit
+Batik Air,27,91,21,00,0,92,5,13,ENE,Delay lebih dari 30 menit
+Lion Air,28,01,20,81,0,35,5,49,ENE,Delay lebih dari 30 menit
+Garuda Indonesia,27,26,19,35,0,59,5,11,NE,Delay kurang dari 30 menit
+AirAsia,27,26,19,35,0,59,5,11,NE,Delay lebih dari 30 menit
+Batik Air,27,22,19,35,0,68,5,23,NE,Delay lebih dari 30 menit
+Lion Air,27,84,20,08,2,16,5,61,ESE,Delay kurang dari 30 menit
+Garuda Indonesia,27,65,19,84,0,92,5,95,ESE,Delay kurang dari 30 menit
+Batik Air,27,47,19,65,0,67,6,01,ESE,Delay lebih dari 30 menit
+Garuda Indonesia,27,55,20,02,0,54,5,72,E,Delay kurang dari 30 menit
+AirAsia,27,55,20,02,0,54,5,72,E,Delay kurang dari 30 menit
+Batik Air,27,54,19,90,0,47,5,69,E,Delay kurang dari 30 menit
+Lion Air,27,18,19,59,0,53,5,33,E,Delay lebih dari 30 menit
