@@ -1,1277 +1,1189 @@
-"Airlines","Suhu","Kelembaban","CurahHujan","KecepatanAngin","ArahAngin","Lama","Status"
-"Lion Air","26.2","19.1","0.34","8.25","47.46","12","DELAY KATEGORI 0"
-"Citilink","26.29","19.1","0.48","8.37","53.96","0","TIDAK DELAY"
-"AirAsia","26.29","19.1","0.48","8.37","53.96","51","DELAY KATEGORI 1"
-"Garuda Indonesia","26","18.86","1.12","8.35","50.47","7","DELAY KATEGORI 0"
-"Batik Air","26","18.8","1.29","8.49","50.15","9","DELAY KATEGORI 0"
-"Lion Air","26.33","18.86","0.68","9.02","47.77","11","DELAY KATEGORI 0"
-"Citilink","26.26","18.8","0.43","8.36","42.35","55","DELAY KATEGORI 1"
-"AirAsia","26.23","18.92","0.42","8.12","37.22","50","DELAY KATEGORI 1"
-"Garuda Indonesia","26.23","18.92","0.42","8.12","37.22","137","DELAY KATEGORI 3"
-"Garuda Indonesia","26.23","18.92","0.42","8.12","37.22","120","DELAY KATEGORI 2"
-"Batik Air","26.09","18.68","0.93","8.93","36.57","39","DELAY KATEGORI 1"
-"Lion Air","26.11","18.19","0.2","6.87","60.78","12","DELAY KATEGORI 0"
-"Citilink","25.99","18.62","0.21","5.79","57.96","34","DELAY KATEGORI 1"
-"AirAsia","25.86","18.55","0.19","5.91","60.96","27","DELAY KATEGORI 0"
-"Garuda Indonesia","25.86","18.55","0.19","5.91","60.96","71","DELAY KATEGORI 2"
-"Batik Air","25.94","18.19","0.1","7.89","62.39","20","DELAY KATEGORI 0"
-"Lion Air","26.48","19.1","0.06","7.59","44.5","9","DELAY KATEGORI 0"
-"Citilink","26.44","18.98","0.06","7.52","42.64","12","DELAY KATEGORI 0"
-"Garuda Indonesia","26.42","18.49","0.09","7.54","44.16","30","DELAY KATEGORI 1"
-"AirAsia","26.38","18.31","0.07","7.44","44.91","49","DELAY KATEGORI 1"
-"Lion Air","26.12","18.92","0.01","4.91","22.85","8","DELAY KATEGORI 0"
-"Lion Air","26.12","18.92","0.01","4.91","22.85","0","TIDAK DELAY"
-"Citilink","26.28","18.92","0.02","3.88","28.37","17","DELAY KATEGORI 0"
-"Garuda Indonesia","26.31","18.8","0.03","3.05","38.45","29","DELAY KATEGORI 0"
-"AirAsia","26.28","18.68","0.03","2.84","49.35","53","DELAY KATEGORI 1"
-"Batik Air","26.26","18.43","0.06","3.36","63.49","39","DELAY KATEGORI 1"
-"Lion Air","26.15","18.62","0.23","5.46","42.97","6","DELAY KATEGORI 0"
-"Citilink","26.26","18.68","0.15","5.14","49.31","15","DELAY KATEGORI 0"
-"Garuda Indonesia","26.27","18.74","0.1","5.05","54","17","DELAY KATEGORI 0"
-"AirAsia","26.27","18.74","0.09","5.07","54.6","35","DELAY KATEGORI 1"
-"Lion Air","26.16","18.98","0.13","6.01","47.9","20","DELAY KATEGORI 0"
-"Citilink","26.3","19.1","0.12","6.2","48.88","58","DELAY KATEGORI 1"
-"Garuda Indonesia","26.23","19.23","0.12","5.93","48.79","21","DELAY KATEGORI 0"
-"AirAsia","26.18","19.23","0.11","5.84","49.66","36","DELAY KATEGORI 1"
-"Batik Air","26.14","19.17","0.07","5.92","55.22","48","DELAY KATEGORI 1"
-"Lion Air","26.29","18.62","0.07","7.34","45.3","24","DELAY KATEGORI 0"
-"Citilink","26.34","18.62","0.04","7.35","46.94","8","DELAY KATEGORI 0"
-"Garuda Indonesia","26.33","18.68","0.02","6.98","46.13","32","DELAY KATEGORI 1"
-"AirAsia","26.3","18.68","0.02","6.76","45.19","31","DELAY KATEGORI 1"
-"Batik Air","26.26","18.68","0.02","6.29","42.89","39","DELAY KATEGORI 1"
-"Lion Air","26.23","17.58","0","6.03","45.37","12","DELAY KATEGORI 0"
-"Citilink","26.27","17.52","0.01","5.97","47.39","28","DELAY KATEGORI 0"
-"Garuda Indonesia","26.29","17.46","0.01","5.84","43.59","15","DELAY KATEGORI 0"
-"AirAsia","26.25","17.4","0.01","5.85","40.94","7","DELAY KATEGORI 0"
-"Batik Air","26.11","17.15","0.01","6.11","41.79","73","DELAY KATEGORI 2"
-"Lion Air","26.15","17.52","0.01","6.1","41.78","16","DELAY KATEGORI 0"
-"Citilink","26.3","17.76","0.01","5.85","39.69","21","DELAY KATEGORI 0"
-"Garuda Indonesia","26.25","17.94","0.02","5.56","37.35","16","DELAY KATEGORI 0"
-"AirAsia","26.18","18.07","0.02","5.49","36.2","12","DELAY KATEGORI 0"
-"Lion Air","26.22","19.1","0","5.47","24.37","29","DELAY KATEGORI 0"
-"Citilink","26.47","19.23","0.02","5.35","22.67","7","DELAY KATEGORI 0"
-"Garuda Indonesia","26.39","19.23","0.01","5.66","24.44","18","DELAY KATEGORI 0"
-"AirAsia","26.32","19.23","0.02","5.94","27.17","31","DELAY KATEGORI 1"
-"Lion Air","25.79","16.05","0","7.48","48.3","81","DELAY KATEGORI 2"
-"Garuda Indonesia","25.9","16.11","0","7.43","46.96","20","DELAY KATEGORI 0"
-"AirAsia","25.92","16.17","0","7.41","45.94","18","DELAY KATEGORI 0"
-"Lion Air","26.26","15.93","0.01","7.8","51.67","12","DELAY KATEGORI 0"
-"Citilink","26.32","15.93","0.01","7.9","52.96","75","DELAY KATEGORI 2"
-"Garuda Indonesia","26.33","15.93","0","7.66","49.63","15","DELAY KATEGORI 0"
-"AirAsia","26.33","15.87","0","7.44","48.19","47","DELAY KATEGORI 1"
-"Lion Air","25.77","16.91","0.25","7.18","34.59","18","DELAY KATEGORI 0"
-"Citilink","25.86","17.09","0.09","7.47","34.26","34","DELAY KATEGORI 1"
-"Garuda Indonesia","25.92","17.27","0.08","7.23","34.93","21","DELAY KATEGORI 0"
-"AirAsia","25.94","17.4","0.11","7.09","34.86","25","DELAY KATEGORI 0"
-"Lion Air","25.93","17.7","0.18","7.38","38.98","24","DELAY KATEGORI 0"
-"Citilink","25.96","17.7","0.06","6.99","37.6","12","DELAY KATEGORI 0"
-"Garuda Indonesia","25.9","17.88","0.05","6.53","34.62","8","DELAY KATEGORI 0"
-"Garuda Indonesia","25.9","17.88","0.05","6.53","34.62","0","TIDAK DELAY"
-"AirAsia","25.84","17.94","0.06","6.39","33.32","10","DELAY KATEGORI 0"
-"Lion Air","25.98","18.13","0.07","7.07","39.94","14","DELAY KATEGORI 0"
-"Citilink","25.99","18.25","0.07","6.79","39.59","31","DELAY KATEGORI 1"
-"Garuda Indonesia","25.97","18.37","0.08","6.57","38.48","15","DELAY KATEGORI 0"
-"AirAsia","25.94","18.49","0.06","6.6","38.13","19","DELAY KATEGORI 0"
-"Lion Air","25.85","17.4","0.02","6.69","35.73","20","DELAY KATEGORI 0"
-"Citilink","25.91","17.33","0.02","6.89","30.66","12","DELAY KATEGORI 0"
-"Garuda Indonesia","25.9","17.33","0.02","6.99","26.97","7","DELAY KATEGORI 0"
-"AirAsia","25.87","17.4","0.01","7.02","25.65","15","DELAY KATEGORI 0"
-"Lion Air","25.94","17.94","0.03","7.84","36.37","18","DELAY KATEGORI 0"
-"Citilink","26.01","18.19","0.07","7.68","36.39","48","DELAY KATEGORI 1"
-"Garuda Indonesia","25.96","18.49","0.13","7.74","39.51","27","DELAY KATEGORI 0"
-"AirAsia","25.96","18.55","0.11","7.83","41.56","34","DELAY KATEGORI 1"
-"Lion Air","25.85","17.52","0.03","7.8","42.48","19","DELAY KATEGORI 0"
-"Citilink","25.91","17.52","0.06","7.82","42.33","49","DELAY KATEGORI 1"
-"Garuda Indonesia","25.89","17.58","0.07","7.71","39.24","71","DELAY KATEGORI 2"
-"AirAsia","25.85","17.52","0.05","7.6","36.89","10","DELAY KATEGORI 0"
-"Lion Air","25.73","17.82","0.06","6.26","40.39","22","DELAY KATEGORI 0"
-"Citilink","25.89","17.94","0.03","5.89","39.56","169","DELAY KATEGORI 3"
-"Garuda Indonesia","25.89","18.07","0.06","6.1","35.83","14","DELAY KATEGORI 0"
-"AirAsia","25.86","18.07","0.16","6.39","35.24","32","DELAY KATEGORI 1"
-"Lion Air","25.79","18.13","0.22","6.37","37.12","6","DELAY KATEGORI 0"
-"Citilink","25.96","18.19","0.17","6.41","35.57","26","DELAY KATEGORI 0"
-"Garuda Indonesia","25.96","18.25","0.11","6.27","34.74","15","DELAY KATEGORI 0"
-"AirAsia","25.93","18.31","0.08","6.16","34.82","16","DELAY KATEGORI 0"
-"Lion Air","25.9","17.7","0.01","5.26","48.01","23","DELAY KATEGORI 0"
-"Citilink","26.04","17.76","0.01","5.15","51.65","0","TIDAK DELAY"
-"Garuda Indonesia","26.1","17.82","0.01","4.75","52.83","8","DELAY KATEGORI 0"
-"AirAsia","26.13","17.88","0.01","4.52","50.68","26","DELAY KATEGORI 0"
-"Citilink","26.08","17.21","0.01","3.67","41.46","58","DELAY KATEGORI 1"
-"Garuda Indonesia","26.39","16.97","0.02","3.57","32.86","20","DELAY KATEGORI 0"
-"AirAsia","26.49","16.91","0.01","3.53","31.9","34","DELAY KATEGORI 1"
-"Lion Air","25.54","18.07","0.01","3.6","26.12","0","TIDAK DELAY"
-"Citilink","25.94","17.82","0.01","4.09","21.41","105","DELAY KATEGORI 2"
-"Garuda Indonesia","26.15","17.46","0.01","4.48","16.73","19","DELAY KATEGORI 0"
-"AirAsia","26.18","17.27","0.01","4.5","14.98","19","DELAY KATEGORI 0"
-"Lion Air","26.04","17.64","0.02","4.5","40.07","15","DELAY KATEGORI 0"
-"Citilink","26.29","17.58","0.01","4.89","44.22","15","DELAY KATEGORI 0"
-"Garuda Indonesia","26.54","17.4","0.01","5.08","40.82","0","TIDAK DELAY"
-"AirAsia","26.61","17.33","0.01","5.21","38.36","11","DELAY KATEGORI 0"
-"Lion Air","26.51","18.07","0.02","4.8","41.04","17","DELAY KATEGORI 0"
-"Lion Air","26.51","18.07","0.02","4.8","41.04","4","DELAY KATEGORI 0"
-"Citilink","26.6","18.07","0.01","5.33","39.64","19","DELAY KATEGORI 0"
-"Garuda Indonesia","26.59","17.88","0.01","5.59","38.87","20","DELAY KATEGORI 0"
-"AirAsia","26.61","17.64","0.01","5.6","39.22","7","DELAY KATEGORI 0"
-"Lion Air","26.12","17.33","0","6.07","50.8","12","DELAY KATEGORI 0"
-"Citilink","26.36","17.4","0","6.18","51.16","6","DELAY KATEGORI 0"
-"AirAsia","26.58","17.52","0","6","51.5","21","DELAY KATEGORI 0"
-"Garuda Indonesia","26.58","17.52","0","6","51.5","7","DELAY KATEGORI 0"
-"Lion Air","26.1","17.58","0.02","4.46","44.36","0","TIDAK DELAY"
-"Citilink","26.3","17.4","0.01","4.45","49.85","22","DELAY KATEGORI 0"
-"AirAsia","26.54","17.4","0.01","4","49.84","23","DELAY KATEGORI 0"
-"Garuda Indonesia","26.53","17.46","0.01","3.77","52.32","12","DELAY KATEGORI 0"
-"Lion Air","26.18","17.82","0.02","3.51","60.98","10","DELAY KATEGORI 0"
-"Citilink","26.29","17.94","0.06","3.79","66.44","34","DELAY KATEGORI 1"
-"Garuda Indonesia","26.45","17.82","0.04","3.45","57.03","40","DELAY KATEGORI 1"
-"AirAsia","26.47","17.82","0.03","3.2","52.35","42","DELAY KATEGORI 1"
-"Lion Air","26.46","17.46","0.06","4.04","53.26","14","DELAY KATEGORI 0"
-"Citilink","26.57","17.46","0.2","3.94","54.36","23","DELAY KATEGORI 0"
-"Garuda Indonesia","26.67","17.52","0.19","3.94","44.68","14","DELAY KATEGORI 0"
-"AirAsia","26.69","17.52","0.11","3.91","39.89","16","DELAY KATEGORI 0"
-"Garuda Indonesia","27.08","18.13","0.03","3.41","66.25","6","DELAY KATEGORI 0"
-"AirAsia","26.98","18.19","0.03","2.99","59.55","33","DELAY KATEGORI 1"
-"Lion Air","26.79","18.74","0.02","4.69","71.84","13","DELAY KATEGORI 0"
-"Citilink","27.05","18.86","0.04","4.46","69.82","28","DELAY KATEGORI 0"
-"Garuda Indonesia","27.05","19.04","0.07","4","67.64","9","DELAY KATEGORI 0"
-"AirAsia","27.01","19.1","0.09","3.81","66.54","8","DELAY KATEGORI 0"
-"Lion Air","27.29","18.98","0.04","6.32","60.52","67","DELAY KATEGORI 2"
-"Citilink","27.33","18.92","0.03","5.7","58.73","29","DELAY KATEGORI 0"
-"Garuda Indonesia","27.26","18.98","0.03","5.17","56.53","14","DELAY KATEGORI 0"
-"AirAsia","27.22","18.98","0.04","4.94","52.97","17","DELAY KATEGORI 0"
-"Lion Air","26.82","19.35","0.03","6.54","53.16","24","DELAY KATEGORI 0"
-"Citilink","26.85","19.35","0.03","6.38","51.87","17","DELAY KATEGORI 0"
-"AirAsia","26.9","19.29","0.03","6.51","49.53","28","DELAY KATEGORI 0"
-"Citilink","27","19.53","0.06","7.15","49.61","24","DELAY KATEGORI 0"
-"Garuda Indonesia","26.98","19.65","0.07","7.18","50.47","10","DELAY KATEGORI 0"
-"AirAsia","26.97","19.65","0.11","7.27","52.86","11","DELAY KATEGORI 0"
-"Citilink","26.83","18.86","0.13","8.07","51.64","28","DELAY KATEGORI 0"
-"Garuda Indonesia","26.68","19.17","0.13","7.63","48.03","18","DELAY KATEGORI 0"
-"AirAsia","26.57","19.23","0.11","7.66","45.41","19","DELAY KATEGORI 0"
-"Lion Air","26.33","19.1","0.31","8.47","38.71","32","DELAY KATEGORI 1"
-"Citilink","26.41","19.35","0.37","8.25","42.27","27","DELAY KATEGORI 0"
-"Garuda Indonesia","26.48","19.47","0.34","7.82","44.35","8","DELAY KATEGORI 0"
-"AirAsia","26.45","19.59","0.36","7.26","43.47","6","DELAY KATEGORI 0"
-"Citilink","26.21","19.96","0.7","7.29","41.83","15","DELAY KATEGORI 0"
-"Garuda Indonesia","26.11","19.84","1.1","7.4","49.02","9","DELAY KATEGORI 0"
-"AirAsia","26.12","19.84","1.17","7.13","51.76","14","DELAY KATEGORI 0"
-"Citilink","26.23","19.35","0.22","4.4","44.86","28","DELAY KATEGORI 0"
-"Garuda Indonesia","26.35","19.65","0.45","4.55","47.44","66","DELAY KATEGORI 2"
-"AirAsia","26.39","19.71","0.54","4.65","49.02","9","DELAY KATEGORI 0"
-"Lion Air","26.65","18.01","0.01","6.62","57.13","16","DELAY KATEGORI 0"
-"Citilink","26.71","18.13","0","6.19","54.92","24","DELAY KATEGORI 0"
-"Garuda Indonesia","26.71","18.43","0.01","5.58","52.34","25","DELAY KATEGORI 0"
-"AirAsia","26.66","18.8","0.02","5.18","50.02","21","DELAY KATEGORI 0"
-"Lion Air","26.63","19.23","0.09","4.97","46.27","20","DELAY KATEGORI 0"
-"Citilink","26.62","19.47","0.11","4.53","44.58","15","DELAY KATEGORI 0"
-"AirAsia","26.45","19.78","0.3","4.88","44.03","22","DELAY KATEGORI 0"
-"Lion Air","26.69","19.17","0.29","5.51","45.8","19","DELAY KATEGORI 0"
-"Citilink","26.73","19.35","0.94","5.18","52.04","11","DELAY KATEGORI 0"
-"AirAsia","26.42","19.41","0.7","3.93","61.4","22","DELAY KATEGORI 0"
-"Citilink","26.63","19.84","0.59","6.52","72.35","16","DELAY KATEGORI 0"
-"AirAsia","26.47","19.53","0.57","6.42","69.27","7","DELAY KATEGORI 0"
-"Lion Air","26.52","19.1","0.05","5.09","73.12","8","DELAY KATEGORI 0"
-"Citilink","26.58","19.04","0.04","4.89","72.43","10","DELAY KATEGORI 0"
-"Garuda Indonesia","26.52","19.1","0.06","4.67","71.69","8","DELAY KATEGORI 0"
-"AirAsia","26.52","19.1","0.06","4.67","71.69","11","DELAY KATEGORI 0"
-"Lion Air","26.79","19.59","0.11","5.47","72.19","16","DELAY KATEGORI 0"
-"Citilink","26.94","19.47","0.12","5.45","70.4","9","DELAY KATEGORI 0"
-"Garuda Indonesia","26.9","19.59","0.14","5.53","66.7","22","DELAY KATEGORI 0"
-"AirAsia","26.73","19.71","0.2","5.7","69.31","19","DELAY KATEGORI 0"
-"Citilink","26.87","19.29","0.2","4.81","87.21","9","DELAY KATEGORI 0"
-"Garuda Indonesia","26.77","19.29","0.24","5.15","85.13","4","DELAY KATEGORI 0"
-"AirAsia","26.73","19.17","0.21","5.43","85.21","0","TIDAK DELAY"
-"Lion Air","26.57","18.8","0.03","4.48","80.77","12","DELAY KATEGORI 0"
-"Citilink","26.76","18.86","0.04","4.51","73.8","15","DELAY KATEGORI 0"
-"Garuda Indonesia","26.8","18.98","0.05","4.62","69.94","6","DELAY KATEGORI 0"
-"AirAsia","26.75","19.1","0.06","4.83","69.54","25","DELAY KATEGORI 0"
-"Citilink","27.04","18.98","0.07","3.99","74.55","23","DELAY KATEGORI 0"
-"AirAsia","27.08","18.74","0.04","3.6","69.84","19","DELAY KATEGORI 0"
-"Lion Air","27.15","19.17","0","5.05","74.65","8","DELAY KATEGORI 0"
-"Citilink","27.36","19.04","0","5.05","73","17","DELAY KATEGORI 0"
-"Garuda Indonesia","27.47","18.8","0","4.61","71.23","25","DELAY KATEGORI 0"
-"AirAsia","27.44","18.8","0.01","4.73","71.62","7","DELAY KATEGORI 0"
-"Lion Air","27.44","16.91","0","3.45","68.08","8","DELAY KATEGORI 0"
-"Citilink","27.57","17.09","0","3.81","62.38","2","DELAY KATEGORI 0"
-"Garuda Indonesia","27.71","16.97","0","3.47","55.09","22","DELAY KATEGORI 0"
-"AirAsia","27.76","16.85","0","3.26","51.04","16","DELAY KATEGORI 0"
-"Citilink","27.3","18.13","0","4.17","52.77","15","DELAY KATEGORI 0"
-"Garuda Indonesia","27.39","17.94","0","3.74","58.77","16","DELAY KATEGORI 0"
-"AirAsia","27.42","17.76","0","3.23","70.03","6","DELAY KATEGORI 0"
-"Lion Air","27.87","16.85","0","4.17","62.81","12","DELAY KATEGORI 0"
-"Garuda Indonesia","27.85","17.52","0.01","4.19","67.17","3","DELAY KATEGORI 0"
-"AirAsia","27.62","18.37","0.03","3.85","58.28","6","DELAY KATEGORI 0"
-"Citilink","26.96","18.86","0.13","6.07","46.88","9","DELAY KATEGORI 0"
-"Garuda Indonesia","26.85","18.8","0.26","5.99","52.85","4","DELAY KATEGORI 0"
-"AirAsia","26.85","18.8","0.26","5.99","52.85","8","DELAY KATEGORI 0"
-"Citilink","26","18.62","0.2","7.73","48.15","6","DELAY KATEGORI 0"
-"Garuda Indonesia","26.03","18.74","0.13","7.8","44.07","11","DELAY KATEGORI 0"
-"AirAsia","26.11","18.49","0.14","8.78","46.01","13","DELAY KATEGORI 0"
-"Lion Air","26.55","18.98","0.68","9.11","34.19","146","DELAY KATEGORI 3"
-"Citilink","26.57","19.35","1.2","9.6","33.92","26","DELAY KATEGORI 0"
-"AirAsia","26.55","19.65","2.16","9.61","40.62","23","DELAY KATEGORI 0"
-"Lion Air","26.93","19.1","0.18","8.31","56.74","38","DELAY KATEGORI 1"
-"Citilink","26.94","19.47","0.25","7.58","58.62","18","DELAY KATEGORI 0"
-"Garuda Indonesia","26.9","19.59","0.4","7.75","61.7","9","DELAY KATEGORI 0"
-"AirAsia","26.85","19.29","0.57","8.27","65.49","16","DELAY KATEGORI 0"
-"AirAsia","26.85","19.29","0.57","8.27","65.49","0","TIDAK DELAY"
-"Lion Air","26.96","19.41","0.28","7.72","73.91","17","DELAY KATEGORI 0"
-"Citilink","27.01","19.78","0.26","6.9","71.93","10","DELAY KATEGORI 0"
-"Garuda Indonesia","26.98","19.78","0.25","6.47","69.29","30","DELAY KATEGORI 1"
-"AirAsia","26.95","19.71","0.21","6.44","66.95","29","DELAY KATEGORI 0"
-"Citilink","27.39","18.86","0.08","7.98","65.17","31","DELAY KATEGORI 1"
-"Garuda Indonesia","27.32","18.98","0.07","7.33","64.28","11","DELAY KATEGORI 0"
-"AirAsia","27.26","18.92","0.06","7.07","62.13","33","DELAY KATEGORI 1"
-"Citilink","27.44","18.92","0.07","6.31","62.83","29","DELAY KATEGORI 0"
-"Garuda Indonesia","27.4","19.35","0.08","5.6","58.57","19","DELAY KATEGORI 0"
-"AirAsia","27.34","19.59","0.09","4.98","53.81","10","DELAY KATEGORI 0"
-"Citilink","27.11","20.08","0.22","5.43","46.17","27","DELAY KATEGORI 0"
-"Garuda Indonesia","27.05","20.08","0.23","5.56","38.09","29","DELAY KATEGORI 0"
-"AirAsia","26.98","20.02","0.23","5.83","35.95","27","DELAY KATEGORI 0"
-"Lion Air","27.16","19.96","0.51","5.93","54.87","0","TIDAK DELAY"
-"Citilink","27.21","19.65","0.41","5.93","49.28","14","DELAY KATEGORI 0"
-"Garuda Indonesia","27.04","19.53","0.37","6.38","42.22","19","DELAY KATEGORI 0"
-"AirAsia","26.97","18.92","0.17","6.99","41.24","11","DELAY KATEGORI 0"
-"Citilink","26.98","20.02","0.29","4.9","35.72","15","DELAY KATEGORI 0"
-"AirAsia","26.94","20.39","0.54","4.94","39.93","10","DELAY KATEGORI 0"
-"Citilink","26.97","20.26","0.89","4.2","84.24","64","DELAY KATEGORI 2"
-"AirAsia","26.65","19.71","0.82","4.83","87.03","18","DELAY KATEGORI 0"
-"Garuda Indonesia","26.65","19.71","0.82","4.83","87.03","55","DELAY KATEGORI 1"
-"Lion Air","26.44","18.92","0.08","3.64","90.49","13","DELAY KATEGORI 0"
-"Citilink","26.59","18.86","0.05","3.28","92.73","1","DELAY KATEGORI 0"
-"Garuda Indonesia","26.67","18.74","0.04","2.39","92.25","24","DELAY KATEGORI 0"
-"AirAsia","26.67","18.74","0.04","2.39","92.25","29","DELAY KATEGORI 0"
-"Lion Air","26.74","18.74","0.05","3.74","48.65","20","DELAY KATEGORI 0"
-"Citilink","26.92","18.92","0.08","4.03","51.06","10","DELAY KATEGORI 0"
-"Garuda Indonesia","26.98","19.17","0.18","4.23","53.26","27","DELAY KATEGORI 0"
-"AirAsia","27.02","19.41","0.25","4.21","53.07","13","DELAY KATEGORI 0"
-"Citilink","27.62","19.71","0.85","5.35","74.08","11","DELAY KATEGORI 0"
-"Garuda Indonesia","27.58","19.53","0.67","5.52","65.79","4","DELAY KATEGORI 0"
-"AirAsia","27.67","19.29","0.43","5.64","62.09","0","TIDAK DELAY"
-"Lion Air","27.5","17.88","0","6.58","54.23","23","DELAY KATEGORI 0"
-"Citilink","27.73","17.88","0","6.48","56.25","5","DELAY KATEGORI 0"
-"Garuda Indonesia","27.83","18.07","0","6.56","56.86","115","DELAY KATEGORI 2"
-"AirAsia","27.83","18.31","0","6.61","58.25","9","DELAY KATEGORI 0"
-"Lion Air","27.3","17.58","0.02","5.64","57.67","13","DELAY KATEGORI 0"
-"Lion Air","27.3","17.58","0.02","5.64","57.67","0","TIDAK DELAY"
-"Citilink","27.38","17.52","0.01","5.13","60.35","21","DELAY KATEGORI 0"
-"AirAsia","27.46","17.27","0.01","4.51","52.59","6","DELAY KATEGORI 0"
-"Garuda Indonesia","27.43","17.27","0.01","4.55","47.02","22","DELAY KATEGORI 0"
-"Lion Air","26.46","18.31","0.09","4.49","33.14","23","DELAY KATEGORI 0"
-"Citilink","26.72","18.43","0.05","4.65","30.91","21","DELAY KATEGORI 0"
-"AirAsia","27.08","18.55","0.02","4.85","21.15","20","DELAY KATEGORI 0"
-"Lion Air","26.64","19.65","0.43","5.86","16.17","8","DELAY KATEGORI 0"
-"Citilink","26.62","19.84","0.93","6.17","13.17","18","DELAY KATEGORI 0"
-"Garuda Indonesia","26.57","20.02","2.1","6.67","14.8","23","DELAY KATEGORI 0"
-"AirAsia","26.63","20.08","2.04","6.91","18.19","9","DELAY KATEGORI 0"
-"Lion Air","27.18","20.69","0.26","6.2","80.72","10","DELAY KATEGORI 0"
-"Citilink","27.22","20.51","0.16","5.9","98.84","16","DELAY KATEGORI 0"
-"Garuda Indonesia","27.19","20.14","0.03","5.04","114.26","204","DELAY KATEGORI 4"
-"AirAsia","27.19","20.14","0.03","5.04","114.26","14","DELAY KATEGORI 0"
-"Lion Air","27.09","18.55","0","4.42","114.12","34","DELAY KATEGORI 1"
-"Citilink","27.33","18.8","0","3.49","95.77","35","DELAY KATEGORI 1"
-"Garuda Indonesia","27.51","19.1","0","2.54","71.01","16","DELAY KATEGORI 0"
-"AirAsia","27.53","19.78","0.01","2","60.84","10","DELAY KATEGORI 0"
-"Citilink","27.18","21.06","0.2","3.76","66.21","52","DELAY KATEGORI 1"
-"Garuda Indonesia","27.35","21.12","0.21","3.35","80.34","27","DELAY KATEGORI 0"
-"AirAsia","27.38","21.18","0.25","3.08","86.07","27","DELAY KATEGORI 0"
-"Citilink","27.18","19.96","0.1","2.67","72.79","221","DELAY KATEGORI 4"
-"Garuda Indonesia","27.3","19.9","0.16","2.84","66.97","31","DELAY KATEGORI 1"
-"AirAsia","27.37","19.96","0.1","3.54","72.65","5","DELAY KATEGORI 0"
-"Citilink","27.48","20.08","0.11","4.28","60.11","106","DELAY KATEGORI 2"
-"Garuda Indonesia","27.83","20.02","0.13","4.1","60.16","176","DELAY KATEGORI 3"
-"AirAsia","27.84","19.96","0.09","4.01","60.19","17","DELAY KATEGORI 0"
-"Lion Air","27.95","19.59","0.19","2.56","98.25","34","DELAY KATEGORI 1"
-"Citilink","27.94","19.53","0.23","1.6","114.81","97","DELAY KATEGORI 2"
-"Garuda Indonesia","28.03","19.41","0.2","0.79","108.97","0","TIDAK DELAY"
-"AirAsia","28","19.35","0.2","0.3","90","17","DELAY KATEGORI 0"
-"Lion Air","27.71","19.1","0.14","2.01","92.9","14","DELAY KATEGORI 0"
-"Citilink","27.81","19.29","0.14","2.55","95.99","90","DELAY KATEGORI 2"
-"AirAsia","28.02","19.53","0.15","3.28","86.31","26","DELAY KATEGORI 0"
-"Garuda Indonesia","28.02","19.53","0.15","3.28","86.31","28","DELAY KATEGORI 0"
-"Citilink","27.59","18.92","0.21","2.88","104.3","101","DELAY KATEGORI 2"
-"Garuda Indonesia","27.59","18.92","0.21","2.88","104.3","275","DELAY KATEGORI 5"
-"Garuda Indonesia","27.59","18.92","0.21","2.88","104.3","210","DELAY KATEGORI 4"
-"AirAsia","27.83","19.35","0.24","3.77","99.79","65","DELAY KATEGORI 2"
-"Lion Air","27.51","19.35","0.36","4.03","158.65","4","DELAY KATEGORI 0"
-"Citilink","27.44","19.71","0.45","4.29","170.98","72","DELAY KATEGORI 2"
-"Garuda Indonesia","27.44","19.71","0.44","4.5","185.48","25","DELAY KATEGORI 0"
-"AirAsia","27.47","19.17","0.33","3.52","196.26","55","DELAY KATEGORI 1"
-"Lion Air","27.94","18.74","0.15","3.8","124.54","25","DELAY KATEGORI 0"
-"Citilink","28.01","19.04","0.26","4.33","130.47","23","DELAY KATEGORI 0"
-"Garuda Indonesia","27.87","19.17","0.33","4.38","131.74","12","DELAY KATEGORI 0"
-"AirAsia","27.84","19.1","0.31","4.08","132.52","15","DELAY KATEGORI 0"
-"Lion Air","27.96","18.49","0","3.35","97.22","44","DELAY KATEGORI 1"
-"Citilink","28.08","18.49","0.01","2.92","102.21","14","DELAY KATEGORI 0"
-"Garuda Indonesia","28.19","18.55","0.01","2.66","99.99","33","DELAY KATEGORI 1"
-"Garuda Indonesia","28.19","18.55","0.01","2.66","99.99","0","TIDAK DELAY"
-"AirAsia","28.26","18.74","0.01","2.76","96.82","46","DELAY KATEGORI 1"
-"Lion Air","27.79","18.92","0.04","2.33","79.97","31","DELAY KATEGORI 1"
-"Citilink","27.93","19.29","0.02","3.17","75","33","DELAY KATEGORI 1"
-"Garuda Indonesia","28.03","19.47","0.03","3.69","70.72","118","DELAY KATEGORI 2"
-"AirAsia","28.04","19.53","0.01","3.85","70.42","49","DELAY KATEGORI 1"
-"Lion Air","28","19.78","0.07","3.73","90.96","31","DELAY KATEGORI 1"
-"Citilink","27.98","19.9","0.07","3.87","96.15","55","DELAY KATEGORI 1"
-"AirAsia","27.91","19.96","0.06","3.11","97.78","55","DELAY KATEGORI 1"
-"Garuda Indonesia","27.91","19.96","0.06","3.11","97.78","65","DELAY KATEGORI 2"
-"Lion Air","27.81","19.78","0.02","3.82","71.16","15","DELAY KATEGORI 0"
-"Citilink","27.84","19.96","0.02","3.83","75.34","30","DELAY KATEGORI 1"
-"AirAsia","27.91","19.96","0.04","3.21","71.83","40","DELAY KATEGORI 1"
-"Garuda Indonesia","27.98","19.84","0.04","2.92","68.37","40","DELAY KATEGORI 1"
-"Lion Air","28.03","18.13","0","1.98","75.85","45","DELAY KATEGORI 1"
-"Citilink","28.21","18.13","0.01","1.85","60.2","22","DELAY KATEGORI 0"
-"AirAsia","28.29","18.19","0.01","1.77","33.69","231","DELAY KATEGORI 4"
-"Garuda Indonesia","28.3","18.55","0.02","2.02","21.31","29","DELAY KATEGORI 0"
-"Lion Air","27.74","19.23","0.06","2.3","95.46","16","DELAY KATEGORI 0"
-"Citilink","27.82","19.41","0.05","2.51","105.9","81","DELAY KATEGORI 2"
-"Garuda Indonesia","27.83","19.29","0.04","1.81","94.95","139","DELAY KATEGORI 3"
-"AirAsia","27.75","19.1","0.07","1.23","57.72","24","DELAY KATEGORI 0"
-"Lion Air","28.43","19.65","0.1","4.08","56.31","15","DELAY KATEGORI 0"
-"Citilink","28.43","19.96","0.22","4.04","52.07","194","DELAY KATEGORI 4"
-"Garuda Indonesia","28.3","20.14","0.23","3.94","48.06","161","DELAY KATEGORI 3"
-"AirAsia","28.3","20.14","0.23","3.94","48.06","72","DELAY KATEGORI 2"
-"Citilink","27.94","19.47","0.18","2.92","78.72","88","DELAY KATEGORI 2"
-"Garuda Indonesia","27.92","19.17","0.08","2.16","74.45","181","DELAY KATEGORI 4"
-"AirAsia","27.98","19.17","0.1","2.43","35.73","5","DELAY KATEGORI 0"
-"Citilink","27.85","18.86","0.03","2.62","130.4","34","DELAY KATEGORI 1"
-"Garuda Indonesia","28.09","18.86","0.02","2.86","146.01","171","DELAY KATEGORI 3"
-"AirAsia","28.21","18.86","0.02","2.98","155.38","68","DELAY KATEGORI 2"
-"Batik Air","28.31","18.92","0.02","3.11","164.85","0","TIDAK DELAY"
-"AirAsia","28.09","18.98","0.19","2.31","72.67","18","DELAY KATEGORI 0"
-"Citilink","28.09","18.98","0.19","2.31","72.67","38","DELAY KATEGORI 1"
-"Garuda Indonesia","28.2","18.98","0.16","2.36","69.04","61","DELAY KATEGORI 2"
-"AirAsia","28.24","19.59","0.31","2.95","83.01","14","DELAY KATEGORI 0"
-"Citilink","28.24","19.59","0.31","2.95","83.01","104","DELAY KATEGORI 2"
-"Garuda Indonesia","28.3","19.65","0.26","3","73.5","25","DELAY KATEGORI 0"
-"AirAsia","28.21","19.71","0.23","4.51","66.54","24","DELAY KATEGORI 0"
-"Citilink","28.21","19.71","0.23","4.51","66.54","26","DELAY KATEGORI 0"
-"Garuda Indonesia","28.2","19.71","0.3","4.26","63.9","167","DELAY KATEGORI 3"
-"AirAsia","27.71","18.92","0.18","2.94","59.82","1","DELAY KATEGORI 0"
-"Citilink","27.71","18.92","0.18","2.94","59.82","35","DELAY KATEGORI 1"
-"Garuda Indonesia","28.06","18.98","0.08","3.77","49.88","0","TIDAK DELAY"
-"AirAsia","28.51","19.9","0.18","5.15","70.6","15","DELAY KATEGORI 0"
-"Citilink","28.51","19.9","0.18","5.15","70.6","41","DELAY KATEGORI 1"
-"Garuda Indonesia","28.46","19.84","0.18","5.11","77.11","12","DELAY KATEGORI 0"
-"AirAsia","27.44","18.8","0.36","3.4","46.4","0","TIDAK DELAY"
-"Citilink","27.44","18.8","0.36","3.4","46.4","39","DELAY KATEGORI 1"
-"Garuda Indonesia","26.91","18.98","0.6","3.96","26.72","25","DELAY KATEGORI 0"
-"AirAsia","26.93","18.62","0.65","3.18","13.49","19","DELAY KATEGORI 0"
-"Citilink","26.93","18.62","0.65","3.18","13.49","42","DELAY KATEGORI 1"
-"Garuda Indonesia","26.73","18.8","1.11","3.01","16.6","24","DELAY KATEGORI 0"
-"AirAsia","26.98","18.8","1.43","5.39","28.2","17","DELAY KATEGORI 0"
-"Citilink","26.98","18.8","1.43","5.39","28.2","35","DELAY KATEGORI 1"
-"Garuda Indonesia","26.92","18.55","0.43","5.74","24.09","92","DELAY KATEGORI 2"
-"AirAsia","27.66","18.98","0.21","4.06","48.43","26","DELAY KATEGORI 0"
-"Citilink","27.66","18.98","0.21","4.06","48.43","14","DELAY KATEGORI 0"
-"Garuda Indonesia","27.84","18.86","0.21","4.24","43.28","31","DELAY KATEGORI 1"
-"AirAsia","27.59","18.19","0","3.02","64.56","10","DELAY KATEGORI 0"
-"Citilink","27.59","18.19","0","3.02","64.56","49","DELAY KATEGORI 1"
-"Garuda Indonesia","27.65","18.19","0","2.8","54.54","16","DELAY KATEGORI 0"
-"Garuda Indonesia","27.65","18.19","0","2.8","54.54","0","TIDAK DELAY"
-"Citilink","27.44","18.55","0","2.69","80.98","19","DELAY KATEGORI 0"
-"Garuda Indonesia","27.67","18.62","0","2.64","72.8","26","DELAY KATEGORI 0"
-"Citilink","27.65","18.01","0","1.46","83.86","22","DELAY KATEGORI 0"
-"Garuda Indonesia","27.9","18.01","0","1.32","94.76","19","DELAY KATEGORI 0"
-"AirAsia","27.93","18.43","0.01","1.13","148.83","2","DELAY KATEGORI 0"
-"Citilink","27.93","18.43","0.01","1.13","148.83","30","DELAY KATEGORI 1"
-"Garuda Indonesia","28.01","18.55","0","0.73","126.75","31","DELAY KATEGORI 1"
-"Lion Air","28.41","19.41","0.1","1.68","195.91","16","DELAY KATEGORI 0"
-"AirAsia","28.61","19.53","0.15","1.37","179.02","25","DELAY KATEGORI 0"
-"Citilink","28.61","19.53","0.15","1.37","179.02","35","DELAY KATEGORI 1"
-"Garuda Indonesia","28.6","19.84","0.1","1.85","195.68","28","DELAY KATEGORI 0"
-"Lion Air","28.18","20.45","0.16","2.33","175.76","7","DELAY KATEGORI 0"
-"AirAsia","28.28","20.45","0.14","2.41","180","61","DELAY KATEGORI 2"
-"Citilink","28.28","20.45","0.14","2.41","180","27","DELAY KATEGORI 0"
-"Garuda Indonesia","28.55","20.39","0.15","2.72","206.27","16","DELAY KATEGORI 0"
-"Lion Air","28.21","20.14","0.06","2.99","153.97","11","DELAY KATEGORI 0"
-"AirAsia","28.33","20.08","0.07","2.55","148.01","13","DELAY KATEGORI 0"
-"Citilink","28.33","20.08","0.07","2.55","148.01","9","DELAY KATEGORI 0"
-"AirAsia","28.37","19.78","0","4.42","105.07","0","TIDAK DELAY"
-"Citilink","28.37","19.78","0","4.42","105.07","21","DELAY KATEGORI 0"
-"Garuda Indonesia","28.59","19.53","0.01","3.28","87.95","17","DELAY KATEGORI 0"
-"AirAsia","28.67","19.17","0","5.76","63.75","2","DELAY KATEGORI 0"
-"Citilink","28.67","19.17","0","5.76","63.75","52","DELAY KATEGORI 1"
-"Garuda Indonesia","28.58","19.65","0","5.37","58.81","0","TIDAK DELAY"
-"AirAsia","28.69","20.02","0.1","6.1","59.26","0","TIDAK DELAY"
-"Citilink","28.69","20.02","0.1","6.1","59.26","16","DELAY KATEGORI 0"
-"Garuda Indonesia","28.69","20.08","0.12","6.11","57.79","8","DELAY KATEGORI 0"
-"AirAsia","28.79","20.08","0.07","3.84","65.21","1","DELAY KATEGORI 0"
-"Citilink","28.79","20.08","0.07","3.84","65.21","32","DELAY KATEGORI 1"
-"Garuda Indonesia","29.01","20.14","0.13","4.12","63.78","181","DELAY KATEGORI 4"
-"Citilink","28.08","20.39","0.23","4.35","89.28","54","DELAY KATEGORI 1"
-"Garuda Indonesia","28.49","20.45","0.12","3.9","91.38","23","DELAY KATEGORI 0"
-"Citilink","28.66","20.08","0.04","4.7","75.46","23","DELAY KATEGORI 0"
-"Garuda Indonesia","28.51","20.75","0.26","4.71","75.6","69","DELAY KATEGORI 2"
-"Citilink","28.26","20.57","0.28","3.78","89.41","48","DELAY KATEGORI 1"
-"AirAsia","28.38","20.51","0.32","3.4","88.55","7","DELAY KATEGORI 0"
-"Garuda Indonesia","28.39","20.45","0.28","3.28","81.1","14","DELAY KATEGORI 0"
-"Citilink","28.69","20.45","0.31","3.36","110.67","33","DELAY KATEGORI 1"
-"AirAsia","28.64","20.26","0.28","2.7","111.89","18","DELAY KATEGORI 0"
-"Garuda Indonesia","28.55","20.14","0.27","2.48","108.55","19","DELAY KATEGORI 0"
-"Batik Air","28.48","20.08","0.25","2.36","104.54","15","DELAY KATEGORI 0"
-"Citilink","28.65","19.65","0.11","3.37","147.78","35","DELAY KATEGORI 1"
-"AirAsia","28.75","19.1","0.08","2.18","146.08","0","TIDAK DELAY"
-"Garuda Indonesia","28.81","18.68","0.04","1.23","142.77","10","DELAY KATEGORI 0"
-"Citilink","28.92","19.53","0.01","2.7","136.64","20","DELAY KATEGORI 0"
-"AirAsia","29.02","19.41","0.04","2.1","144.24","51","DELAY KATEGORI 1"
-"Garuda Indonesia","29.08","19.29","0.03","1.69","151.54","22","DELAY KATEGORI 0"
-"Batik Air","29.07","19.23","0.06","1.31","161.24","39","DELAY KATEGORI 1"
-"Citilink","28.91","18.98","0.03","1.81","52.19","51","DELAY KATEGORI 1"
-"AirAsia","29.01","19.17","0.01","2.14","86.02","17","DELAY KATEGORI 0"
-"Garuda Indonesia","29.11","19.17","0.01","2.13","92.32","34","DELAY KATEGORI 1"
-"Garuda Indonesia","29.12","19.17","0.02","2","96.04","0","TIDAK DELAY"
-"Batik Air","29.12","19.17","0.02","2","96.04","16","DELAY KATEGORI 0"
-"Citilink","29.21","19.23","0.01","2.47","113.89","83","DELAY KATEGORI 2"
-"AirAsia","29.3","19.23","0.03","2.54","127.01","25","DELAY KATEGORI 0"
-"Garuda Indonesia","29.26","19.1","0.02","2.48","129.51","30","DELAY KATEGORI 1"
-"Batik Air","29.26","18.98","0.03","2.31","127.57","151","DELAY KATEGORI 3"
-"Lion Air","28.19","18.43","0.82","0.79","93.96","46","DELAY KATEGORI 1"
-"Citilink","27.74","18.49","0.98","0.69","109.26","59","DELAY KATEGORI 1"
-"AirAsia","27.48","18.43","0.97","0.28","183.18","42","DELAY KATEGORI 1"
-"Garuda Indonesia","27.41","18.37","1.05","0.06","50.19","20","DELAY KATEGORI 0"
-"Batik Air","27.31","18.37","0.93","0.19","333.43","121","DELAY KATEGORI 3"
-"Lion Air","28.33","19.17","0.06","2.48","133.98","30","DELAY KATEGORI 1"
-"Citilink","28.55","19.47","0.06","2.86","144.44","74","DELAY KATEGORI 2"
-"AirAsia","28.91","19.53","0.04","2.96","154.18","33","DELAY KATEGORI 1"
-"Batik Air","28.96","19.47","0.02","2.82","156.63","26","DELAY KATEGORI 0"
-"Garuda Indonesia","29.05","19.41","0.02","2.67","158.76","0","TIDAK DELAY"
-"Lion Air","28.93","20.08","0.06","3.56","157.83","18","DELAY KATEGORI 0"
-"Citilink","29.06","20.26","0.04","3.77","163.4","25","DELAY KATEGORI 0"
-"AirAsia","29.17","20.08","0.07","2.86","178.28","41","DELAY KATEGORI 1"
-"Garuda Indonesia","29.19","20.02","0.1","2.61","183.27","40","DELAY KATEGORI 1"
-"Batik Air","29.19","20.02","0.1","2.61","183.27","31","DELAY KATEGORI 1"
-"Lion Air","28.78","20.63","0.11","3.8","151.12","12","DELAY KATEGORI 0"
-"Citilink","28.77","20.81","0.19","4.01","149.19","34","DELAY KATEGORI 1"
-"AirAsia","28.83","20.81","0.16","3.84","158.91","46","DELAY KATEGORI 1"
-"Garuda Indonesia","28.83","20.81","0.16","3.72","166.02","18","DELAY KATEGORI 0"
-"Batik Air","28.78","20.81","0.21","3.58","171.59","37","DELAY KATEGORI 1"
-"Lion Air","28.62","20.14","0.26","2.01","135.47","22","DELAY KATEGORI 0"
-"Lion Air","28.62","20.14","0.26","2.01","135.47","15","DELAY KATEGORI 0"
-"Citilink","28.58","20.14","0.27","1.92","136.97","17","DELAY KATEGORI 0"
-"AirAsia","28.58","20.02","0.24","1.89","134.83","3","DELAY KATEGORI 0"
-"Garuda Indonesia","28.61","19.96","0.26","1.91","136.66","16","DELAY KATEGORI 0"
-"Batik Air","28.54","19.84","0.21","1.84","141.38","40","DELAY KATEGORI 1"
-"Lion Air","28.62","19.29","0.06","2.92","102.51","12","DELAY KATEGORI 0"
-"Citilink","28.75","19.1","0.05","2.77","114.47","22","DELAY KATEGORI 0"
-"AirAsia","28.77","19.04","0.06","2.63","113.44","29","DELAY KATEGORI 0"
-"Garuda Indonesia","28.65","18.8","0.15","1.94","112.74","14","DELAY KATEGORI 0"
-"Batik Air","28.44","18.49","0.28","1.02","110.66","15","DELAY KATEGORI 0"
-"Lion Air","28.01","19.1","0.05","2.91","80.59","0","TIDAK DELAY"
-"Citilink","28.26","19.1","0.02","3.08","76.67","43","DELAY KATEGORI 1"
-"AirAsia","28.47","19.29","0.01","3.03","76.43","86","DELAY KATEGORI 2"
-"Garuda Indonesia","28.63","19.35","0.01","2.93","77.7","286","DELAY KATEGORI 5"
-"Lion Air","28.79","19.96","0.05","2.54","114.52","10","DELAY KATEGORI 0"
-"Citilink","28.94","19.84","0.04","2.41","112.08","30","DELAY KATEGORI 1"
-"AirAsia","29.22","20.08","0.04","2.9","98.98","33","DELAY KATEGORI 1"
-"Garuda Indonesia","29.29","20.2","0.05","3.18","93.09","185","DELAY KATEGORI 4"
-"Batik Air","29.42","20.32","0.07","3.43","89.22","89","DELAY KATEGORI 2"
-"Lion Air","29.33","20.69","0.1","4.39","52.89","6","DELAY KATEGORI 0"
-"Citilink","29.37","20.63","0.09","3.69","51.97","42","DELAY KATEGORI 1"
-"AirAsia","29.37","20.63","0.09","3.69","51.97","31","DELAY KATEGORI 1"
-"Garuda Indonesia","29.35","20.94","0.22","3.52","55.22","0","TIDAK DELAY"
-"Garuda Indonesia","29.3","21.18","0.23","3.61","58.99","0","TIDAK DELAY"
-"Batik Air","29.28","21.36","0.27","3.7","62.3","49","DELAY KATEGORI 1"
-"Lion Air","28.98","20.51","0.33","3.06","120.16","2","DELAY KATEGORI 0"
-"Citilink","28.99","20.39","0.37","2.73","112.68","35","DELAY KATEGORI 1"
-"AirAsia","28.87","20.26","0.28","3.06","116.17","44","DELAY KATEGORI 1"
-"Garuda Indonesia","28.8","19.96","0.22","3.14","116.88","27","DELAY KATEGORI 0"
-"Batik Air","28.76","19.65","0.26","3.18","115.81","60","DELAY KATEGORI 1"
-"Lion Air","28.95","20.94","0.28","4.18","104.27","28","DELAY KATEGORI 0"
-"Citilink","28.69","21.06","0.49","4.1","107.19","36","DELAY KATEGORI 1"
-"AirAsia","28.63","20.75","0.21","3.75","104.12","28","DELAY KATEGORI 0"
-"Garuda Indonesia","28.76","20.51","0.1","3.69","98.28","23","DELAY KATEGORI 0"
-"Batik Air","28.94","20.39","0.08","3.8","94.01","70","DELAY KATEGORI 2"
-"Lion Air","28.62","19.35","0.03","3.1","108.98","42","DELAY KATEGORI 1"
-"Garuda Indonesia","28.83","20.32","0.14","3.21","94.6","160","DELAY KATEGORI 3"
-"Citilink","28.83","20.32","0.14","3.21","94.6","15","DELAY KATEGORI 0"
-"AirAsia","28.94","20.94","0.28","3.28","85.62","46","DELAY KATEGORI 1"
-"Batik Air","29.08","21.24","0.28","3.44","79.94","163","DELAY KATEGORI 3"
-"Lion Air","29.64","20.51","0.34","1.3","128.66","10","DELAY KATEGORI 0"
-"Citilink","29.65","20.51","0.3","1.48","168.45","39","DELAY KATEGORI 1"
-"AirAsia","29.73","20.39","0.29","0.71","188.84","47","DELAY KATEGORI 1"
-"Garuda Indonesia","29.76","20.26","0.22","0.2","101.31","31","DELAY KATEGORI 1"
-"Garuda Indonesia","29.76","20.26","0.22","0.2","101.31","0","TIDAK DELAY"
-"Batik Air","29.72","20.32","0.19","0.8","53.35","71","DELAY KATEGORI 2"
-"Lion Air","29.3","19.9","0.19","0.69","234.16","141","DELAY KATEGORI 3"
-"Citilink","29.33","20.08","0.21","1.15","257.47","67","DELAY KATEGORI 2"
-"AirAsia","29.36","20.2","0.28","1.19","250.02","23","DELAY KATEGORI 0"
-"Garuda Indonesia","29.31","20.2","0.27","1.18","247","30","DELAY KATEGORI 1"
-"Citilink","28.21","17.94","0.01","2","221.84","41","DELAY KATEGORI 1"
-"AirAsia","28.58","17.7","0","1.7","218.08","24","DELAY KATEGORI 0"
-"Garuda Indonesia","28.74","17.64","0","1.66","216.98","25","DELAY KATEGORI 0"
-"Lion Air","28.94","19.29","0.05","1.39","184.84","19","DELAY KATEGORI 0"
-"Citilink","28.95","19.47","0.03","1.67","171.68","76","DELAY KATEGORI 2"
-"AirAsia","29.08","19.78","0.03","2.12","170.47","32","DELAY KATEGORI 1"
-"Garuda Indonesia","29.12","19.84","0.06","2.06","171.25","97","DELAY KATEGORI 2"
-"Lion Air","29.19","19.9","0.11","2","163.47","22","DELAY KATEGORI 0"
-"Citilink","29.31","19.9","0.08","2.09","172.93","48","DELAY KATEGORI 1"
-"AirAsia","29.42","20.14","0.09","2.54","209.48","21","DELAY KATEGORI 0"
-"Garuda Indonesia","29.42","20.32","0.08","2.89","221.83","29","DELAY KATEGORI 0"
-"Batik Air","29.5","20.45","0.09","3.15","229.23","48","DELAY KATEGORI 1"
-"Lion Air","29.85","20.02","0.14","2.52","232.42","15","DELAY KATEGORI 0"
-"Citilink","29.94","20.02","0.19","2.6","225.73","21","DELAY KATEGORI 0"
-"AirAsia","30.02","20.26","0.19","2.95","220.91","26","DELAY KATEGORI 0"
-"Garuda Indonesia","30.01","20.39","0.2","3.18","221.12","26","DELAY KATEGORI 0"
-"Batik Air","29.99","20.45","0.2","3.3","222.31","225","DELAY KATEGORI 4"
-"Lion Air","28.83","21.61","0.62","5.55","238.17","18","DELAY KATEGORI 0"
-"Citilink","28.83","21.06","0.34","5.68","229.13","65","DELAY KATEGORI 2"
-"AirAsia","29.04","19.78","0.07","4.79","220.9","32","DELAY KATEGORI 1"
-"Garuda Indonesia","29.19","19.1","0.02","4.31","219.11","31","DELAY KATEGORI 1"
-"Batik Air","29.38","18.62","0","4.03","221.38","87","DELAY KATEGORI 2"
-"Citilink","29.57","20.69","0.4","3.01","223.53","73","DELAY KATEGORI 2"
-"AirAsia","29.55","20.57","0.52","2.71","233.1","29","DELAY KATEGORI 0"
-"Garuda Indonesia","29.46","20.39","0.55","2.38","244.78","29","DELAY KATEGORI 0"
-"Batik Air","29.35","20.26","0.57","2.32","256.38","38","DELAY KATEGORI 1"
-"Citilink","28.88","20.08","0.47","2.25","275.59","48","DELAY KATEGORI 1"
-"AirAsia","28.8","20.26","0.47","3.04","299.2","23","DELAY KATEGORI 0"
-"Garuda Indonesia","28.76","20.26","0.46","3.46","306.92","11","DELAY KATEGORI 0"
-"Batik Air","28.73","20.14","0.39","3.77","310.72","32","DELAY KATEGORI 1"
-"Citilink","28.76","18.07","0.09","0.7","290.85","102","DELAY KATEGORI 2"
-"AirAsia","28.96","18.55","0.06","1.77","282.01","38","DELAY KATEGORI 1"
-"Garuda Indonesia","29.05","18.92","0.05","2.38","281.16","42","DELAY KATEGORI 1"
-"Batik Air","29.12","19.29","0.06","2.93","280.44","140","DELAY KATEGORI 3"
-"Citilink","29.22","20.32","0.23","3.35","207.94","50","DELAY KATEGORI 1"
-"AirAsia","29.23","20.26","0.29","3.15","209.62","22","DELAY KATEGORI 0"
-"Garuda Indonesia","29.18","20.26","0.32","3.08","213.01","16","DELAY KATEGORI 0"
-"Citilink","28.27","20.51","0.98","5.04","220.73","31","DELAY KATEGORI 1"
-"AirAsia","28.33","20.69","1.04","5.17","205.13","18","DELAY KATEGORI 0"
-"Garuda Indonesia","28.46","20.51","1.03","5.12","197.66","18","DELAY KATEGORI 0"
-"Citilink","29.16","20.32","0.09","3.6","190.38","58","DELAY KATEGORI 1"
-"AirAsia","29.26","20.14","0.07","2.69","193.79","18","DELAY KATEGORI 0"
-"Garuda Indonesia","29.25","20.02","0.08","2.21","194.53","39","DELAY KATEGORI 1"
-"Citilink","29.19","21","0.07","3.22","138.74","48","DELAY KATEGORI 1"
-"Garuda Indonesia","29.29","21.12","0.17","2.99","154.17","25","DELAY KATEGORI 0"
-"Citilink","29","19.84","0.04","1.81","267.52","110","DELAY KATEGORI 2"
-"AirAsia","29.31","20.32","0.06","3.08","284.85","39","DELAY KATEGORI 1"
-"Garuda Indonesia","29.41","20.63","0.08","3.58","291.64","58","DELAY KATEGORI 1"
-"Lion Air","29.94","20.32","0.04","5.27","273.4","20","DELAY KATEGORI 0"
-"Citilink","30.05","21","0.19","5.42","285.72","26","DELAY KATEGORI 0"
-"Garuda Indonesia","30.24","21.24","0.39","5.33","290.51","34","DELAY KATEGORI 1"
-"Citilink","29.26","21.36","1.53","6.33","227.95","20","DELAY KATEGORI 0"
-"AirAsia","29.08","20.63","0.65","7.04","226.26","21","DELAY KATEGORI 0"
-"Garuda Indonesia","29.08","20.63","0.65","7.04","226.26","22","DELAY KATEGORI 0"
-"Citilink","29.84","20.2","0.07","5.71","212.43","67","DELAY KATEGORI 2"
-"AirAsia","29.82","20.45","0.13","5.98","221.08","66","DELAY KATEGORI 2"
-"Garuda Indonesia","29.81","20.51","0.14","6.16","226.7","110","DELAY KATEGORI 2"
-"Citilink","29.37","19.9","0.37","3.3","228.16","63","DELAY KATEGORI 2"
-"AirAsia","29.29","19.84","0.28","3.01","224.79","79","DELAY KATEGORI 2"
-"Garuda Indonesia","29.23","19.84","0.23","2.91","222.39","22","DELAY KATEGORI 0"
-"Citilink","29.19","20.57","0.45","5.34","247.3","13","DELAY KATEGORI 0"
-"AirAsia","29.25","20.26","0.17","4.88","245.4","30","DELAY KATEGORI 1"
-"Garuda Indonesia","29.23","19.96","0.1","4.39","245.62","11","DELAY KATEGORI 0"
-"Citilink","29.11","20.45","0.25","3.28","235.29","13","DELAY KATEGORI 0"
-"AirAsia","29.19","20.32","0.25","3.32","232.27","241","DELAY KATEGORI 5"
-"Garuda Indonesia","29.24","20.26","0.17","3.36","232.28","20","DELAY KATEGORI 0"
-"Lion Air","29.08","19.84","0.05","2.82","173.64","1","DELAY KATEGORI 0"
-"Citilink","29.18","19.84","0.04","3.12","155.43","49","DELAY KATEGORI 1"
-"Garuda Indonesia","29.33","19.53","0.03","2.59","166.76","21","DELAY KATEGORI 0"
-"AirAsia","29.33","19.53","0.03","2.59","166.76","44","DELAY KATEGORI 1"
-"Lion Air","29.31","19.71","0.25","2.07","227.9","39","DELAY KATEGORI 1"
-"Citilink","29.21","19.59","0.37","1.56","200.79","32","DELAY KATEGORI 1"
-"Garuda Indonesia","29.11","19.65","0.42","1.34","211.37","25","DELAY KATEGORI 0"
-"Lion Air","28.32","19.59","0.22","3.08","212.24","21","DELAY KATEGORI 0"
-"Citilink","28.53","19.65","0.16","3.27","198.26","27","DELAY KATEGORI 0"
-"Garuda Indonesia","28.7","19.78","0.22","3.59","187.64","12","DELAY KATEGORI 0"
-"AirAsia","28.7","19.78","0.22","3.59","187.64","47","DELAY KATEGORI 1"
-"Citilink","28.71","19.96","0.44","3.34","211.31","24","DELAY KATEGORI 0"
-"AirAsia","28.51","19.71","0.51","2.95","218.45","109","DELAY KATEGORI 2"
-"Garuda Indonesia","28.42","19.53","0.42","2.78","220.09","21","DELAY KATEGORI 0"
-"Lion Air","28.8","18.25","0.03","2.22","241.63","17","DELAY KATEGORI 0"
-"Citilink","28.9","18.92","0.05","2.9","246.13","44","DELAY KATEGORI 1"
-"AirAsia","28.83","19.1","0.05","3.13","251.34","18","DELAY KATEGORI 0"
-"Garuda Indonesia","28.86","19.17","0.08","3.18","254.33","16","DELAY KATEGORI 0"
-"Citilink","28.96","19.47","0.06","3.45","224.63","60","DELAY KATEGORI 1"
-"AirAsia","29.18","19.53","0.08","3.26","229.37","22","DELAY KATEGORI 0"
-"Garuda Indonesia","29.26","19.53","0.1","3.04","230.42","21","DELAY KATEGORI 0"
-"Lion Air","29.25","18.43","0.01","3.83","255.71","21","DELAY KATEGORI 0"
-"Citilink","29.37","18.13","0.01","3.26","252.43","98","DELAY KATEGORI 2"
-"AirAsia","29.5","18.31","0.02","3.13","252.56","4","DELAY KATEGORI 0"
-"Garuda Indonesia","29.51","18.43","0.03","3.19","253.34","26","DELAY KATEGORI 0"
-"Citilink","28.17","18.25","0.01","2.05","303.51","33","DELAY KATEGORI 1"
-"AirAsia","28.36","17.94","0","2.11","291.53","37","DELAY KATEGORI 1"
-"Garuda Indonesia","28.49","17.88","0","2.31","288.5","36","DELAY KATEGORI 1"
-"Citilink","29.55","19.65","0.16","1.83","247.7","18","DELAY KATEGORI 0"
-"Garuda Indonesia","29.59","19.84","0.19","2.18","244.72","23","DELAY KATEGORI 0"
-"Citilink","29.26","19.9","0.13","3.18","206.38","30","DELAY KATEGORI 1"
-"AirAsia","29.36","19.9","0.19","3.12","221.44","43","DELAY KATEGORI 1"
-"Garuda Indonesia","29.42","19.9","0.16","3.2","227.67","75","DELAY KATEGORI 2"
-"Lion Air","28.75","18.49","0.16","0.8","201.08","2","DELAY KATEGORI 0"
-"Citilink","28.78","18.43","0.17","1.24","194.56","53","DELAY KATEGORI 1"
-"AirAsia","28.76","18.37","0.17","1.51","189.56","16","DELAY KATEGORI 0"
-"Garuda Indonesia","28.68","18.31","0.17","1.56","186.34","25","DELAY KATEGORI 0"
-"Citilink","29.07","18.98","0.25","2.76","182.11","19","DELAY KATEGORI 0"
-"AirAsia","29.13","18.98","0.29","2.48","182.71","46","DELAY KATEGORI 1"
-"Garuda Indonesia","29.1","18.92","0.24","2.38","187.92","28","DELAY KATEGORI 0"
-"Citilink","29.18","19.41","0.28","1.72","201.07","55","DELAY KATEGORI 1"
-"AirAsia","29.15","19.04","0.2","1.38","192.07","0","TIDAK DELAY"
-"Garuda Indonesia","29.14","18.92","0.25","1.3","200.07","20","DELAY KATEGORI 0"
-"Citilink","31.12","20.26","0.14","3.67","160.21","69","DELAY KATEGORI 2"
-"AirAsia","31.22","20.69","0.27","3.22","164.11","27","DELAY KATEGORI 0"
-"Garuda Indonesia","31.27","20.94","0.32","3.07","169.75","35","DELAY KATEGORI 1"
-"Citilink","29.62","19.23","0.05","2.85","187.71","39","DELAY KATEGORI 1"
-"AirAsia","29.61","19.1","0.06","2.68","190.23","15","DELAY KATEGORI 0"
-"Garuda Indonesia","29.67","19.23","0.05","2.78","194","28","DELAY KATEGORI 0"
-"Lion Air","29.1","18.13","0.06","1.29","290.19","15","DELAY KATEGORI 0"
-"Citilink","29.26","18.43","0.08","1.89","341.42","52","DELAY KATEGORI 1"
-"AirAsia","29.31","18.8","0.16","2.32","359.42","18","DELAY KATEGORI 0"
-"Garuda Indonesia","29.27","18.86","0.17","2.33","4.04","26","DELAY KATEGORI 0"
-"Citilink","28.78","17.7","0.12","1.65","74.05","100","DELAY KATEGORI 2"
-"AirAsia","28.96","17.64","0.08","1.39","92.57","78","DELAY KATEGORI 2"
-"Garuda Indonesia","29","17.58","0.08","1.22","107.16","25","DELAY KATEGORI 0"
-"Lion Air","29.37","18.37","0.07","2.64","230.41","5","DELAY KATEGORI 0"
-"Citilink","29.42","18.55","0.15","2.67","224.41","61","DELAY KATEGORI 2"
-"AirAsia","29.33","18.86","0.17","2.79","213.11","64","DELAY KATEGORI 2"
-"Garuda Indonesia","29.26","18.98","0.14","2.84","209.18","9","DELAY KATEGORI 0"
-"Citilink","31","17.94","0.06","1.88","210.39","44","DELAY KATEGORI 1"
-"AirAsia","31.39","17.94","0.11","1.59","210.09","477","DELAY KATEGORI 5"
-"Garuda Indonesia","31.48","18.13","0.11","1.76","214.33","30","DELAY KATEGORI 1"
-"Citilink","29.35","19.59","0.08","3.24","228.23","52","DELAY KATEGORI 1"
-"AirAsia","29.34","20.02","0.1","3.84","219.06","497","DELAY KATEGORI 5"
-"Garuda Indonesia","29.23","20.08","0.11","3.96","218.59","14","DELAY KATEGORI 0"
-"Citilink","29.48","21.06","0.29","4.68","208.83","52","DELAY KATEGORI 1"
-"AirAsia","29.4","21.24","0.4","4.87","212.7","462","DELAY KATEGORI 5"
-"Garuda Indonesia","29.36","21.3","0.47","4.99","216.92","31","DELAY KATEGORI 1"
-"Lion Air","31.39","18.49","0.55","1.8","293.79","0","TIDAK DELAY"
-"Citilink","31.66","18.43","0.69","1.56","297.85","17","DELAY KATEGORI 0"
-"AirAsia","31.01","19.78","0.83","3.13","331.83","22","DELAY KATEGORI 0"
-"Garuda Indonesia","30.74","20.57","2.62","4.45","343.57","38","DELAY KATEGORI 1"
-"Lion Air","27.76","17.27","0.13","2.26","220.36","18","DELAY KATEGORI 0"
-"Citilink","28.77","16.85","0.03","1.76","198.92","61","DELAY KATEGORI 2"
-"AirAsia","28.94","16.97","0.04","1.79","211.26","52","DELAY KATEGORI 1"
-"Garuda Indonesia","28.97","17.09","0.06","1.86","227.39","100","DELAY KATEGORI 2"
-"Lion Air","28.5","17.76","0.17","0.77","270","18","DELAY KATEGORI 0"
-"Citilink","28.55","17.4","0.13","0.4","225.78","58","DELAY KATEGORI 1"
-"AirAsia","28.51","17.4","0.18","0.47","248.55","35","DELAY KATEGORI 1"
-"Garuda Indonesia","28.55","17.46","0.21","0.87","270.52","26","DELAY KATEGORI 0"
-"Lion Air","28.12","19.78","0.45","3.37","209.3","21","DELAY KATEGORI 0"
-"Citilink","28.19","19.9","0.47","3.83","213.85","54","DELAY KATEGORI 1"
-"AirAsia","28.19","19.96","0.49","4","217.79","35","DELAY KATEGORI 1"
-"Garuda Indonesia","28.18","20.02","0.41","4.2","221.99","42","DELAY KATEGORI 1"
-"Lion Air","28.45","19.29","0.43","2.03","250.45","19","DELAY KATEGORI 0"
-"Citilink","28.73","19.04","0.19","1.8","256.45","164","DELAY KATEGORI 3"
-"AirAsia","28.8","18.86","0.18","1.58","250.4","54","DELAY KATEGORI 1"
-"Garuda Indonesia","28.92","18.74","0.15","1.43","238.82","38","DELAY KATEGORI 1"
-"Lion Air","28.91","18.98","0.03","1.88","203.79","11","DELAY KATEGORI 0"
-"Citilink","29.05","19.29","0.02","2.41","199.08","49","DELAY KATEGORI 1"
-"AirAsia","29.12","19.41","0.01","2.5","200.14","30","DELAY KATEGORI 1"
-"Garuda Indonesia","29.15","19.41","0.02","2.49","201.5","53","DELAY KATEGORI 1"
-"Lion Air","29.61","18.25","0.02","1.95","341.27","0","TIDAK DELAY"
-"Citilink","29.69","18.49","0.03","2.31","333.87","16","DELAY KATEGORI 0"
-"AirAsia","29.87","18.86","0.05","2.53","322.67","20","DELAY KATEGORI 0"
-"Garuda Indonesia","29.94","19.1","0.02","3.24","294.96","42","DELAY KATEGORI 1"
-"Lion Air","29.12","19.65","0.2","2.69","208.65","44","DELAY KATEGORI 1"
-"Citilink","29.45","19.96","0.24","2.86","209.65","52","DELAY KATEGORI 1"
-"AirAsia","29.58","20.14","0.3","3.13","212.34","46","DELAY KATEGORI 1"
-"Garuda Indonesia","29.61","20.26","0.29","3.36","213.8","93","DELAY KATEGORI 2"
-"Lion Air","30.08","20.94","0.26","6.97","225.36","17","DELAY KATEGORI 0"
-"AirAsia","30.1","21.3","0.52","7.64","218.9","36","DELAY KATEGORI 1"
-"Garuda Indonesia","29.98","21.3","0.72","7.98","217.52","151","DELAY KATEGORI 3"
-"Citilink","29.86","21.18","0.79","8.33","216.49","0","TIDAK DELAY"
-"Lion Air","29.62","20.45","0.38","6.45","216.38","22","DELAY KATEGORI 0"
-"Citilink","29.7","20.45","0.3","6.64","209.16","68","DELAY KATEGORI 2"
-"AirAsia","29.7","20.45","0.33","6.55","210.35","19","DELAY KATEGORI 0"
-"Garuda Indonesia","29.67","20.45","0.29","6.41","211.44","49","DELAY KATEGORI 1"
-"Lion Air","29.3","20.75","0.37","6","208.74","19","DELAY KATEGORI 0"
-"Citilink","29.35","20.63","0.31","6.9","206.04","38","DELAY KATEGORI 1"
-"AirAsia","29.34","20.51","0.14","6.94","209.82","43","DELAY KATEGORI 1"
-"Garuda Indonesia","29.42","20.32","0.04","6.77","213.56","33","DELAY KATEGORI 1"
-"Lion Air","29.23","21.12","0.21","6.29","191.46","30","DELAY KATEGORI 1"
-"Citilink","29.36","21.18","0.11","5.86","194.04","67","DELAY KATEGORI 2"
-"AirAsia","29.38","21.12","0.11","5.68","196.79","25","DELAY KATEGORI 0"
-"Garuda Indonesia","29.52","21","0.09","5.51","199.28","43","DELAY KATEGORI 1"
-"Lion Air","30.12","22.28","0.63","1","217.05","7","DELAY KATEGORI 0"
-"Citilink","29.8","22.03","0.65","1.02","245.19","51","DELAY KATEGORI 1"
-"AirAsia","29.7","22.09","0.59","1.6","250.06","23","DELAY KATEGORI 0"
-"Garuda Indonesia","29.62","22.4","0.47","3.36","246.59","16","DELAY KATEGORI 0"
-"Lion Air","28.59","20.57","0.49","5.89","251.28","11","DELAY KATEGORI 0"
-"Citilink","28.71","20.39","0.21","4.89","274.49","54","DELAY KATEGORI 1"
-"AirAsia","28.68","20.39","0.23","4.61","274.96","92","DELAY KATEGORI 2"
-"Garuda Indonesia","28.65","20.39","0.24","4.28","270.94","25","DELAY KATEGORI 0"
-"Lion Air","29.83","19.96","0.06","6.18","146.09","25","DELAY KATEGORI 0"
-"AirAsia","30.07","19.47","0.02","5.4","163.95","66","DELAY KATEGORI 2"
-"Garuda Indonesia","30.14","19.59","0.03","5.37","171.96","49","DELAY KATEGORI 1"
-"Citilink","30.26","19.78","0.06","5.51","178.13","72","DELAY KATEGORI 2"
-"Lion Air","29.71","20.02","0.07","4.45","237.54","7","DELAY KATEGORI 0"
-"Garuda Indonesia","30.08","20.63","0.08","5.16","235.11","25","DELAY KATEGORI 0"
-"Citilink","30.26","20.57","0.12","5","233.83","0","TIDAK DELAY"
-"AirAsia","30.55","20.32","0.09","4.75","232.49","30","DELAY KATEGORI 1"
-"Lion Air","29.74","20.75","0.83","2.42","266.67","20","DELAY KATEGORI 0"
-"Citilink","29.09","20.81","0.98","2.43","219.12","40","DELAY KATEGORI 1"
-"AirAsia","28.99","21.06","0.78","3.05","218.87","14","DELAY KATEGORI 0"
-"Garuda Indonesia","28.92","21.12","0.75","3.49","220.46","27","DELAY KATEGORI 0"
-"Lion Air","29.16","19.53","0.1","5.32","224.05","18","DELAY KATEGORI 0"
-"Citilink","29.12","19.71","0.1","6.04","224.11","22","DELAY KATEGORI 0"
-"AirAsia","29.14","19.65","0.11","5.84","225.43","43","DELAY KATEGORI 1"
-"Garuda Indonesia","29.24","19.59","0.12","5.58","226.31","15","DELAY KATEGORI 0"
-"Lion Air","27.95","20.08","0.52","4.51","261.83","11","DELAY KATEGORI 0"
-"Citilink","27.91","19.84","0.61","4.08","268.03","16","DELAY KATEGORI 0"
-"AirAsia","27.8","19.65","0.68","3.8","261.37","10","DELAY KATEGORI 0"
-"Garuda Indonesia","27.72","19.53","0.65","3.64","251.37","37","DELAY KATEGORI 1"
-"Lion Air","27.91","19.59","1.2","5.53","232.52","11","DELAY KATEGORI 0"
-"Garuda Indonesia","27.82","19.84","1.7","6.04","240.59","26","DELAY KATEGORI 0"
-"Garuda Indonesia","27.8","19.96","1.87","6.22","240.92","0","TIDAK DELAY"
-"AirAsia","27.91","20.08","1.93","6.37","241.36","26","DELAY KATEGORI 0"
-"Citilink","27.91","20.08","1.93","6.37","241.36","0","TIDAK DELAY"
-"Lion Air","29.01","19.65","0.18","8","258.62","16","DELAY KATEGORI 0"
-"AirAsia","29.38","19.84","0.07","7.66","270.06","9","DELAY KATEGORI 0"
-"Garuda Indonesia","29.44","19.78","0.09","7.8","272.99","30","DELAY KATEGORI 1"
-"Citilink","29.44","19.78","0.09","7.8","272.99","0","TIDAK DELAY"
-"Lion Air","28.95","19.84","0.19","8.9","255.21","21","DELAY KATEGORI 0"
-"AirAsia","29.44","19.78","0.18","7.2","252.65","124","DELAY KATEGORI 3"
-"Garuda Indonesia","29.58","19.71","0.11","7","253.39","20","DELAY KATEGORI 0"
-"Citilink","29.7","19.65","0.1","6.91","255.67","0","TIDAK DELAY"
-"Lion Air","28.98","19.84","0.25","5.68","257.36","10","DELAY KATEGORI 0"
-"AirAsia","28.86","20.14","0.36","6.01","250.79","22","DELAY KATEGORI 0"
-"Garuda Indonesia","28.78","20.14","0.28","5.82","242.92","38","DELAY KATEGORI 1"
-"Garuda Indonesia","28.78","20.14","0.28","5.82","242.92","16","DELAY KATEGORI 0"
-"Citilink","28.78","20.14","0.28","5.82","242.92","17","DELAY KATEGORI 0"
-"Lion Air","28.83","19.84","0.18","4.55","214.51","9","DELAY KATEGORI 0"
-"AirAsia","29.02","20.32","0.28","4.93","222.88","28","DELAY KATEGORI 0"
-"Citilink","29.08","20.39","0.24","4.94","223.21","3","DELAY KATEGORI 0"
-"Garuda Indonesia","29.19","20.39","0.18","4.84","221.46","22","DELAY KATEGORI 0"
-"Lion Air","29.33","20.63","0.15","3.84","189.96","23","DELAY KATEGORI 0"
-"AirAsia","29.44","21.48","0.38","4.69","195.84","44","DELAY KATEGORI 1"
-"Garuda Indonesia","29.45","21.55","0.38","4.81","198.58","32","DELAY KATEGORI 1"
-"Citilink","29.49","21.3","0.35","4.94","201.7","1","DELAY KATEGORI 0"
-"Lion Air","28.55","20.2","0.48","4.43","190.77","23","DELAY KATEGORI 0"
-"AirAsia","28.73","19.84","0.19","4.67","197.34","19","DELAY KATEGORI 0"
-"Garuda Indonesia","28.83","19.78","0.13","4.54","197.75","25","DELAY KATEGORI 0"
-"Citilink","28.84","19.65","0.1","4.39","196.63","8","DELAY KATEGORI 0"
-"Lion Air","28.18","19.53","0.08","2.72","172.9","0","TIDAK DELAY"
-"Citilink","28.26","19.9","0.11","3.16","176.6","118","DELAY KATEGORI 2"
-"AirAsia","28.4","20.2","0.1","3.25","184.82","11","DELAY KATEGORI 0"
-"Garuda Indonesia","28.43","20.32","0.15","3.19","187.89","41","DELAY KATEGORI 1"
-"Lion Air","28.47","20.51","0.39","3.94","212.37","14","DELAY KATEGORI 0"
-"Citilink","28.79","20.81","0.27","4.83","208.85","42","DELAY KATEGORI 1"
-"AirAsia","28.85","20.81","0.32","4.82","210.26","7","DELAY KATEGORI 0"
-"Garuda Indonesia","28.92","20.87","0.31","4.75","211.29","15","DELAY KATEGORI 0"
-"Lion Air","28.13","20.32","0.61","4.22","218.46","5","DELAY KATEGORI 0"
-"Citilink","28.12","20.39","0.67","4.15","231.27","42","DELAY KATEGORI 1"
-"AirAsia","28.1","20.45","0.71","4.15","234.42","22","DELAY KATEGORI 0"
-"Garuda Indonesia","28.05","20.51","0.76","4.17","236.85","48","DELAY KATEGORI 1"
-"Lion Air","28.56","18.74","0.19","0.27","31.83","10","DELAY KATEGORI 0"
-"Citilink","29.34","17.94","0.12","0.07","270","30","DELAY KATEGORI 1"
-"AirAsia","29.55","17.82","0.09","0.58","257.47","28","DELAY KATEGORI 0"
-"Garuda Indonesia","29.8","17.82","0.04","1.26","255.96","24","DELAY KATEGORI 0"
-"Lion Air","29.11","18.92","0.06","2.14","12.01","9","DELAY KATEGORI 0"
-"AirAsia","29.06","19.35","0.07","2.7","34.15","15","DELAY KATEGORI 0"
-"Citilink","29.1","19.41","0.09","2.78","35.74","10","DELAY KATEGORI 0"
-"Garuda Indonesia","29.07","19.47","0.1","2.89","35.97","34","DELAY KATEGORI 1"
-"Lion Air","29.41","18.8","0.02","2.51","71.28","4","DELAY KATEGORI 0"
-"Citilink","29.52","18.31","0.02","1.75","37.38","46","DELAY KATEGORI 1"
-"AirAsia","29.57","18.37","0.01","1.88","27.42","15","DELAY KATEGORI 0"
-"Garuda Indonesia","29.54","18.55","0.02","2.02","25.67","26","DELAY KATEGORI 0"
-"Lion Air","29.07","19.04","0.05","2.87","55.66","21","DELAY KATEGORI 0"
-"Citilink","28.94","19.41","0.08","3.72","75.03","45","DELAY KATEGORI 1"
-"AirAsia","28.98","19.41","0.06","3.79","79.92","4","DELAY KATEGORI 0"
-"Garuda Indonesia","29.02","19.35","0.04","3.69","82.59","33","DELAY KATEGORI 1"
-"Lion Air","28.71","18.98","0.06","2.45","127.35","17","DELAY KATEGORI 0"
-"Citilink","28.89","18.8","0.02","2.16","127.08","27","DELAY KATEGORI 0"
-"AirAsia","28.94","18.74","0.02","2.1","131.39","19","DELAY KATEGORI 0"
-"Garuda Indonesia","29.01","18.68","0.02","2.01","136.74","23","DELAY KATEGORI 0"
-"Lion Air","27.9","19.96","0.37","3.92","183.88","6","DELAY KATEGORI 0"
-"AirAsia","27.69","20.2","0.69","4.58","170.07","13","DELAY KATEGORI 0"
-"Garuda Indonesia","27.68","20.2","0.72","4.49","170.39","20","DELAY KATEGORI 0"
-"Citilink","27.62","20.2","0.92","4.38","172.52","0","TIDAK DELAY"
-"Lion Air","28.62","18.43","0.09","2.91","223.26","5","DELAY KATEGORI 0"
-"Citilink","29","18.8","0.11","3.25","182.75","35","DELAY KATEGORI 1"
-"AirAsia","29.05","19.1","0.11","3.59","179.38","13","DELAY KATEGORI 0"
-"Garuda Indonesia","29.12","19.35","0.1","3.77","176.68","14","DELAY KATEGORI 0"
-"Lion Air","29.3","19.84","0.05","4","200.1","10","DELAY KATEGORI 0"
-"Citilink","29.35","20.2","0.11","4.18","199.08","29","DELAY KATEGORI 0"
-"AirAsia","29.31","20.39","0.17","4.09","198.37","10","DELAY KATEGORI 0"
-"Garuda Indonesia","29.32","20.45","0.16","3.98","198.19","20","DELAY KATEGORI 0"
-"Lion Air","29.07","19.9","0.09","3.36","198.18","10","DELAY KATEGORI 0"
-"Citilink","29.15","20.02","0.06","4.26","187.8","46","DELAY KATEGORI 1"
-"AirAsia","29.12","20.2","0.08","4.46","186.74","8","DELAY KATEGORI 0"
-"Garuda Indonesia","29.12","20.32","0.13","4.49","186.99","32","DELAY KATEGORI 1"
-"Lion Air","29.16","20.45","0.17","4.76","212.54","7","DELAY KATEGORI 0"
-"Citilink","29.15","21","0.35","5.74","203.95","15","DELAY KATEGORI 0"
-"AirAsia","29.24","20.94","0.37","5.94","206.97","11","DELAY KATEGORI 0"
-"Garuda Indonesia","29.32","20.81","0.35","6.13","211.24","18","DELAY KATEGORI 0"
-"Lion Air","29.29","20.94","0.48","5.77","226.48","17","DELAY KATEGORI 0"
-"Citilink","28.94","21.12","1.04","4.85","248.44","14","DELAY KATEGORI 0"
-"AirAsia","28.79","21.06","1.18","4.68","253.8","4","DELAY KATEGORI 0"
-"Garuda Indonesia","28.55","20.94","1.22","4.43","257.36","37","DELAY KATEGORI 1"
-"Citilink","28.88","18.74","0.01","2.62","209.32","39","DELAY KATEGORI 1"
-"AirAsia","29.15","18.74","0.01","2.59","212.21","11","DELAY KATEGORI 0"
-"Garuda Indonesia","29.2","18.74","0.03","2.5","213.54","22","DELAY KATEGORI 0"
-"Citilink","28.57","17.76","0.06","0.54","82.57","26","DELAY KATEGORI 0"
-"AirAsia","28.88","17.52","0.09","0.15","74.48","3","DELAY KATEGORI 0"
-"Garuda Indonesia","28.95","17.46","0.16","0.06","140.19","22","DELAY KATEGORI 0"
-"Lion Air","27.87","19.47","0.77","2.21","222.27","7","DELAY KATEGORI 0"
-"Citilink","28.01","19.65","0.84","2.49","247.06","30","DELAY KATEGORI 1"
-"AirAsia","28.26","19.71","0.7","2.56","264.92","45","DELAY KATEGORI 1"
-"Garuda Indonesia","28.35","19.71","0.9","2.57","273.31","24","DELAY KATEGORI 0"
-"Citilink","28.38","19.96","0.55","7.01","259.92","25","DELAY KATEGORI 0"
-"AirAsia","28.4","20.02","0.52","7.27","263.27","34","DELAY KATEGORI 1"
-"Garuda Indonesia","28.34","19.96","0.46","7.3","265.64","30","DELAY KATEGORI 1"
-"Lion Air","28.67","19.47","0.09","5.35","278.57","15","DELAY KATEGORI 0"
-"Citilink","28.65","19.41","0.21","4.59","268.24","56","DELAY KATEGORI 1"
-"AirAsia","28.57","19.41","0.48","4.26","238.73","37","DELAY KATEGORI 1"
-"Garuda Indonesia","28.31","19.59","0.6","4.68","229.4","22","DELAY KATEGORI 0"
-"Citilink","29.04","18.43","0.02","5.33","250.82","37","DELAY KATEGORI 1"
-"AirAsia","29.12","18.55","0.02","5.07","251.79","101","DELAY KATEGORI 2"
-"Garuda Indonesia","29.14","18.62","0.03","4.81","250.83","49","DELAY KATEGORI 1"
-"Citilink","29.08","19.96","0.24","5.45","211.94","50","DELAY KATEGORI 1"
-"Garuda Indonesia","29.16","19.96","0.27","5.45","214.49","31","DELAY KATEGORI 1"
-"Citilink","29.32","20.14","0.17","6.22","209.17","4","DELAY KATEGORI 0"
-"AirAsia","29.48","20.14","0.15","6.39","213.63","24","DELAY KATEGORI 0"
-"Garuda Indonesia","29.55","20.2","0.19","6.42","215.68","61","DELAY KATEGORI 2"
-"Citilink","29.78","19.96","0.36","6.08","232.31","9","DELAY KATEGORI 0"
-"AirAsia","29.69","20.32","0.35","6.06","242.41","66","DELAY KATEGORI 2"
-"Garuda Indonesia","29.67","20.45","0.39","6.12","247.56","22","DELAY KATEGORI 0"
-"Citilink","29.1","19.84","0.12","4.97","212.22","41","DELAY KATEGORI 1"
-"AirAsia","29.12","19.9","0.14","5.01","214.9","64","DELAY KATEGORI 2"
-"Garuda Indonesia","29.08","19.96","0.15","5.09","216.45","39","DELAY KATEGORI 1"
-"Citilink","29.45","19.71","0","5.36","196.32","50","DELAY KATEGORI 1"
-"AirAsia","29.62","19.47","0.01","5.06","201.26","105","DELAY KATEGORI 2"
-"Garuda Indonesia","29.73","19.29","0","4.86","205","25","DELAY KATEGORI 0"
-"Lion Air","29.24","20.26","0.1","3.13","160.48","13","DELAY KATEGORI 0"
-"Citilink","29.21","20.57","0.16","3.23","158.15","31","DELAY KATEGORI 1"
-"AirAsia","29.15","20.57","0.18","2.92","157.54","246","DELAY KATEGORI 5"
-"Garuda Indonesia","29.14","20.51","0.21","2.79","159.33","29","DELAY KATEGORI 0"
-"Lion Air","28.9","19.1","0.17","1.79","187.78","11","DELAY KATEGORI 0"
-"Citilink","28.87","18.98","0.14","1.79","203.99","39","DELAY KATEGORI 1"
-"AirAsia","28.83","19.04","0.16","2.08","214.89","334","DELAY KATEGORI 5"
-"Garuda Indonesia","28.83","19.17","0.13","2.31","218.27","79","DELAY KATEGORI 2"
-"Citilink","28.89","18.92","0.14","1.5","217.41","21","DELAY KATEGORI 0"
-"AirAsia","28.91","19.29","0.14","2.09","238.93","40","DELAY KATEGORI 1"
-"Garuda Indonesia","28.9","19.53","0.11","2.41","242.85","44","DELAY KATEGORI 1"
-"Lion Air","28.66","19.84","0.12","3.11","238.79","14","DELAY KATEGORI 0"
-"Citilink","28.8","20.02","0.11","3.9","245.75","26","DELAY KATEGORI 0"
-"AirAsia","29.06","19.9","0.08","4.06","249.75","211","DELAY KATEGORI 4"
-"Garuda Indonesia","29.15","19.96","0.16","4.26","250.6","28","DELAY KATEGORI 0"
-"AirAsia","29.59","19.9","0.25","4.57","214.56","14","DELAY KATEGORI 0"
-"Garuda Indonesia","29.62","19.78","0.23","4.83","224.87","24","DELAY KATEGORI 0"
-"Lion Air","29.32","19.47","0.08","4.16","191.58","17","DELAY KATEGORI 0"
-"Citilink","29.51","19.1","0.04","4.08","190.49","46","DELAY KATEGORI 1"
-"AirAsia","29.97","18.92","0.02","4.14","194.53","267","DELAY KATEGORI 5"
-"Garuda Indonesia","30.15","18.92","0.02","4.19","199.28","15","DELAY KATEGORI 0"
-"Citilink","29.62","21","0.27","5.04","234.91","14","DELAY KATEGORI 0"
-"AirAsia","29.53","20.75","0.32","4.57","242.08","14","DELAY KATEGORI 0"
-"Garuda Indonesia","29.41","20.69","0.38","4.35","246.15","26","DELAY KATEGORI 0"
-"Citilink","28.95","19.59","0.16","3.39","244.5","63","DELAY KATEGORI 2"
-"AirAsia","29.08","19.84","0.18","3.84","242.39","128","DELAY KATEGORI 3"
-"Garuda Indonesia","29.1","19.9","0.15","4.03","242.99","37","DELAY KATEGORI 1"
-"Citilink","28.4","19.71","0.26","4.88","245.61","42","DELAY KATEGORI 1"
-"AirAsia","28.53","19.47","0.19","4.11","236.07","431","DELAY KATEGORI 5"
-"Garuda Indonesia","28.59","19.29","0.15","3.88","232.28","17","DELAY KATEGORI 0"
-"Lion Air","28.98","19.65","0.16","4.82","255.24","10","DELAY KATEGORI 0"
-"Lion Air","29.2","19.84","0.21","4.79","227.31","1","DELAY KATEGORI 0"
-"Citilink","29.08","20.14","0.41","4.51","215.48","29","DELAY KATEGORI 0"
-"AirAsia","28.94","20.45","1.33","4.97","201.4","383","DELAY KATEGORI 5"
-"Garuda Indonesia","28.87","20.57","1.97","5.57","198.89","15","DELAY KATEGORI 0"
-"Lion Air","30.32","18.49","0.02","5.08","224.31","10","DELAY KATEGORI 0"
-"Citilink","30.4","18.55","0.05","4.96","219.18","22","DELAY KATEGORI 0"
-"AirAsia","30.22","19.1","0.16","5.15","217.36","176","DELAY KATEGORI 3"
-"Garuda Indonesia","30.06","19.35","0.35","5.08","216.5","30","DELAY KATEGORI 1"
-"Citilink","28.92","19.84","0.33","3.11","231.95","32","DELAY KATEGORI 1"
-"AirAsia","28.85","19.78","0.36","3.29","243.01","194","DELAY KATEGORI 4"
-"Garuda Indonesia","28.82","19.78","0.42","3.47","248.75","20","DELAY KATEGORI 0"
-"Garuda Indonesia","28.82","19.78","0.42","3.47","248.75","4","DELAY KATEGORI 0"
-"Citilink","28.98","20.63","0.29","5.85","224.3","40","DELAY KATEGORI 1"
-"AirAsia","29.33","20.45","0.21","6.01","218.93","106","DELAY KATEGORI 2"
-"Garuda Indonesia","29.38","20.39","0.18","5.97","219.05","110","DELAY KATEGORI 2"
-"Lion Air","29.19","20.26","0.21","6.24","212.26","14","DELAY KATEGORI 0"
-"Citilink","29.23","20.39","0.26","6.64","208.47","28","DELAY KATEGORI 0"
-"AirAsia","29.14","20.32","0.42","6.68","203.21","20","DELAY KATEGORI 0"
-"Garuda Indonesia","29.05","20.32","0.46","6.63","200.4","24","DELAY KATEGORI 0"
-"Garuda Indonesia","29.05","20.32","0.46","6.63","200.4","8","DELAY KATEGORI 0"
-"Lion Air","27.5","19.71","0.75","4.37","186.99","0","TIDAK DELAY"
-"Garuda Indonesia","27.4","19.65","1.13","4.33","185.59","12","DELAY KATEGORI 0"
-"Citilink","27.3","19.59","1.26","4.32","186.23","53","DELAY KATEGORI 1"
-"AirAsia","27.29","19.41","1.14","4.26","195.11","12","DELAY KATEGORI 0"
-"Citilink","28.29","17.82","0.14","2.72","266.55","20","DELAY KATEGORI 0"
-"Garuda Indonesia","28.34","17.33","0.14","2.01","264.2","24","DELAY KATEGORI 0"
-"AirAsia","27.57","16.72","1.63","0.09","84.81","26","DELAY KATEGORI 0"
-"Lion Air","29.2","17.58","0.01","2.46","293.39","4","DELAY KATEGORI 0"
-"Citilink","29.23","17.64","0.04","2.14","300.32","29","DELAY KATEGORI 0"
-"AirAsia","29.19","17.76","0.07","1.81","308","7","DELAY KATEGORI 0"
-"Garuda Indonesia","29.17","17.88","0.1","1.89","311.99","43","DELAY KATEGORI 1"
-"Citilink","27.9","18.07","0.15","1.02","150.69","50","DELAY KATEGORI 1"
-"AirAsia","28.01","18.31","0.11","1.32","151.47","24","DELAY KATEGORI 0"
-"Garuda Indonesia","28.01","18.37","0.09","1.18","161.09","20","DELAY KATEGORI 0"
-"Citilink","27.4","19.29","0.13","1.81","225.88","14","DELAY KATEGORI 0"
-"Garuda Indonesia","27.97","19.47","0.15","2.03","210.02","9","DELAY KATEGORI 0"
-"AirAsia","28.18","19.41","0.15","2.2","213.86","46","DELAY KATEGORI 1"
-"Lion Air","28.42","19.47","0.18","2.23","249.09","0","TIDAK DELAY"
-"Citilink","28.43","19.29","0.16","1.83","228.97","43","DELAY KATEGORI 1"
-"AirAsia","28.52","19.17","0.18","1.8","200.32","24","DELAY KATEGORI 0"
-"Garuda Indonesia","28.68","19.23","0.11","2.27","195.76","0","TIDAK DELAY"
-"Citilink","28.95","18.68","0.21","0.74","203.59","42","DELAY KATEGORI 1"
-"Garuda Indonesia","29.14","18.62","0.12","0.74","235.8","16","DELAY KATEGORI 0"
-"AirAsia","29.14","18.62","0.12","0.74","235.8","0","TIDAK DELAY"
-"Lion Air","29.8","18.49","0","3.58","211.16","68","DELAY KATEGORI 2"
-"Citilink","29.8","18.8","0","3.87","220.41","23","DELAY KATEGORI 0"
-"Garuda Indonesia","29.89","18.98","0","3.78","223.07","43","DELAY KATEGORI 1"
-"AirAsia","29.89","18.98","0","3.78","223.07","0","TIDAK DELAY"
-"Lion Air","29.84","21","0.38","5.67","230.37","7","DELAY KATEGORI 0"
-"Citilink","29.73","21.48","0.9","5.21","223.48","29","DELAY KATEGORI 0"
-"Garuda Indonesia","29.19","21.91","1.49","5.56","219.98","8","DELAY KATEGORI 0"
-"AirAsia","29.14","21.85","1.5","6.23","220.02","18","DELAY KATEGORI 0"
-"Batik Air","29.14","21.85","1.5","6.23","220.02","21","DELAY KATEGORI 0"
-"Citilink","29.15","19.84","0.04","5.84","227.82","35","DELAY KATEGORI 1"
-"AirAsia","29.26","19.96","0.14","6.33","221.55","0","TIDAK DELAY"
-"Batik Air","29.29","19.96","0.28","6.55","219.92","22","DELAY KATEGORI 0"
-"Garuda Indonesia","29.3","20.02","0.39","6.59","219.56","135","DELAY KATEGORI 3"
-"Lion Air","29.07","20.39","0.51","4.72","220.3","13","DELAY KATEGORI 0"
-"Citilink","28.92","20.45","0.49","5.82","229.41","23","DELAY KATEGORI 0"
-"AirAsia","28.81","19.84","0.27","6.46","234.25","27","DELAY KATEGORI 0"
-"Garuda Indonesia","28.68","19.65","0.29","6.38","234.17","24","DELAY KATEGORI 0"
-"Citilink","29.23","18.74","0.02","2.87","252.11","52","DELAY KATEGORI 1"
-"AirAsia","29.37","18.98","0.07","3.34","267.85","9","DELAY KATEGORI 0"
-"Garuda Indonesia","29.36","19.1","0.14","3.65","275.89","40","DELAY KATEGORI 1"
-"Lion Air","29.8","16.54","0","2.25","241.56","24","DELAY KATEGORI 0"
-"Citilink","30.06","16.42","0","2.04","274.84","18","DELAY KATEGORI 0"
-"AirAsia","30.13","16.78","0.02","2.35","293.32","24","DELAY KATEGORI 0"
-"Garuda Indonesia","30.11","17.03","0.03","2.66","295.74","28","DELAY KATEGORI 0"
-"Lion Air","29.47","18.01","0.07","3.06","258.95","41","DELAY KATEGORI 1"
-"Citilink","29.35","18.43","0.21","3.38","256.77","29","DELAY KATEGORI 0"
-"AirAsia","28.86","19.35","0.45","4.58","260.87","6","DELAY KATEGORI 0"
-"Batik Air","28.6","19.59","0.51","5.25","262.3","47","DELAY KATEGORI 1"
-"Garuda Indonesia","28.37","19.59","0.44","5.65","261.18","34","DELAY KATEGORI 1"
-"Lion Air","28.48","17.76","0.03","2.12","224.1","33","DELAY KATEGORI 1"
-"Citilink","28.64","17.76","0.07","2.29","224.59","14","DELAY KATEGORI 0"
-"AirAsia","28.61","18.01","0.14","2.54","222.01","8","DELAY KATEGORI 0"
-"Garuda Indonesia","28.52","18.07","0.15","2.61","219.54","25","DELAY KATEGORI 0"
-"Batik Air","28.45","18.13","0.18","2.68","214.29","0","TIDAK DELAY"
-"Lion Air","26.98","18.49","0.7","3.58","246.18","4","DELAY KATEGORI 0"
-"Citilink","27.12","18.74","0.53","3.85","244.79","28","DELAY KATEGORI 0"
-"AirAsia","27.07","18.86","0.43","3.87","246.28","4","DELAY KATEGORI 0"
-"Garuda Indonesia","27.07","18.8","0.49","3.81","247.22","14","DELAY KATEGORI 0"
-"Batik Air","27.07","18.8","0.49","3.81","247.22","15","DELAY KATEGORI 0"
-"Citilink","28.4","19.17","0.4","4.22","293.71","26","DELAY KATEGORI 0"
-"AirAsia","28.31","18.98","0.24","4.42","292.99","4","DELAY KATEGORI 0"
-"Garuda Indonesia","28.3","18.8","0.22","4.38","291.9","27","DELAY KATEGORI 0"
-"Batik Air","28.23","18.68","0.28","4.33","287.98","19","DELAY KATEGORI 0"
-"Lion Air","27.27","18.98","0.56","4.35","266.19","10","DELAY KATEGORI 0"
-"Citilink","27.41","19.1","0.41","4.11","264","29","DELAY KATEGORI 0"
-"AirAsia","27.37","19.04","0.45","3.67","264.51","109","DELAY KATEGORI 2"
-"Garuda Indonesia","27.3","19.04","0.4","3.62","266.28","31","DELAY KATEGORI 1"
-"Batik Air","27.3","19.04","0.4","3.62","266.28","53","DELAY KATEGORI 1"
-"Citilink","28.61","18.49","0.09","2.57","225.74","24","DELAY KATEGORI 0"
-"AirAsia","28.69","18.55","0.11","2.91","226.63","8","DELAY KATEGORI 0"
-"Garuda Indonesia","28.72","18.68","0.12","3.28","225.77","20","DELAY KATEGORI 0"
-"Citilink","29.15","19.65","0.22","6.64","212.94","31","DELAY KATEGORI 1"
-"AirAsia","28.9","20.08","0.34","7.54","214.88","6","DELAY KATEGORI 0"
-"Garuda Indonesia","28.69","19.96","0.43","7.71","216.35","27","DELAY KATEGORI 0"
-"Batik Air","28.49","19.84","0.41","7.72","217.89","28","DELAY KATEGORI 0"
-"Citilink","28.36","19.65","0.59","6.4","229.76","19","DELAY KATEGORI 0"
-"AirAsia","28.15","19.59","0.84","6.81","230.91","8","DELAY KATEGORI 0"
-"Batik Air","28.01","19.53","0.83","6.95","234.65","17","DELAY KATEGORI 0"
-"Garuda Indonesia","27.99","19.47","0.86","6.89","238.58","35","DELAY KATEGORI 1"
-"Citilink","28.76","19.35","0.13","5.53","230.91","24","DELAY KATEGORI 0"
-"AirAsia","28.84","19.29","0.11","5.05","231.41","11","DELAY KATEGORI 0"
-"Garuda Indonesia","28.91","19.23","0.09","4.89","233.19","23","DELAY KATEGORI 0"
-"Batik Air","28.89","19.23","0.05","4.82","234.64","24","DELAY KATEGORI 0"
-"Lion Air","28.47","19.96","0.26","3.42","212.42","3","DELAY KATEGORI 0"
-"Garuda Indonesia","28.48","20.08","0.39","3.63","217.83","41","DELAY KATEGORI 1"
-"Citilink","28.53","20.2","0.55","4.2","227.94","23","DELAY KATEGORI 0"
-"AirAsia","28.5","20.39","0.53","4.6","230.99","35","DELAY KATEGORI 1"
-"Batik Air","28.48","20.57","0.61","4.97","232.34","21","DELAY KATEGORI 0"
-"Citilink","28.76","19.96","0.49","5.22","229.73","21","DELAY KATEGORI 0"
-"Batik Air","28.26","20.14","0.8","6.15","239.82","19","DELAY KATEGORI 0"
-"Garuda Indonesia","28.12","20.02","0.8","6.43","241.94","75","DELAY KATEGORI 2"
-"Lion Air","28.29","18.31","0.09","7.08","233.57","2","DELAY KATEGORI 0"
-"Citilink","28.26","18.31","0.04","6.87","236.45","26","DELAY KATEGORI 0"
-"AirAsia","28.31","18.01","0.01","6.38","240.52","50","DELAY KATEGORI 1"
-"Garuda Indonesia","28.35","17.88","0.02","6.11","243.01","21","DELAY KATEGORI 0"
-"Batik Air","28.27","17.82","0.01","6.05","244.59","26","DELAY KATEGORI 0"
-"Citilink","27.32","18.19","0.02","3.52","267.2","22","DELAY KATEGORI 0"
-"AirAsia","27.53","18.43","0.05","3.99","255.72","19","DELAY KATEGORI 0"
-"Batik Air","27.64","18.55","0.04","4.45","253.06","88","DELAY KATEGORI 2"
-"Garuda Indonesia","27.72","18.68","0.04","4.85","251.13","0","TIDAK DELAY"
-"Lion Air","28.46","19.78","0.15","4.56","232.09","4","DELAY KATEGORI 0"
-"Citilink","28.57","19.65","0.13","4.5","226.83","22","DELAY KATEGORI 0"
-"Garuda Indonesia","28.74","19.59","0.12","4.6","224.72","0","TIDAK DELAY"
-"AirAsia","28.8","19.59","0.19","4.63","225.07","39","DELAY KATEGORI 1"
-"Batik Air","28.83","19.65","0.2","4.76","225.33","32","DELAY KATEGORI 1"
-"Lion Air","29.04","19.9","0.16","5.49","202.51","135","DELAY KATEGORI 3"
-"Citilink","29.08","20.08","0.17","5.76","201.17","22","DELAY KATEGORI 0"
-"AirAsia","28.98","20.26","0.24","6.13","202.32","0","TIDAK DELAY"
-"Batik Air","28.84","20.32","0.3","6.19","204.04","38","DELAY KATEGORI 1"
-"Garuda Indonesia","28.74","20.32","0.44","6.24","207.33","13","DELAY KATEGORI 0"
-"Lion Air","28.35","19.84","0.2","4.36","214.86","3","DELAY KATEGORI 0"
-"Citilink","28.3","20.08","0.31","4.76","214.71","8","DELAY KATEGORI 0"
-"AirAsia","28.15","20.08","0.46","4.58","214.86","0","TIDAK DELAY"
-"Garuda Indonesia","28.13","20.08","0.47","4.43","214.95","34","DELAY KATEGORI 1"
-"Batik Air","28.13","20.02","0.43","4.34","215.41","52","DELAY KATEGORI 1"
-"Lion Air","28.81","19.41","0.02","3.95","212.71","11","DELAY KATEGORI 0"
-"Citilink","28.94","19.47","0.05","3.89","216.43","31","DELAY KATEGORI 1"
-"AirAsia","29.1","19.65","0.09","4.19","221.15","9","DELAY KATEGORI 0"
-"Garuda Indonesia","29.11","19.78","0.11","4.32","221.99","21","DELAY KATEGORI 0"
-"Batik Air","29.13","19.9","0.2","4.4","222.99","29","DELAY KATEGORI 0"
-"Citilink","29.12","20.69","0.6","6.11","215.78","17","DELAY KATEGORI 0"
-"AirAsia","28.96","20.45","0.41","6.52","224.27","4","DELAY KATEGORI 0"
-"Batik Air","28.85","20.26","0.38","6.61","229.08","52","DELAY KATEGORI 1"
-"Garuda Indonesia","28.83","20.14","0.27","6.57","231.9","61","DELAY KATEGORI 2"
-"Lion Air","29.01","18.86","0.12","6.28","251.36","2","DELAY KATEGORI 0"
-"Citilink","29.35","18.92","0.1","6.55","248.08","0","TIDAK DELAY"
-"AirAsia","29.92","18.74","0.08","6.85","239.1","0","TIDAK DELAY"
-"Garuda Indonesia","30.1","18.68","0.07","6.89","236.04","12","DELAY KATEGORI 0"
-"Batik Air","30.25","18.62","0.06","6.8","233.83","20","DELAY KATEGORI 0"
-"Citilink","28.12","20.2","1.13","5.85","258.45","23","DELAY KATEGORI 0"
-"AirAsia","27.66","20.2","2.07","5.75","252.6","0","TIDAK DELAY"
-"Batik Air","27.5","20.2","3.58","5.64","246.67","20","DELAY KATEGORI 0"
-"Garuda Indonesia","27.45","20.14","5.48","5.7","243.12","39","DELAY KATEGORI 1"
-"Garuda Indonesia","27.37","19.53","1.79","5.06","244.11","19","DELAY KATEGORI 0"
-"Citilink","27.48","19.78","2.2","5.04","238.75","32","DELAY KATEGORI 1"
-"AirAsia","27.68","19.84","1.75","5.15","237.9","290","DELAY KATEGORI 5"
-"Batik Air","27.98","19.78","1.22","5.16","238.19","20","DELAY KATEGORI 0"
-"Lion Air","29.44","20.14","0.28","4.97","228.82","33","DELAY KATEGORI 1"
-"Citilink","29.33","20.2","0.41","4.95","226.79","20","DELAY KATEGORI 0"
-"AirAsia","29.05","20.32","0.52","4.44","224.43","0","TIDAK DELAY"
-"Batik Air","28.86","20.32","0.63","4.21","223.95","32","DELAY KATEGORI 1"
-"Garuda Indonesia","28.73","20.32","0.63","4.05","220.78","61","DELAY KATEGORI 2"
-"Lion Air","26.76","18.25","1.08","1.31","215.5","12","DELAY KATEGORI 0"
-"Citilink","27.19","18.25","0.11","1.78","243.66","22","DELAY KATEGORI 0"
-"AirAsia","27.41","18.07","0.04","1.04","213.93","0","TIDAK DELAY"
-"Garuda Indonesia","27.55","18.07","0.05","1.07","185.01","46","DELAY KATEGORI 1"
-"Batik Air","27.66","18.13","0.07","1.28","170.13","42","DELAY KATEGORI 1"
-"Citilink","28.23","18.98","0.36","1.08","153.81","23","DELAY KATEGORI 0"
-"Garuda Indonesia","28.31","19.29","0.4","1.81","203.69","10","DELAY KATEGORI 0"
-"AirAsia","28.32","19.47","0.47","2.32","212.89","0","TIDAK DELAY"
-"Batik Air","28.25","19.71","0.47","2.73","216.97","102","DELAY KATEGORI 2"
-"Citilink","27.55","19.29","0.55","3.34","347.56","39","DELAY KATEGORI 1"
-"AirAsia","27.64","19.23","0.54","2.76","330.46","0","TIDAK DELAY"
-"Batik Air","27.62","19.23","0.51","2.73","319.06","72","DELAY KATEGORI 2"
-"Garuda Indonesia","27.63","19.35","0.5","2.97","311.8","33","DELAY KATEGORI 1"
-"Citilink","28.88","18.55","0.06","3.92","75.33","22","DELAY KATEGORI 0"
-"AirAsia","28.94","18.62","0.12","3.23","84.32","0","TIDAK DELAY"
-"Garuda Indonesia","28.91","18.55","0.09","2.75","93.25","22","DELAY KATEGORI 0"
-"Batik Air","28.94","18.37","0.12","2.31","103.52","36","DELAY KATEGORI 1"
-"Citilink","28.3","19.29","0.16","3.88","76.75","17","DELAY KATEGORI 0"
-"AirAsia","28.06","19.53","0.26","4.25","79.31","6","DELAY KATEGORI 0"
-"Garuda Indonesia","27.87","19.47","0.27","4.27","79.04","145","DELAY KATEGORI 3"
-"Batik Air","27.75","19.29","0.28","4.21","79.19","29","DELAY KATEGORI 0"
-"Citilink","27.56","19.71","0.73","4.81","115.98","53","DELAY KATEGORI 1"
-"AirAsia","27.31","19.53","0.72","4.58","124.86","0","TIDAK DELAY"
-"Garuda Indonesia","27.23","19.47","0.71","4.53","128","16","DELAY KATEGORI 0"
-"Batik Air","27.17","19.35","0.55","4.47","129.61","47","DELAY KATEGORI 1"
-"Citilink","27.88","17.88","0.18","2.05","27.93","32","DELAY KATEGORI 1"
-"AirAsia","27.7","18.49","0.25","2.52","33.1","0","TIDAK DELAY"
-"Batik Air","27.51","18.55","0.29","2.43","33.84","36","DELAY KATEGORI 1"
-"Garuda Indonesia","27.34","18.55","0.3","2.2","32.22","36","DELAY KATEGORI 1"
-"Garuda Indonesia","28.12","18.25","0.21","1.61","81.63","28","DELAY KATEGORI 0"
-"Citilink","28.15","18.25","0.26","1.49","88.5","30","DELAY KATEGORI 1"
-"AirAsia","28.06","18.31","0.25","1.43","103.88","16","DELAY KATEGORI 0"
-"Batik Air","27.22","18.62","0.57","2.09","158.79","20","DELAY KATEGORI 0"
-"Garuda Indonesia","27.41","19.53","0.93","4.4","277.76","19","DELAY KATEGORI 0"
-"Citilink","27.46","19.59","0.91","4.54","274.34","24","DELAY KATEGORI 0"
-"AirAsia","27.42","19.71","1.03","4.72","272.94","58","DELAY KATEGORI 1"
-"Batik Air","27.33","19.71","0.96","4.82","267.77","155","DELAY KATEGORI 3"
-"Lion Air","27.62","18.07","0.01","3.9","261.93","0","TIDAK DELAY"
-"Citilink","27.65","17.94","0.02","4.83","260.69","29","DELAY KATEGORI 0"
-"AirAsia","27.8","17.94","0","5.08","262.39","483","DELAY KATEGORI 5"
-"Batik Air","28.01","17.76","0","4.57","259.77","22","DELAY KATEGORI 0"
-"Garuda Indonesia","28.05","17.58","0","3.99","255.94","38","DELAY KATEGORI 1"
-"Citilink","28.09","18.07","0.1","2.23","248.83","43","DELAY KATEGORI 1"
-"AirAsia","28.12","18.49","0.11","2.99","240.89","0","TIDAK DELAY"
-"Garuda Indonesia","28.12","18.68","0.07","3.42","237.22","25","DELAY KATEGORI 0"
-"Batik Air","28.15","18.8","0.04","3.79","235.85","35","DELAY KATEGORI 1"
-"Citilink","27.53","18.92","0.5","2.62","291.52","20","DELAY KATEGORI 0"
-"AirAsia","27.62","18.8","0.48","2.6","283.54","0","TIDAK DELAY"
-"Garuda Indonesia","27.62","18.8","0.4","2.82","280.87","163","DELAY KATEGORI 3"
-"Batik Air","27.68","18.86","0.39","3.1","282.22","52","DELAY KATEGORI 1"
-"AirAsia","27.48","19.47","0.92","4.59","290.1","0","TIDAK DELAY"
-"Garuda Indonesia","27.29","19.35","0.95","4.53","284.06","26","DELAY KATEGORI 0"
-"Citilink","27.19","19.23","0.84","4.46","284.6","0","TIDAK DELAY"
-"Batik Air","27.08","19.17","0.87","4.32","286.83","16","DELAY KATEGORI 0"
-"AirAsia","28.55","18.98","0.27","4.13","313.62","0","TIDAK DELAY"
-"Citilink","28.45","19.1","0.27","4.12","306.28","0","TIDAK DELAY"
-"Batik Air","28.44","19.1","0.34","3.98","300.14","34","DELAY KATEGORI 1"
-"Garuda Indonesia","28.48","18.98","0.31","3.39","285.09","54","DELAY KATEGORI 1"
-"Garuda Indonesia","26.26","19.59","0.04","4.73","258.58","23","DELAY KATEGORI 0"
-"Citilink","26.19","19.9","0.08","4.78","263.71","35","DELAY KATEGORI 1"
-"AirAsia","26.29","20.08","0.08","4.99","268.47","0","TIDAK DELAY"
-"Batik Air","26.4","20.14","0.1","5.29","272.28","33","DELAY KATEGORI 1"
-"Lion Air","28.19","20.32","0.18","5.37","266.33","478","DELAY KATEGORI 5"
-"Citilink","28.52","20.26","0.16","5.33","267.4","49","DELAY KATEGORI 1"
-"AirAsia","28.71","20.2","0.16","5.56","270.56","180","DELAY KATEGORI 3"
-"Garuda Indonesia","28.71","20.2","0.16","5.56","270.56","17","DELAY KATEGORI 0"
-"Batik Air","28.73","20.26","0.22","5.64","271.99","11","DELAY KATEGORI 0"
-"Lion Air","28.22","19.65","0.43","1.99","281.09","0","TIDAK DELAY"
-"AirAsia","27.84","19.78","1.3","2.92","287.95","10","DELAY KATEGORI 0"
-"Citilink","27.84","19.78","1.3","2.92","287.95","0","TIDAK DELAY"
-"Batik Air","27.8","19.84","1.94","3.09","290.91","21","DELAY KATEGORI 0"
-"Garuda Indonesia","27.82","19.96","2.06","3.4","295.33","44","DELAY KATEGORI 1"
-"Lion Air","28.16","19.23","0.34","2.84","293.82","12","DELAY KATEGORI 0"
-"Citilink","28.12","19.29","0.43","2.67","293.79","20","DELAY KATEGORI 0"
-"AirAsia","27.83","19.47","0.54","3.02","279.22","11","DELAY KATEGORI 0"
-"Garuda Indonesia","27.83","19.47","0.54","3.02","279.22","29","DELAY KATEGORI 0"
-"AirAsia","27.83","19.47","0.54","3.02","279.22","83","DELAY KATEGORI 2"
-"Garuda Indonesia","27.83","19.47","0.54","3.02","279.22","17","DELAY KATEGORI 0"
-"Batik Air","27.47","19.71","1.17","4.4","292.42","11","DELAY KATEGORI 0"
-"Lion Air","28.39","18.31","0.01","2.78","304.81","10","DELAY KATEGORI 0"
-"Citilink","27.23","19.17","2.44","2.6","296.03","35","DELAY KATEGORI 1"
-"AirAsia","27.13","19.17","3.32","2.46","292","14","DELAY KATEGORI 0"
-"Garuda Indonesia","27.13","19.17","3.32","2.46","292","19","DELAY KATEGORI 0"
-"Lion Air","27.15","18.31","0.9","1.61","247.79","24","DELAY KATEGORI 0"
-"Lion Air","27.8","18.62","0.55","1.75","238.73","680","DELAY KATEGORI 5"
-"AirAsia","27.4","18.8","0.64","1.64","263.45","185","DELAY KATEGORI 4"
-"Garuda Indonesia","27.4","18.8","0.64","1.64","263.45","45","DELAY KATEGORI 1"
-"Citilink","27.4","18.8","0.64","1.64","263.45","0","TIDAK DELAY"
-"Batik Air","27.3","18.92","0.7","1.94","263.3","90","DELAY KATEGORI 2"
-"Citilink","27.88","19.1","0.15","2.03","18.85","57","DELAY KATEGORI 1"
-"AirAsia","27.65","19.1","0.45","1.74","23.23","0","TIDAK DELAY"
-"Garuda Indonesia","27.65","19.1","0.45","1.74","23.23","23","DELAY KATEGORI 0"
-"Batik Air","27.48","19.1","0.6","1.59","31.98","99","DELAY KATEGORI 2"
-"AirAsia","27.71","18.86","0.6","2.17","29.8","14","DELAY KATEGORI 0"
-"Citilink","27.71","18.86","0.6","2.17","29.8","8","DELAY KATEGORI 0"
-"Garuda Indonesia","27.26","18.86","0.8","1.66","13.06","64","DELAY KATEGORI 2"
-"Batik Air","27.08","18.8","0.7","1.48","349.34","136","DELAY KATEGORI 3"
-"Lion Air","27.61","19.41","0.37","2.1","34.4","8","DELAY KATEGORI 0"
-"AirAsia","28.16","19.96","0.42","2.93","55.08","12","DELAY KATEGORI 0"
-"Citilink","28.17","20.02","0.48","3.05","58.63","25","DELAY KATEGORI 0"
-"Batik Air","28.17","20.02","0.45","3.08","57.12","33","DELAY KATEGORI 1"
-"Garuda Indonesia","28.17","20.02","0.45","3.08","57.12","37","DELAY KATEGORI 1"
-"Citilink","27.59","19.71","0.65","3.11","36.12","48","DELAY KATEGORI 1"
-"AirAsia","27.58","19.59","0.71","2.43","41.48","16","DELAY KATEGORI 0"
-"Garuda Indonesia","27.54","19.53","0.66","2.13","48.72","17","DELAY KATEGORI 0"
-"Batik Air","27.56","19.47","0.53","2.02","53.17","39","DELAY KATEGORI 1"
-"AirAsia","27.33","19.59","0.29","3.68","33.66","2","DELAY KATEGORI 0"
-"Citilink","27.33","19.59","0.29","3.68","33.66","0","TIDAK DELAY"
-"Garuda Indonesia","27.33","19.47","0.21","3.36","30.44","17","DELAY KATEGORI 0"
-"Batik Air","27.33","19.47","0.21","3.36","30.44","43","DELAY KATEGORI 1"
-"Citilink","27.65","18.49","0.1","2.41","337.75","38","DELAY KATEGORI 1"
-"AirAsia","27.77","18.62","0.09","2.48","323.46","222","DELAY KATEGORI 4"
-"Garuda Indonesia","27.77","18.62","0.09","2.48","323.46","21","DELAY KATEGORI 0"
-"Batik Air","27.83","18.68","0.12","2.53","315.5","128","DELAY KATEGORI 3"
-"Lion Air","27.16","18.55","0.11","1.72","292.96","13","DELAY KATEGORI 0"
-"Citilink","27.33","18.8","0.07","2.28","278.66","31","DELAY KATEGORI 1"
-"AirAsia","27.37","18.92","0.07","2.6","281.11","0","TIDAK DELAY"
-"Garuda Indonesia","27.31","18.92","0.07","2.69","292.54","27","DELAY KATEGORI 0"
-"Lion Air","26.55","18.74","0.73","1.88","56.18","24","DELAY KATEGORI 0"
-"AirAsia","26.37","18.55","1.43","1.52","62.12","11","DELAY KATEGORI 0"
-"Garuda Indonesia","26.37","18.55","1.43","1.52","62.12","117","DELAY KATEGORI 2"
-"Citilink","26.37","18.55","1.43","1.52","62.12","0","TIDAK DELAY"
-"Batik Air","26.26","18.49","1.89","1.39","60.41","92","DELAY KATEGORI 2"
-"Citilink","27.43","18.98","1.76","4.45","356.27","24","DELAY KATEGORI 0"
-"AirAsia","27.39","18.92","2.48","5.3","355.86","11","DELAY KATEGORI 0"
-"Garuda Indonesia","27.26","18.86","2.36","5.79","351.69","12","DELAY KATEGORI 0"
-"Batik Air","27.22","18.68","2.07","6.14","349.08","19","DELAY KATEGORI 0"
-"Lion Air","27.9","19.23","0.21","2.73","10.06","13","DELAY KATEGORI 0"
-"Citilink","27.91","19.17","0.16","2.64","343.17","38","DELAY KATEGORI 1"
-"Garuda Indonesia","27.98","19.65","0.29","4.1","4.15","15","DELAY KATEGORI 0"
-"AirAsia","27.94","19.65","0.24","4.46","8.56","13","DELAY KATEGORI 0"
-"Batik Air","27.92","19.53","0.17","4.72","10.1","43","DELAY KATEGORI 1"
-"Lion Air","27.23","19.23","0.53","2.74","13.68","0","TIDAK DELAY"
-"Citilink","27.35","18.86","0.37","1.78","345.23","28","DELAY KATEGORI 0"
-"Garuda Indonesia","27.32","18.86","0.48","1.96","314.68","31","DELAY KATEGORI 1"
-"AirAsia","27.27","18.86","0.49","2.11","314.1","13","DELAY KATEGORI 0"
-"Batik Air","27.15","18.86","0.51","2.19","317.31","23","DELAY KATEGORI 0"
-"Citilink","29.23","16.6","0.03","1.55","325.67","7","DELAY KATEGORI 0"
-"Batik Air","29.2","16.54","0.03","1.33","318.34","36","DELAY KATEGORI 1"
-"Garuda Indonesia","26.46","18.37","0.55","1.49","14.25","32","DELAY KATEGORI 1"
-"Citilink","26.46","18.37","0.55","1.49","14.25","98","DELAY KATEGORI 2"
-"AirAsia","26.46","18.37","0.55","1.49","14.25","19","DELAY KATEGORI 0"
-"Batik Air","26.26","18.37","0.59","1.48","19.39","45","DELAY KATEGORI 1"
-"Garuda Indonesia","26.23","19.84","0.25","3.53","114.3","32","DELAY KATEGORI 1"
-"Citilink","26.23","19.84","0.25","3.53","114.3","2","DELAY KATEGORI 0"
-"Batik Air","26.15","19.65","0.31","3.34","117.46","81","DELAY KATEGORI 2"
-"Lion Air","27.12","18.8","0.26","2.54","119.88","0","TIDAK DELAY"
-"Garuda Indonesia","27.5","19.29","0.39","4.1","112.9","43","DELAY KATEGORI 1"
-"Citilink","27.5","19.29","0.39","4.1","112.9","156","DELAY KATEGORI 3"
-"AirAsia","27.45","19.35","0.48","4.4","110.04","141","DELAY KATEGORI 3"
-"Batik Air","27.45","19.35","0.48","4.4","110.04","38","DELAY KATEGORI 1"
-"Garuda Indonesia","26.95","18.8","0.26","3.73","97.45","8","DELAY KATEGORI 0"
-"Citilink","26.95","18.8","0.26","3.73","97.45","0","TIDAK DELAY"
-"Lion Air","27.44","18.07","0.06","3.88","37.56","0","TIDAK DELAY"
-"Citilink","27.85","18.07","0.01","3.96","36.01","49","DELAY KATEGORI 1"
-"Garuda Indonesia","27.91","18.37","0.02","4.48","36.91","32","DELAY KATEGORI 1"
-"AirAsia","27.91","18.37","0.02","4.48","36.91","30","DELAY KATEGORI 1"
-"Batik Air","27.85","18.55","0.04","4.82","39.67","33","DELAY KATEGORI 1"
-"Citilink","27.66","19.96","0.67","6.66","34.68","45","DELAY KATEGORI 1"
-"Garuda Indonesia","27.62","19.96","0.66","6.42","32.97","19","DELAY KATEGORI 0"
-"AirAsia","27.62","19.96","0.66","6.42","32.97","22","DELAY KATEGORI 0"
-"Garuda Indonesia","27.62","19.96","0.66","6.42","32.97","32","DELAY KATEGORI 1"
-"Citilink","27.64","20.02","0.56","6.2","32.03","21","DELAY KATEGORI 0"
-"Batik Air","27.66","20.08","0.5","6.06","31.62","14","DELAY KATEGORI 0"
-"Garuda Indonesia","27.24","20.69","0.9","6.02","27.5","70","DELAY KATEGORI 2"
-"AirAsia","27.24","20.69","0.9","6.02","27.5","307","DELAY KATEGORI 5"
-"Batik Air","27.22","20.69","0.79","6.34","29.63","229","DELAY KATEGORI 4"
-"Lion Air","27.42","20.32","0.34","5.25","71.86","22","DELAY KATEGORI 0"
-"Garuda Indonesia","27.35","20.57","0.35","5.05","64.9","16","DELAY KATEGORI 0"
-"Batik Air","27.37","20.63","0.34","5.02","62.56","87","DELAY KATEGORI 2"
-"Garuda Indonesia","27.4","20.51","0.75","5.06","29.89","17","DELAY KATEGORI 0"
-"AirAsia","27.4","20.51","0.75","5.06","29.89","30","DELAY KATEGORI 1"
-"Batik Air","27.44","20.51","0.8","4.92","26.52","216","DELAY KATEGORI 4"
-"Lion Air","27.58","20.14","0.33","5.52","71","0","TIDAK DELAY"
-"Garuda Indonesia","27.51","20.2","0.41","4.72","80.86","35","DELAY KATEGORI 1"
-"Batik Air","27.48","20.14","0.37","4.71","83.81","53","DELAY KATEGORI 1"
-"Garuda Indonesia","27.45","19.9","0.13","3.95","89.43","15","DELAY KATEGORI 0"
-"Batik Air","27.48","19.78","0.07","3.52","95.47","29","DELAY KATEGORI 0"
-"Lion Air","27.54","19.84","0.15","4.17","91.93","569","DELAY KATEGORI 5"
-"Garuda Indonesia","27.67","19.84","0.11","3.68","93.65","5","DELAY KATEGORI 0"
-"AirAsia","27.67","19.84","0.11","3.68","93.65","0","TIDAK DELAY"
-"Batik Air","27.72","19.84","0.08","3.53","92.28","56","DELAY KATEGORI 1"
-"Garuda Indonesia","27.85","19.59","0.16","2.14","51.96","18","DELAY KATEGORI 0"
-"Batik Air","27.83","19.59","0.22","2.13","39.94","19","DELAY KATEGORI 0"
-"Garuda Indonesia","27.83","20.08","0.3","3.48","29.55","104","DELAY KATEGORI 2"
-"Batik Air","27.82","20.08","0.31","3.6","32.52","78","DELAY KATEGORI 2"
-"AirAsia","28.08","19.71","0.22","5.01","54.85","0","TIDAK DELAY"
-"Garuda Indonesia","27.44","19.04","0.21","0.39","121.76","36","DELAY KATEGORI 1"
-"Batik Air","27.38","18.86","0.17","0.42","275.29","131","DELAY KATEGORI 3"
-"Lion Air","27.68","19.9","0.27","3.27","30.92","197","DELAY KATEGORI 4"
-"Garuda Indonesia","27.77","20.02","0.28","3.39","30.47","52","DELAY KATEGORI 1"
-"AirAsia","27.83","20.08","0.3","3.48","29.55","717","DELAY KATEGORI 5"
-"Batik Air","27.83","20.08","0.3","3.48","29.55","16","DELAY KATEGORI 0"
-"Lion Air","27.82","20.08","0.31","3.6","32.52","2","DELAY KATEGORI 0"
-"Garuda Indonesia","28.08","19.71","0.22","5.01","54.85","15","DELAY KATEGORI 0"
-"Batik Air","27.45","19.47","0.35","2.05","81.44","41","DELAY KATEGORI 1"
-"Garuda Indonesia","27.39","18.92","0.23","0.14","213.69","9","DELAY KATEGORI 0"
-"AirAsia","27.38","18.86","0.17","0.42","275.29","239","DELAY KATEGORI 4"
-"Batik Air","27.38","18.86","0.17","0.42","275.29","196","DELAY KATEGORI 4"
-"Garuda Indonesia","28.4","20.26","0.11","5.47","258.63","14","DELAY KATEGORI 0"
-"AirAsia","28.43","20.26","0.1","5.68","259.39","7","DELAY KATEGORI 0"
-"Batik Air","28.47","20.26","0.1","5.81","259.16","28","DELAY KATEGORI 0"
-"Garuda Indonesia","27.74","19.53","0.28","2.18","196.88","15","DELAY KATEGORI 0"
-"Batik Air","27.75","19.59","0.24","2.24","193.11","18","DELAY KATEGORI 0"
-"Lion Air","27.94","20.45","0.28","4.62","174.86","21","DELAY KATEGORI 0"
-"Garuda Indonesia","28.03","21","0.53","5.28","177.96","14","DELAY KATEGORI 0"
-"AirAsia","28.03","21","0.53","5.28","177.96","9","DELAY KATEGORI 0"
-"Batik Air","28.05","21.06","0.37","5.32","180","40","DELAY KATEGORI 1"
-"Lion Air","26.93","19.35","1.49","4.81","130.52","19","DELAY KATEGORI 0"
-"Garuda Indonesia","27.11","19.29","1.22","3.89","144.65","25","DELAY KATEGORI 0"
-"Batik Air","27.2","19.17","0.61","3.47","152.51","31","DELAY KATEGORI 1"
-"Lion Air","27.01","19.59","0.23","3.04","127.37","4","DELAY KATEGORI 0"
-"Garuda Indonesia","27.29","19.53","0.22","3.13","112.28","40","DELAY KATEGORI 1"
-"AirAsia","27.3","19.59","0.24","3.25","107.78","40","DELAY KATEGORI 1"
-"Batik Air","27.3","19.59","0.25","3.37","103.52","28","DELAY KATEGORI 0"
-"Citilink","27.77","18.13","0.01","2.82","120.26","47","DELAY KATEGORI 1"
-"Garuda Indonesia","27.87","17.94","0.01","2.19","125.56","17","DELAY KATEGORI 0"
-"Batik Air","27.94","17.76","0.01","1.62","139.88","19","DELAY KATEGORI 0"
-"Lion Air","28.16","17.88","0.01","0.9","100.53","54","DELAY KATEGORI 1"
-"Lion Air","27.81","18.68","0.1","1.91","100.12","0","TIDAK DELAY"
-"Citilink","27.94","18.92","0.06","2.41","99.13","53","DELAY KATEGORI 1"
-"Garuda Indonesia","27.94","18.86","0.05","2.22","98.9","19","DELAY KATEGORI 0"
-"AirAsia","27.89","18.74","0.04","2.02","97.13","240","DELAY KATEGORI 4"
-"Batik Air","27.89","18.74","0.04","2.02","97.13","15","DELAY KATEGORI 0"
-"Lion Air","28.19","19.47","0.15","3.3","61.92","42","DELAY KATEGORI 1"
-"Garuda Indonesia","28.19","19.47","0.15","3.3","61.92","20","DELAY KATEGORI 0"
-"AirAsia","28.17","19.47","0.2","3.3","61.13","396","DELAY KATEGORI 5"
-"Batik Air","28.15","19.53","0.21","3.27","60.68","21","DELAY KATEGORI 0"
-"Garuda Indonesia","27.99","19.9","0.31","3.52","60.65","35","DELAY KATEGORI 1"
-"Batik Air","27.98","19.84","0.24","3.41","60.68","33","DELAY KATEGORI 1"
-"Lion Air","28.15","19.78","0.08","4.13","52.31","0","TIDAK DELAY"
-"Lion Air","28.53","20.45","0.34","3.15","63.94","45","DELAY KATEGORI 1"
-"Garuda Indonesia","28.53","20.45","0.34","3.15","63.94","16","DELAY KATEGORI 0"
-"AirAsia","28.53","20.45","0.34","3.15","63.94","127","DELAY KATEGORI 3"
-"Batik Air","28.6","20.39","0.34","2.76","60.54","20","DELAY KATEGORI 0"
-"Garuda Indonesia","27.95","21.06","1.38","5.29","68.51","22","DELAY KATEGORI 0"
-"Citilink","27.91","21","0.92","5.13","68.64","0","TIDAK DELAY"
-"Batik Air","27.91","21","0.92","5.13","68.64","33","DELAY KATEGORI 1"
-"Lion Air","28.01","20.81","0.35","5.49","67.74","65","DELAY KATEGORI 2"
-"Citilink","27.26","19.35","0.59","5.11","65.35","0","TIDAK DELAY"
-"Garuda Indonesia","27.26","19.35","0.59","5.11","65.35","18","DELAY KATEGORI 0"
-"AirAsia","27.26","19.35","0.59","5.11","65.35","33","DELAY KATEGORI 1"
-"Batik Air","27.22","19.35","0.68","5.23","64.43","39","DELAY KATEGORI 1"
-"Lion Air","27.84","20.08","2.16","5.61","125.88","5","DELAY KATEGORI 0"
-"Garuda Indonesia","27.65","19.84","0.92","5.95","117.34","13","DELAY KATEGORI 0"
-"Citilink","27.65","19.84","0.92","5.95","117.34","0","TIDAK DELAY"
-"Batik Air","27.47","19.65","0.67","6.01","118.16","32","DELAY KATEGORI 1"
-"Garuda Indonesia","27.55","20.02","0.54","5.72","92.58","25","DELAY KATEGORI 0"
-"Citilink","27.55","20.02","0.54","5.72","92.58","0","TIDAK DELAY"
-"AirAsia","27.55","20.02","0.54","5.72","92.58","11","DELAY KATEGORI 0"
-"Batik Air","27.54","19.9","0.47","5.69","92.2","27","DELAY KATEGORI 0"
-"Lion Air","27.18","19.59","0.53","5.33","92.69","59","DELAY KATEGORI 1"
+Airlines,Suhu,Kelembaban,CurahHujan,KecepatanAngin,ArahAngin,Waktu,Status
+Lion Air,26,20,19,10,0,34,8,25,NE,12,0
+AirAsia,26,29,19,10,0,48,8,37,NE,51,1
+Garuda Indonesia,26,00,18,86,1,12,8,35,NE,7,0
+Batik Air,26,00,18,80,1,29,8,49,NE,9,0
+Lion Air,26,33,18,86,0,68,9,02,NE,11,0
+Citilink,26,26,18,80,0,43,8,36,NNE,55,1
+AirAsia,26,23,18,92,0,42,8,12,NNE,50,1
+Garuda Indonesia,26,23,18,92,0,42,8,12,NNE,137,1
+Garuda Indonesia,26,23,18,92,0,42,8,12,NNE,120,1
+Batik Air,26,09,18,68,0,93,8,93,NNE,39,1
+Lion Air,26,11,18,19,0,20,6,87,NE,12,0
+Citilink,25,99,18,62,0,21,5,79,NE,34,1
+AirAsia,25,86,18,55,0,19,5,91,NE,27,0
+Garuda Indonesia,25,86,18,55,0,19,5,91,NE,71,1
+Batik Air,25,94,18,19,0,10,7,89,NE,20,0
+Lion Air,26,48,19,10,0,06,7,59,NNE,9,0
+Citilink,26,44,18,98,0,06,7,52,NNE,12,0
+Garuda Indonesia,26,42,18,49,0,09,7,54,NNE,30,0
+AirAsia,26,38,18,31,0,07,7,44,NNE,49,1
+Lion Air,26,12,18,92,0,01,4,91,NNE,8,0
+Citilink,26,28,18,92,0,02,3,88,NNE,17,0
+Garuda Indonesia,26,31,18,80,0,03,3,05,NNE,29,0
+AirAsia,26,28,18,68,0,03,2,84,NE,53,1
+Batik Air,26,26,18,43,0,06,3,36,NE,39,1
+Lion Air,26,15,18,62,0,23,5,46,NNE,6,0
+Citilink,26,26,18,68,0,15,5,14,NE,15,0
+Garuda Indonesia,26,27,18,74,0,10,5,05,NE,17,0
+AirAsia,26,27,18,74,0,09,5,07,NE,35,1
+Lion Air,26,16,18,98,0,13,6,01,NE,20,0
+Citilink,26,30,19,10,0,12,6,20,NE,58,1
+Garuda Indonesia,26,23,19,23,0,12,5,93,NE,21,0
+AirAsia,26,18,19,23,0,11,5,84,NE,36,1
+Batik Air,26,14,19,17,0,07,5,92,NE,48,1
+Lion Air,26,29,18,62,0,07,7,34,NE,24,0
+Citilink,26,34,18,62,0,04,7,35,NE,8,0
+Garuda Indonesia,26,33,18,68,0,02,6,98,NE,32,1
+AirAsia,26,30,18,68,0,02,6,76,NE,31,1
+Batik Air,26,26,18,68,0,02,6,29,NNE,39,1
+Lion Air,26,23,17,58,0,00,6,03,NE,12,0
+Citilink,26,27,17,52,0,01,5,97,NE,28,0
+Garuda Indonesia,26,29,17,46,0,01,5,84,NNE,15,0
+AirAsia,26,25,17,40,0,01,5,85,NNE,7,0
+Batik Air,26,11,17,15,0,01,6,11,NNE,73,1
+Lion Air,26,15,17,52,0,01,6,10,NNE,16,0
+Citilink,26,30,17,76,0,01,5,85,NNE,21,0
+Garuda Indonesia,26,25,17,94,0,02,5,56,NNE,16,0
+AirAsia,26,18,18,07,0,02,5,49,NNE,12,0
+Lion Air,26,22,19,10,0,00,5,47,NNE,29,0
+Citilink,26,47,19,23,0,02,5,35,NNE,7,0
+Garuda Indonesia,26,39,19,23,0,01,5,66,NNE,18,0
+AirAsia,26,32,19,23,0,02,5,94,NNE,31,1
+Lion Air,25,79,16,05,0,00,7,48,NE,81,1
+Garuda Indonesia,25,90,16,11,0,00,7,43,NE,20,0
+AirAsia,25,92,16,17,0,00,7,41,NE,18,0
+Lion Air,26,26,15,93,0,01,7,80,NE,12,0
+Citilink,26,32,15,93,0,01,7,90,NE,75,1
+Garuda Indonesia,26,33,15,93,0,00,7,66,NE,15,0
+AirAsia,26,33,15,87,0,00,7,44,NE,47,1
+Lion Air,25,77,16,91,0,25,7,18,NNE,18,0
+Citilink,25,86,17,09,0,09,7,47,NNE,34,1
+Garuda Indonesia,25,92,17,27,0,08,7,23,NNE,21,0
+AirAsia,25,94,17,40,0,11,7,09,NNE,25,0
+Lion Air,25,93,17,70,0,18,7,38,NNE,24,0
+Citilink,25,96,17,70,0,06,6,99,NNE,12,0
+Garuda Indonesia,25,90,17,88,0,05,6,53,NNE,8,0
+AirAsia,25,84,17,94,0,06,6,39,NNE,10,0
+Lion Air,25,98,18,13,0,07,7,07,NNE,14,0
+Citilink,25,99,18,25,0,07,6,79,NNE,31,1
+Garuda Indonesia,25,97,18,37,0,08,6,57,NNE,15,0
+AirAsia,25,94,18,49,0,06,6,60,NNE,19,0
+Lion Air,25,85,17,40,0,02,6,69,NNE,20,0
+Citilink,25,91,17,33,0,02,6,89,NNE,12,0
+Garuda Indonesia,25,90,17,33,0,02,6,99,NNE,7,0
+AirAsia,25,87,17,40,0,01,7,02,NNE,15,0
+Lion Air,25,94,17,94,0,03,7,84,NNE,18,0
+Citilink,26,01,18,19,0,07,7,68,NNE,48,1
+Garuda Indonesia,25,96,18,49,0,13,7,74,NNE,27,0
+AirAsia,25,96,18,55,0,11,7,83,NNE,34,1
+Lion Air,25,85,17,52,0,03,7,80,NNE,19,0
+Citilink,25,91,17,52,0,06,7,82,NNE,49,1
+Garuda Indonesia,25,89,17,58,0,07,7,71,NNE,71,1
+AirAsia,25,85,17,52,0,05,7,60,NNE,10,0
+Lion Air,25,73,17,82,0,06,6,26,NNE,22,0
+Citilink,25,89,17,94,0,03,5,89,NNE,169,1
+Garuda Indonesia,25,89,18,07,0,06,6,10,NNE,14,0
+AirAsia,25,86,18,07,0,16,6,39,NNE,32,1
+Lion Air,25,79,18,13,0,22,6,37,NNE,6,0
+Citilink,25,96,18,19,0,17,6,41,NNE,26,0
+Garuda Indonesia,25,96,18,25,0,11,6,27,NNE,15,0
+AirAsia,25,93,18,31,0,08,6,16,NNE,16,0
+Lion Air,25,90,17,70,0,01,5,26,NE,23,0
+Garuda Indonesia,26,10,17,82,0,01,4,75,NE,8,0
+AirAsia,26,13,17,88,0,01,4,52,NE,26,0
+Citilink,26,08,17,21,0,01,3,67,NNE,58,1
+Garuda Indonesia,26,39,16,97,0,02,3,57,NNE,20,0
+AirAsia,26,49,16,91,0,01,3,53,NNE,34,1
+Citilink,25,94,17,82,0,01,4,09,N,105,1
+Garuda Indonesia,26,15,17,46,0,01,4,48,N,19,0
+AirAsia,26,18,17,27,0,01,4,50,N,19,0
+Lion Air,26,04,17,64,0,02,4,50,NNE,15,0
+Citilink,26,29,17,58,0,01,4,89,NNE,15,0
+AirAsia,26,61,17,33,0,01,5,21,NNE,11,0
+Lion Air,26,51,18,07,0,02,4,80,NNE,17,0
+Lion Air,26,51,18,07,0,02,4,80,NNE,4,0
+Citilink,26,60,18,07,0,01,5,33,NNE,19,0
+Garuda Indonesia,26,59,17,88,0,01,5,59,NNE,20,0
+AirAsia,26,61,17,64,0,01,5,60,NNE,7,0
+Lion Air,26,12,17,33,0,00,6,07,NE,12,0
+Citilink,26,36,17,40,0,00,6,18,NE,6,0
+AirAsia,26,58,17,52,0,00,6,00,NE,21,0
+Garuda Indonesia,26,58,17,52,0,00,6,00,NE,7,0
+Citilink,26,30,17,40,0,01,4,45,NE,22,0
+AirAsia,26,54,17,40,0,01,4,00,NE,23,0
+Garuda Indonesia,26,53,17,46,0,01,3,77,NE,12,0
+Lion Air,26,18,17,82,0,02,3,51,NE,10,0
+Citilink,26,29,17,94,0,06,3,79,NE,34,1
+Garuda Indonesia,26,45,17,82,0,04,3,45,NE,40,1
+AirAsia,26,47,17,82,0,03,3,20,NE,42,1
+Lion Air,26,46,17,46,0,06,4,04,NE,14,0
+Citilink,26,57,17,46,0,20,3,94,NE,23,0
+Garuda Indonesia,26,67,17,52,0,19,3,94,NNE,14,0
+AirAsia,26,69,17,52,0,11,3,91,NNE,16,0
+Garuda Indonesia,27,08,18,13,0,03,3,41,NE,6,0
+AirAsia,26,98,18,19,0,03,2,99,NE,33,1
+Lion Air,26,79,18,74,0,02,4,69,ENE,13,0
+Citilink,27,05,18,86,0,04,4,46,ENE,28,0
+Garuda Indonesia,27,05,19,04,0,07,4,00,ENE,9,0
+AirAsia,27,01,19,10,0,09,3,81,NE,8,0
+Lion Air,27,29,18,98,0,04,6,32,NE,67,1
+Citilink,27,33,18,92,0,03,5,70,NE,29,0
+Garuda Indonesia,27,26,18,98,0,03,5,17,NE,14,0
+AirAsia,27,22,18,98,0,04,4,94,NE,17,0
+Lion Air,26,82,19,35,0,03,6,54,NE,24,0
+Citilink,26,85,19,35,0,03,6,38,NE,17,0
+AirAsia,26.9,19.29,0.03,6.51,NNW,28,0
+Citilink,27,00,19,53,0,06,7,15,NE,24,0
+Garuda Indonesia,26,98,19,65,0,07,7,18,NE,10,0
+AirAsia,26,97,19,65,0,11,7,27,NE,11,0
+Citilink,26,83,18,86,0,13,8,07,NE,28,0
+Garuda Indonesia,26,68,19,17,0,13,7,63,NE,18,0
+AirAsia,26,57,19,23,0,11,7,66,NE,19,0
+Lion Air,26,33,19,10,0,31,8,47,NNE,32,1
+Citilink,26,41,19,35,0,37,8,25,NNE,27,0
+Garuda Indonesia,26,48,19,47,0,34,7,82,NNE,8,0
+AirAsia,26,45,19,59,0,36,7,26,NNE,6,0
+Citilink,26,21,19,96,0,70,7,29,NNE,15,0
+Garuda Indonesia,26,11,19,84,1,10,7,40,NE,9,0
+AirAsia,26,12,19,84,1,17,7,13,NE,14,0
+Citilink,26,23,19,35,0,22,4,40,NNE,28,0
+Garuda Indonesia,26,35,19,65,0,45,4,55,NE,66,1
+AirAsia,26,39,19,71,0,54,4,65,NE,9,0
+Lion Air,26,65,18,01,0,01,6,62,NE,16,0
+Citilink,26,71,18,13,0,00,6,19,NE,24,0
+Garuda Indonesia,26,71,18,43,0,01,5,58,NE,25,0
+AirAsia,26,66,18,80,0,02,5,18,NE,21,0
+Lion Air,26,63,19,23,0,09,4,97,NE,20,0
+Citilink,26,62,19,47,0,11,4,53,NNE,15,0
+AirAsia,26,45,19,78,0,30,4,88,NNE,22,0
+Lion Air,26,69,19,17,0,29,5,51,NE,19,0
+Citilink,26,73,19,35,0,94,5,18,NE,11,0
+AirAsia,26,42,19,41,0,70,3,93,NE,22,0
+Citilink,26,63,19,84,0,59,6,52,ENE,16,0
+AirAsia,26,47,19,53,0,57,6,42,ENE,7,0
+Lion Air,26,52,19,10,0,05,5,09,ENE,8,0
+Citilink,26,58,19,04,0,04,4,89,ENE,10,0
+Garuda Indonesia,26,52,19,10,0,06,4,67,ENE,8,0
+AirAsia,26,52,19,10,0,06,4,67,ENE,11,0
+Lion Air,26,79,19,59,0,11,5,47,ENE,16,0
+Citilink,26,94,19,47,0,12,5,45,ENE,9,0
+Garuda Indonesia,26,90,19,59,0,14,5,53,NE,22,0
+AirAsia,26,73,19,71,0,20,5,70,ENE,19,0
+Citilink,26,87,19,29,0,20,4,81,ENE,9,0
+Garuda Indonesia,26,77,19,29,0,24,5,15,ENE,4,0
+Lion Air,26,57,18,80,0,03,4,48,ENE,12,0
+Citilink,26,76,18,86,0,04,4,51,ENE,15,0
+Garuda Indonesia,26,80,18,98,0,05,4,62,ENE,6,0
+AirAsia,26,75,19,10,0,06,4,83,ENE,25,0
+Citilink,27,04,18,98,0,07,3,99,ENE,23,0
+AirAsia,27,08,18,74,0,04,3,60,ENE,19,0
+Lion Air,27,15,19,17,0,00,5,05,ENE,8,0
+Citilink,27,36,19,04,0,00,5,05,ENE,17,0
+Garuda Indonesia,27,47,18,80,0,00,4,61,ENE,25,0
+AirAsia,27,44,18,80,0,01,4,73,ENE,7,0
+Lion Air,27,44,16,91,0,00,3,45,ENE,8,0
+Citilink,27,57,17,09,0,00,3,81,NE,2,0
+Garuda Indonesia,27,71,16,97,0,00,3,47,NE,22,0
+AirAsia,27,76,16,85,0,00,3,26,NE,16,0
+Citilink,27,30,18,13,0,00,4,17,NE,15,0
+Garuda Indonesia,27,39,17,94,0,00,3,74,NE,16,0
+AirAsia,27,42,17,76,0,00,3,23,ENE,6,0
+Lion Air,27,87,16,85,0,00,4,17,NE,12,0
+Garuda Indonesia,27,85,17,52,0,01,4,19,NE,3,0
+AirAsia,27,62,18,37,0,03,3,85,NE,6,0
+Citilink,26,96,18,86,0,13,6,07,NE,9,0
+Garuda Indonesia,26,85,18,80,0,26,5,99,NE,4,0
+AirAsia,26,85,18,80,0,26,5,99,NE,8,0
+Citilink,26,00,18,62,0,20,7,73,NE,6,0
+Garuda Indonesia,26,03,18,74,0,13,7,80,NNE,11,0
+AirAsia,26,11,18,49,0,14,8,78,NE,13,0
+Lion Air,26,55,18,98,0,68,9,11,NNE,146,1
+Citilink,26,57,19,35,1,20,9,60,NNE,26,0
+AirAsia,26,55,19,65,2,16,9,61,NNE,23,0
+Lion Air,26,93,19,10,0,18,8,31,NE,38,1
+Citilink,26,94,19,47,0,25,7,58,NE,18,0
+Garuda Indonesia,26,90,19,59,0,40,7,75,NE,9,0
+AirAsia,26,85,19,29,0,57,8,27,NE,16,0
+Lion Air,26,96,19,41,0,28,7,72,ENE,17,0
+Citilink,27,01,19,78,0,26,6,90,ENE,10,0
+Garuda Indonesia,26,98,19,78,0,25,6,47,ENE,30,0
+AirAsia,26,95,19,71,0,21,6,44,NE,29,0
+Citilink,27,39,18,86,0,08,7,98,NE,31,1
+Garuda Indonesia,27,32,18,98,0,07,7,33,NE,11,0
+AirAsia,27,26,18,92,0,06,7,07,NE,33,1
+Citilink,27,44,18,92,0,07,6,31,NE,29,0
+Garuda Indonesia,27,40,19,35,0,08,5,60,NE,19,0
+AirAsia,27,34,19,59,0,09,4,98,NE,10,0
+Citilink,27,11,20,08,0,22,5,43,NE,27,0
+Garuda Indonesia,27,05,20,08,0,23,5,56,NNE,29,0
+AirAsia,26,98,20,02,0,23,5,83,NNE,27,0
+Citilink,27,21,19,65,0,41,5,93,NE,14,0
+Garuda Indonesia,27,04,19,53,0,37,6,38,NNE,19,0
+AirAsia,26,97,18,92,0,17,6,99,NNE,11,0
+Citilink,26,98,20,02,0,29,4,90,NNE,15,0
+AirAsia,26,94,20,39,0,54,4,94,NNE,10,0
+Citilink,26,97,20,26,0,89,4,20,ENE,64,1
+AirAsia,26,65,19,71,0,82,4,83,ENE,18,0
+Garuda Indonesia,26,65,19,71,0,82,4,83,ENE,55,1
+Lion Air,26,44,18,92,0,08,3,64,E,13,0
+Citilink,26,59,18,86,0,05,3,28,E,1,0
+Garuda Indonesia,26,67,18,74,0,04,2,39,E,24,0
+AirAsia,26,67,18,74,0,04,2,39,E,29,0
+Lion Air,26,74,18,74,0,05,3,74,NE,20,0
+Citilink,26,92,18,92,0,08,4,03,NE,10,0
+Garuda Indonesia,26,98,19,17,0,18,4,23,NE,27,0
+AirAsia,27,02,19,41,0,25,4,21,NE,13,0
+Citilink,27,62,19,71,0,85,5,35,ENE,11,0
+Garuda Indonesia,27,58,19,53,0,67,5,52,NE,4,0
+Lion Air,27,50,17,88,0,00,6,58,NE,23,0
+Citilink,27,73,17,88,0,00,6,48,NE,5,0
+Garuda Indonesia,27,83,18,07,0,00,6,56,NE,115,1
+AirAsia,27,83,18,31,0,00,6,61,NE,9,0
+Lion Air,27,30,17,58,0,02,5,64,NE,13,0
+Citilink,27,38,17,52,0,01,5,13,NE,21,0
+AirAsia,27,46,17,27,0,01,4,51,NE,6,0
+Garuda Indonesia,27,43,17,27,0,01,4,55,NE,22,0
+Lion Air,26,46,18,31,0,09,4,49,NNE,23,0
+Citilink,26,72,18,43,0,05,4,65,NNE,21,0
+AirAsia,27,08,18,55,0,02,4,85,N,20,0
+Lion Air,26,64,19,65,0,43,5,86,N,8,0
+Citilink,26,62,19,84,0,93,6,17,N,18,0
+Garuda Indonesia,26,57,20,02,2,10,6,67,N,23,0
+AirAsia,26,63,20,08,2,04,6,91,N,9,0
+Lion Air,27,18,20,69,0,26,6,20,ENE,10,0
+Citilink,27,22,20,51,0,16,5,90,E,16,0
+Garuda Indonesia,27,19,20,14,0,03,5,04,ESE,204,1
+AirAsia,27,19,20,14,0,03,5,04,ESE,14,0
+Lion Air,27,09,18,55,0,00,4,42,ESE,34,1
+Citilink,27,33,18,80,0,00,3,49,E,35,1
+Garuda Indonesia,27,51,19,10,0,00,2,54,ENE,16,0
+AirAsia,27,53,19,78,0,01,2,00,NE,10,0
+Citilink,27,18,21,06,0,20,3,76,NE,52,1
+Garuda Indonesia,27,35,21,12,0,21,3,35,ENE,27,0
+AirAsia,27,38,21,18,0,25,3,08,ENE,27,0
+Citilink,27,18,19,96,0,10,2,67,ENE,221,1
+Garuda Indonesia,27,30,19,90,0,16,2,84,NE,31,1
+AirAsia,27,37,19,96,0,10,3,54,ENE,5,0
+Citilink,27,48,20,08,0,11,4,28,NE,106,1
+Garuda Indonesia,27,83,20,02,0,13,4,10,NE,176,1
+AirAsia,27,84,19,96,0,09,4,01,NE,17,0
+Lion Air,27,95,19,59,0,19,2,56,E,34,1
+Citilink,27,94,19,53,0,23,1,60,ESE,97,1
+AirAsia,28,00,19,35,0,20,0,30,E,17,0
+Lion Air,27,71,19,10,0,14,2,01,E,14,0
+Citilink,27,81,19,29,0,14,2,55,E,90,1
+AirAsia,28,02,19,53,0,15,3,28,ENE,26,0
+Garuda Indonesia,28,02,19,53,0,15,3,28,ENE,28,0
+Citilink,27,59,18,92,0,21,2,88,E,101,1
+Garuda Indonesia,27,59,18,92,0,21,2,88,E,275,1
+Garuda Indonesia,27,59,18,92,0,21,2,88,E,210,1
+AirAsia,27,83,19,35,0,24,3,77,E,65,1
+Lion Air,27,51,19,35,0,36,4,03,SSE,4,0
+Citilink,27,44,19,71,0,45,4,29,SSE,72,1
+Garuda Indonesia,27,44,19,71,0,44,4,50,S,25,0
+AirAsia,27,47,19,17,0,33,3,52,S,55,1
+Lion Air,27,94,18,74,0,15,3,80,ESE,25,0
+Citilink,28,01,19,04,0,26,4,33,ESE,23,0
+Garuda Indonesia,27,87,19,17,0,33,4,38,ESE,12,0
+AirAsia,27,84,19,10,0,31,4,08,ESE,15,0
+Lion Air,27,96,18,49,0,00,3,35,E,44,1
+Citilink,28,08,18,49,0,01,2,92,E,14,0
+Garuda Indonesia,28,19,18,55,0,01,2,66,E,33,1
+AirAsia,28,26,18,74,0,01,2,76,E,46,1
+Lion Air,27,79,18,92,0,04,2,33,ENE,31,1
+Citilink,27,93,19,29,0,02,3,17,ENE,33,1
+Garuda Indonesia,28,03,19,47,0,03,3,69,ENE,118,1
+AirAsia,28,04,19,53,0,01,3,85,ENE,49,1
+Lion Air,28,00,19,78,0,07,3,73,E,31,1
+Citilink,27,98,19,90,0,07,3,87,E,55,1
+AirAsia,27,91,19,96,0,06,3,11,E,55,1
+Garuda Indonesia,27,91,19,96,0,06,3,11,E,65,1
+Lion Air,27,81,19,78,0,02,3,82,ENE,15,0
+Citilink,27,84,19,96,0,02,3,83,ENE,30,0
+AirAsia,27,91,19,96,0,04,3,21,ENE,40,1
+Garuda Indonesia,27,98,19,84,0,04,2,92,ENE,40,1
+Lion Air,28,03,18,13,0,00,1,98,ENE,45,1
+Citilink,28,21,18,13,0,01,1,85,NE,22,0
+AirAsia,28,29,18,19,0,01,1,77,NNE,231,1
+Garuda Indonesia,28,30,18,55,0,02,2,02,N,29,0
+Lion Air,27,74,19,23,0,06,2,30,E,16,0
+Citilink,27,82,19,41,0,05,2,51,E,81,1
+Garuda Indonesia,27,83,19,29,0,04,1,81,E,139,1
+AirAsia,27,75,19,10,0,07,1,23,NE,24,0
+Lion Air,28,43,19,65,0,10,4,08,NE,15,0
+Citilink,28,43,19,96,0,22,4,04,NE,194,1
+Garuda Indonesia,28,30,20,14,0,23,3,94,NE,161,1
+AirAsia,28,30,20,14,0,23,3,94,NE,72,1
+Citilink,27,94,19,47,0,18,2,92,ENE,88,1
+Garuda Indonesia,27,92,19,17,0,08,2,16,ENE,181,1
+AirAsia,27,98,19,17,0,10,2,43,NNE,5,0
+Citilink,27,85,18,86,0,03,2,62,ESE,34,1
+Garuda Indonesia,28,09,18,86,0,02,2,86,SE,171,1
+AirAsia,28,21,18,86,0,02,2,98,SE,68,1
+AirAsia,28,09,18,98,0,19,2,31,ENE,18,0
+Citilink,28,09,18,98,0,19,2,31,ENE,38,1
+Garuda Indonesia,28,20,18,98,0,16,2,36,ENE,61,1
+AirAsia,28,24,19,59,0,31,2,95,ENE,14,0
+Citilink,28,24,19,59,0,31,2,95,ENE,104,1
+Garuda Indonesia,28,30,19,65,0,26,3,00,ENE,25,0
+AirAsia,28,21,19,71,0,23,4,51,NE,24,0
+Citilink,28,21,19,71,0,23,4,51,NE,26,0
+Garuda Indonesia,28,20,19,71,0,30,4,26,NE,167,1
+AirAsia,27,71,18,92,0,18,2,94,NE,1,0
+Citilink,27,71,18,92,0,18,2,94,NE,35,1
+AirAsia,28,51,19,90,0,18,5,15,ENE,15,0
+Citilink,28,51,19,90,0,18,5,15,ENE,41,1
+Garuda Indonesia,28,46,19,84,0,18,5,11,ENE,12,0
+Citilink,27,44,18,80,0,36,3,40,NE,39,1
+Garuda Indonesia,26,91,18,98,0,60,3,96,NNE,25,0
+AirAsia,26,93,18,62,0,65,3,18,N,19,0
+Citilink,26,93,18,62,0,65,3,18,N,42,1
+Garuda Indonesia,26,73,18,80,1,11,3,01,N,24,0
+AirAsia,26,98,18,80,1,43,5,39,NNE,17,0
+Citilink,26,98,18,80,1,43,5,39,NNE,35,1
+Garuda Indonesia,26,92,18,55,0,43,5,74,NNE,92,1
+AirAsia,27,66,18,98,0,21,4,06,NE,26,0
+Citilink,27,66,18,98,0,21,4,06,NE,14,0
+Garuda Indonesia,27,84,18,86,0,21,4,24,NNE,31,1
+AirAsia,27,59,18,19,0,00,3,02,NE,10,0
+Citilink,27,59,18,19,0,00,3,02,NE,49,1
+Garuda Indonesia,27,65,18,19,0,00,2,80,NE,16,0
+Citilink,27,44,18,55,0,00,2,69,ENE,19,0
+Garuda Indonesia,27,67,18,62,0,00,2,64,ENE,26,0
+Citilink,27,65,18,01,0,00,1,46,ENE,22,0
+Garuda Indonesia,27,90,18,01,0,00,1,32,E,19,0
+AirAsia,27,93,18,43,0,01,1,13,SE,2,0
+Citilink,27,93,18,43,0,01,1,13,SE,30,0
+Garuda Indonesia,28,01,18,55,0,00,0,73,ESE,31,1
+Lion Air,28,41,19,41,0,10,1,68,S,16,0
+AirAsia,28,61,19,53,0,15,1,37,SSE,25,0
+Citilink,28,61,19,53,0,15,1,37,SSE,35,1
+Garuda Indonesia,28,60,19,84,0,10,1,85,S,28,0
+Lion Air,28,18,20,45,0,16,2,33,SSE,7,0
+AirAsia,28,28,20,45,0,14,2,41,S,61,1
+Citilink,28,28,20,45,0,14,2,41,S,27,0
+Garuda Indonesia,28,55,20,39,0,15,2,72,SSW,16,0
+Lion Air,28,21,20,14,0,06,2,99,SE,11,0
+AirAsia,28,33,20,08,0,07,2,55,SE,13,0
+Citilink,28,33,20,08,0,07,2,55,SE,9,0
+Citilink,28,37,19,78,0,00,4,42,E,21,0
+Garuda Indonesia,28,59,19,53,0,01,3,28,ENE,17,0
+AirAsia,28,67,19,17,0,00,5,76,NE,2,0
+Citilink,28,67,19,17,0,00,5,76,NE,52,1
+Citilink,28,69,20,02,0,10,6,10,NE,16,0
+Garuda Indonesia,28,69,20,08,0,12,6,11,NE,8,0
+AirAsia,28,79,20,08,0,07,3,84,NE,1,0
+Citilink,28,79,20,08,0,07,3,84,NE,32,1
+Garuda Indonesia,29,01,20,14,0,13,4,12,NE,181,1
+Citilink,28,08,20,39,0,23,4,35,ENE,54,1
+Garuda Indonesia,28,49,20,45,0,12,3,90,E,23,0
+Citilink,28,66,20,08,0,04,4,70,ENE,23,0
+Garuda Indonesia,28,51,20,75,0,26,4,71,ENE,69,1
+Citilink,28,26,20,57,0,28,3,78,ENE,48,1
+AirAsia,28,38,20,51,0,32,3,40,ENE,7,0
+Garuda Indonesia,28,39,20,45,0,28,3,28,ENE,14,0
+Citilink,28,69,20,45,0,31,3,36,E,33,1
+AirAsia,28,64,20,26,0,28,2,70,E,18,0
+Garuda Indonesia,28,55,20,14,0,27,2,48,E,19,0
+Batik Air,28,48,20,08,0,25,2,36,E,15,0
+Citilink,28,65,19,65,0,11,3,37,SE,35,1
+Garuda Indonesia,28,81,18,68,0,04,1,23,SE,10,0
+Citilink,28,92,19,53,0,01,2,70,SE,20,0
+AirAsia,29,02,19,41,0,04,2,10,SE,51,1
+Garuda Indonesia,29,08,19,29,0,03,1,69,SE,22,0
+Batik Air,29,07,19,23,0,06,1,31,SSE,39,1
+Citilink,28,91,18,98,0,03,1,81,NE,51,1
+AirAsia,29,01,19,17,0,01,2,14,ENE,17,0
+Garuda Indonesia,29,11,19,17,0,01,2,13,E,34,1
+Batik Air,29,12,19,17,0,02,2,00,E,16,0
+Citilink,29,21,19,23,0,01,2,47,ESE,83,1
+AirAsia,29,30,19,23,0,03,2,54,ESE,25,0
+Garuda Indonesia,29,26,19,10,0,02,2,48,ESE,30,0
+Batik Air,29,26,18,98,0,03,2,31,ESE,151,1
+Lion Air,28,19,18,43,0,82,0,79,E,46,1
+Citilink,27,74,18,49,0,98,0,69,E,59,1
+AirAsia,27,48,18,43,0,97,0,28,S,42,1
+Garuda Indonesia,27,41,18,37,1,05,0,06,NE,20,0
+Batik Air,27,31,18,37,0,93,0,19,NW,121,1
+Lion Air,28,33,19,17,0,06,2,48,ESE,30,0
+Citilink,28,55,19,47,0,06,2,86,SE,74,1
+AirAsia,28,91,19,53,0,04,2,96,SE,33,1
+Batik Air,28,96,19,47,0,02,2,82,SE,26,0
+Lion Air,28,93,20,08,0,06,3,56,SSE,18,0
+Citilink,29,06,20,26,0,04,3,77,SSE,25,0
+AirAsia,29,17,20,08,0,07,2,86,SSE,41,1
+Garuda Indonesia,29,19,20,02,0,10,2,61,S,40,1
+Batik Air,29,19,20,02,0,10,2,61,S,31,1
+Lion Air,28,78,20,63,0,11,3,80,SE,12,0
+Citilink,28,77,20,81,0,19,4,01,SE,34,1
+AirAsia,28,83,20,81,0,16,3,84,SSE,46,1
+Garuda Indonesia,28,83,20,81,0,16,3,72,SSE,18,0
+Batik Air,28,78,20,81,0,21,3,58,SSE,37,1
+Lion Air,28,62,20,14,0,26,2,01,SE,22,0
+Lion Air,28,62,20,14,0,26,2,01,SE,15,0
+Citilink,28,58,20,14,0,27,1,92,SE,17,0
+AirAsia,28,58,20,02,0,24,1,89,ESE,3,0
+Garuda Indonesia,28,61,19,96,0,26,1,91,SE,16,0
+Batik Air,28,54,19,84,0,21,1,84,SE,40,1
+Lion Air,28,62,19,29,0,06,2,92,E,12,0
+Citilink,28,75,19,10,0,05,2,77,ESE,22,0
+AirAsia,28,77,19,04,0,06,2,63,ESE,29,0
+Garuda Indonesia,28,65,18,80,0,15,1,94,ESE,14,0
+Batik Air,28,44,18,49,0,28,1,02,E,15,0
+Citilink,28,26,19,10,0,02,3,08,ENE,43,1
+AirAsia,28,47,19,29,0,01,3,03,ENE,86,1
+Garuda Indonesia,28,63,19,35,0,01,2,93,ENE,286,1
+Lion Air,28,79,19,96,0,05,2,54,ESE,10,0
+Citilink,28,94,19,84,0,04,2,41,E,30,0
+AirAsia,29,22,20,08,0,04,2,90,E,33,1
+Garuda Indonesia,29,29,20,20,0,05,3,18,E,185,1
+Batik Air,29,42,20,32,0,07,3,43,ENE,89,1
+Lion Air,29,33,20,69,0,10,4,39,NE,6,0
+Citilink,29,37,20,63,0,09,3,69,NE,42,1
+AirAsia,29,37,20,63,0,09,3,69,NE,31,1
+Batik Air,29,28,21,36,0,27,3,70,NE,49,1
+Lion Air,28,98,20,51,0,33,3,06,ESE,2,0
+Citilink,28,99,20,39,0,37,2,73,ESE,35,1
+AirAsia,28,87,20,26,0,28,3,06,ESE,44,1
+Garuda Indonesia,28,80,19,96,0,22,3,14,ESE,27,0
+Batik Air,28,76,19,65,0,26,3,18,ESE,60,1
+Lion Air,28,95,20,94,0,28,4,18,E,28,0
+Citilink,28,69,21,06,0,49,4,10,E,36,1
+AirAsia,28,63,20,75,0,21,3,75,E,28,0
+Garuda Indonesia,28,76,20,51,0,10,3,69,E,23,0
+Batik Air,28,94,20,39,0,08,3,80,E,70,1
+Lion Air,28,62,19,35,0,03,3,10,E,42,1
+Garuda Indonesia,28,83,20,32,0,14,3,21,E,160,1
+Citilink,28,83,20,32,0,14,3,21,E,15,0
+AirAsia,28,94,20,94,0,28,3,28,ENE,46,1
+Batik Air,29,08,21,24,0,28,3,44,ENE,163,1
+Lion Air,29,64,20,51,0,34,1,30,ESE,10,0
+Citilink,29,65,20,51,0,30,1,48,SSE,39,1
+AirAsia,29,73,20,39,0,29,0,71,S,47,1
+Garuda Indonesia,29,76,20,26,0,22,0,20,E,31,1
+Batik Air,29,72,20,32,0,19,0,80,NE,71,1
+Lion Air,29,30,19,90,0,19,0,69,SW,141,1
+Citilink,29,33,20,08,0,21,1,15,WSW,67,1
+AirAsia,29,36,20,20,0,28,1,19,WSW,23,0
+Garuda Indonesia,29,31,20,20,0,27,1,18,SW,30,0
+Citilink,28,21,17,94,0,01,2,00,SSW,41,1
+AirAsia,28,58,17,70,0,00,1,70,SSW,24,0
+Garuda Indonesia,28,74,17,64,0,00,1,66,SSW,25,0
+Lion Air,28,94,19,29,0,05,1,39,S,19,0
+Citilink,28,95,19,47,0,03,1,67,SSE,76,1
+AirAsia,29,08,19,78,0,03,2,12,SSE,32,1
+Garuda Indonesia,29,12,19,84,0,06,2,06,SSE,97,1
+Lion Air,29,19,19,90,0,11,2,00,SSE,22,0
+Citilink,29,31,19,90,0,08,2,09,SSE,48,1
+AirAsia,29,42,20,14,0,09,2,54,SSW,21,0
+Garuda Indonesia,29,42,20,32,0,08,2,89,SSW,29,0
+Batik Air,29,50,20,45,0,09,3,15,SW,48,1
+Lion Air,29,85,20,02,0,14,2,52,SW,15,0
+Citilink,29,94,20,02,0,19,2,60,SW,21,0
+AirAsia,30,02,20,26,0,19,2,95,SSW,26,0
+Garuda Indonesia,30,01,20,39,0,20,3,18,SSW,26,0
+Batik Air,29,99,20,45,0,20,3,30,SSW,225,1
+Lion Air,28,83,21,61,0,62,5,55,SW,18,0
+Citilink,28,83,21,06,0,34,5,68,SW,65,1
+AirAsia,29,04,19,78,0,07,4,79,SSW,32,1
+Garuda Indonesia,29,19,19,10,0,02,4,31,SSW,31,1
+Batik Air,29,38,18,62,0,00,4,03,SSW,87,1
+Citilink,29,57,20,69,0,40,3,01,SSW,73,1
+AirAsia,29,55,20,57,0,52,2,71,SW,29,0
+Garuda Indonesia,29,46,20,39,0,55,2,38,SW,29,0
+Batik Air,29,35,20,26,0,57,2,32,WSW,38,1
+Citilink,28,88,20,08,0,47,2,25,W,48,1
+AirAsia,28,80,20,26,0,47,3,04,WNW,23,0
+Garuda Indonesia,28,76,20,26,0,46,3,46,WNW,11,0
+Batik Air,28,73,20,14,0,39,3,77,WNW,32,1
+Citilink,28,76,18,07,0,09,0,70,W,102,1
+AirAsia,28,96,18,55,0,06,1,77,W,38,1
+Garuda Indonesia,29,05,18,92,0,05,2,38,W,42,1
+Batik Air,29,12,19,29,0,06,2,93,W,140,1
+Citilink,29,22,20,32,0,23,3,35,SSW,50,1
+AirAsia,29,23,20,26,0,29,3,15,SSW,22,0
+Garuda Indonesia,29,18,20,26,0,32,3,08,SSW,16,0
+Citilink,28,27,20,51,0,98,5,04,SSW,31,1
+AirAsia,28,33,20,69,1,04,5,17,SSW,18,0
+Garuda Indonesia,28,46,20,51,1,03,5,12,S,18,0
+Citilink,29,16,20,32,0,09,3,60,S,58,1
+AirAsia,29,26,20,14,0,07,2,69,S,18,0
+Garuda Indonesia,29,25,20,02,0,08,2,21,S,39,1
+Citilink,29,19,21,00,0,07,3,22,SE,48,1
+Garuda Indonesia,29,29,21,12,0,17,2,99,SE,25,0
+Citilink,29,00,19,84,0,04,1,81,WSW,110,1
+AirAsia,29,31,20,32,0,06,3,08,W,39,1
+Garuda Indonesia,29,41,20,63,0,08,3,58,W,58,1
+Lion Air,29,94,20,32,0,04,5,27,W,20,0
+Citilink,30,05,21,00,0,19,5,42,W,26,0
+Garuda Indonesia,30,24,21,24,0,39,5,33,W,34,1
+Citilink,29,26,21,36,1,53,6,33,SW,20,0
+AirAsia,29,08,20,63,0,65,7,04,SW,21,0
+Garuda Indonesia,29,08,20,63,0,65,7,04,SW,22,0
+Citilink,29,84,20,20,0,07,5,71,SSW,67,1
+AirAsia,29,82,20,45,0,13,5,98,SSW,66,1
+Garuda Indonesia,29,81,20,51,0,14,6,16,SW,110,1
+Citilink,29,37,19,90,0,37,3,30,SW,63,1
+AirAsia,29,29,19,84,0,28,3,01,SSW,79,1
+Garuda Indonesia,29,23,19,84,0,23,2,91,SSW,22,0
+Citilink,29,19,20,57,0,45,5,34,SW,13,0
+AirAsia,29,25,20,26,0,17,4,88,SW,30,0
+Garuda Indonesia,29,23,19,96,0,10,4,39,SW,11,0
+Citilink,29,11,20,45,0,25,3,28,SW,13,0
+AirAsia,29,19,20,32,0,25,3,32,SW,241,1
+Garuda Indonesia,29,24,20,26,0,17,3,36,SW,20,0
+Lion Air,29,08,19,84,0,05,2,82,SSE,1,0
+Citilink,29,18,19,84,0,04,3,12,SE,49,1
+Garuda Indonesia,29,33,19,53,0,03,2,59,SSE,21,0
+AirAsia,29,33,19,53,0,03,2,59,SSE,44,1
+Lion Air,29,31,19,71,0,25,2,07,SW,39,1
+Citilink,29,21,19,59,0,37,1,56,S,32,1
+Garuda Indonesia,29,11,19,65,0,42,1,34,SSW,25,0
+Lion Air,28,32,19,59,0,22,3,08,SSW,21,0
+Citilink,28,53,19,65,0,16,3,27,S,27,0
+Garuda Indonesia,28,70,19,78,0,22,3,59,S,12,0
+AirAsia,28,70,19,78,0,22,3,59,S,47,1
+Citilink,28,71,19,96,0,44,3,34,SSW,24,0
+AirAsia,28,51,19,71,0,51,2,95,SSW,109,1
+Garuda Indonesia,28,42,19,53,0,42,2,78,SSW,21,0
+Lion Air,28,80,18,25,0,03,2,22,SW,17,0
+Citilink,28,90,18,92,0,05,2,90,SW,44,1
+AirAsia,28,83,19,10,0,05,3,13,WSW,18,0
+Garuda Indonesia,28,86,19,17,0,08,3,18,WSW,16,0
+Citilink,28,96,19,47,0,06,3,45,SSW,60,1
+AirAsia,29,18,19,53,0,08,3,26,SW,22,0
+Garuda Indonesia,29,26,19,53,0,10,3,04,SW,21,0
+Lion Air,29,25,18,43,0,01,3,83,WSW,21,0
+Citilink,29,37,18,13,0,01,3,26,WSW,98,1
+AirAsia,29,50,18,31,0,02,3,13,WSW,4,0
+Garuda Indonesia,29,51,18,43,0,03,3,19,WSW,26,0
+Citilink,28,17,18,25,0,01,2,05,WNW,33,1
+AirAsia,28,36,17,94,0,00,2,11,W,37,1
+Garuda Indonesia,28,49,17,88,0,00,2,31,W,36,1
+Citilink,29,55,19,65,0,16,1,83,WSW,18,0
+Garuda Indonesia,29,59,19,84,0,19,2,18,SW,23,0
+Citilink,29,26,19,90,0,13,3,18,SSW,30,0
+AirAsia,29,36,19,90,0,19,3,12,SSW,43,1
+Garuda Indonesia,29,42,19,90,0,16,3,20,SW,75,1
+Lion Air,28,75,18,49,0,16,0,80,S,2,0
+Citilink,28,78,18,43,0,17,1,24,S,53,1
+AirAsia,28,76,18,37,0,17,1,51,S,16,0
+Garuda Indonesia,28,68,18,31,0,17,1,56,S,25,0
+Citilink,29,07,18,98,0,25,2,76,S,19,0
+AirAsia,29,13,18,98,0,29,2,48,S,46,1
+Garuda Indonesia,29,10,18,92,0,24,2,38,S,28,0
+Citilink,29,18,19,41,0,28,1,72,S,55,1
+Garuda Indonesia,29,14,18,92,0,25,1,30,S,20,0
+Citilink,31,12,20,26,0,14,3,67,SSE,69,1
+AirAsia,31,22,20,69,0,27,3,22,SSE,27,0
+Garuda Indonesia,31,27,20,94,0,32,3,07,SSE,35,1
+Citilink,29,62,19,23,0,05,2,85,S,39,1
+AirAsia,29,61,19,10,0,06,2,68,S,15,0
+Garuda Indonesia,29,67,19,23,0,05,2,78,S,28,0
+Lion Air,29,10,18,13,0,06,1,29,W,15,0
+Citilink,29,26,18,43,0,08,1,89,NNW,52,1
+AirAsia,29,31,18,80,0,16,2,32,NNW,18,0
+Garuda Indonesia,29,27,18,86,0,17,2,33,N,26,0
+Citilink,28,78,17,70,0,12,1,65,ENE,100,1
+AirAsia,28,96,17,64,0,08,1,39,E,78,1
+Garuda Indonesia,29,00,17,58,0,08,1,22,E,25,0
+Lion Air,29,37,18,37,0,07,2,64,SW,5,0
+Citilink,29,42,18,55,0,15,2,67,SSW,61,1
+AirAsia,29,33,18,86,0,17,2,79,SSW,64,1
+Garuda Indonesia,29,26,18,98,0,14,2,84,SSW,9,0
+Citilink,31,00,17,94,0,06,1,88,SSW,44,1
+AirAsia,31,39,17,94,0,11,1,59,SSW,477,1
+Garuda Indonesia,31,48,18,13,0,11,1,76,SSW,30,0
+Citilink,29,35,19,59,0,08,3,24,SW,52,1
+AirAsia,29,34,20,02,0,10,3,84,SSW,497,1
+Garuda Indonesia,29,23,20,08,0,11,3,96,SSW,14,0
+Citilink,29,48,21,06,0,29,4,68,SSW,52,1
+AirAsia,29,40,21,24,0,40,4,87,SSW,462,1
+Garuda Indonesia,29,36,21,30,0,47,4,99,SSW,31,1
+Citilink,31,66,18,43,0,69,1,56,WNW,17,0
+AirAsia,31,01,19,78,0,83,3,13,NW,22,0
+Garuda Indonesia,30,74,20,57,2,62,4,45,NNW,38,1
+Lion Air,27,76,17,27,0,13,2,26,SSW,18,0
+Citilink,28,77,16,85,0,03,1,76,S,61,1
+AirAsia,28,94,16,97,0,04,1,79,SSW,52,1
+Garuda Indonesia,28,97,17,09,0,06,1,86,SW,100,1
+Lion Air,28,50,17,76,0,17,0,77,W,18,0
+Citilink,28,55,17,40,0,13,0,40,SW,58,1
+AirAsia,28,51,17,40,0,18,0,47,WSW,35,1
+Garuda Indonesia,28,55,17,46,0,21,0,87,W,26,0
+Lion Air,28,12,19,78,0,45,3,37,SSW,21,0
+Citilink,28,19,19,90,0,47,3,83,SSW,54,1
+AirAsia,28,19,19,96,0,49,4,00,SSW,35,1
+Garuda Indonesia,28,18,20,02,0,41,4,20,SSW,42,1
+Lion Air,28,45,19,29,0,43,2,03,WSW,19,0
+Citilink,28,73,19,04,0,19,1,80,WSW,164,1
+AirAsia,28,80,18,86,0,18,1,58,WSW,54,1
+Garuda Indonesia,28,92,18,74,0,15,1,43,SW,38,1
+Lion Air,28,91,18,98,0,03,1,88,SSW,11,0
+Citilink,29,05,19,29,0,02,2,41,S,49,1
+AirAsia,29,12,19,41,0,01,2,50,S,30,0
+Garuda Indonesia,29,15,19,41,0,02,2,49,S,53,1
+Citilink,29,69,18,49,0,03,2,31,NW,16,0
+AirAsia,29,87,18,86,0,05,2,53,NW,20,0
+Garuda Indonesia,29,94,19,10,0,02,3,24,WNW,42,1
+Lion Air,29,12,19,65,0,20,2,69,SSW,44,1
+Citilink,29,45,19,96,0,24,2,86,SSW,52,1
+AirAsia,29,58,20,14,0,30,3,13,SSW,46,1
+Garuda Indonesia,29,61,20,26,0,29,3,36,SSW,93,1
+Lion Air,30,08,20,94,0,26,6,97,SW,17,0
+AirAsia,30,10,21,30,0,52,7,64,SSW,36,1
+Garuda Indonesia,29,98,21,30,0,72,7,98,SSW,151,1
+Lion Air,29,62,20,45,0,38,6,45,SSW,22,0
+Citilink,29,70,20,45,0,30,6,64,SSW,68,1
+AirAsia,29,70,20,45,0,33,6,55,SSW,19,0
+Garuda Indonesia,29,67,20,45,0,29,6,41,SSW,49,1
+Lion Air,29,30,20,75,0,37,6,00,SSW,19,0
+Citilink,29,35,20,63,0,31,6,90,SSW,38,1
+AirAsia,29,34,20,51,0,14,6,94,SSW,43,1
+Garuda Indonesia,29,42,20,32,0,04,6,77,SSW,33,1
+Lion Air,29,23,21,12,0,21,6,29,S,30,0
+Citilink,29,36,21,18,0,11,5,86,S,67,1
+AirAsia,29,38,21,12,0,11,5,68,S,25,0
+Garuda Indonesia,29,52,21,00,0,09,5,51,S,43,1
+Lion Air,30,12,22,28,0,63,1,00,SSW,7,0
+Citilink,29,80,22,03,0,65,1,02,SW,51,1
+AirAsia,29,70,22,09,0,59,1,60,WSW,23,0
+Garuda Indonesia,29,62,22,40,0,47,3,36,SW,16,0
+Lion Air,28,59,20,57,0,49,5,89,WSW,11,0
+Citilink,28,71,20,39,0,21,4,89,W,54,1
+AirAsia,28,68,20,39,0,23,4,61,W,92,1
+Garuda Indonesia,28,65,20,39,0,24,4,28,W,25,0
+Lion Air,29,83,19,96,0,06,6,18,SE,25,0
+AirAsia,30,07,19,47,0,02,5,40,SSE,66,1
+Garuda Indonesia,30,14,19,59,0,03,5,37,SSE,49,1
+Citilink,30,26,19,78,0,06,5,51,SSE,72,1
+Lion Air,29,71,20,02,0,07,4,45,SW,7,0
+Garuda Indonesia,30,08,20,63,0,08,5,16,SW,25,0
+AirAsia,30,55,20,32,0,09,4,75,SW,30,0
+Lion Air,29,74,20,75,0,83,2,42,WSW,20,0
+Citilink,29,09,20,81,0,98,2,43,SSW,40,1
+AirAsia,28,99,21,06,0,78,3,05,SSW,14,0
+Garuda Indonesia,28,92,21,12,0,75,3,49,SSW,27,0
+Lion Air,29,16,19,53,0,10,5,32,SSW,18,0
+Citilink,29,12,19,71,0,10,6,04,SSW,22,0
+AirAsia,29,14,19,65,0,11,5,84,SW,43,1
+Garuda Indonesia,29,24,19,59,0,12,5,58,SW,15,0
+Lion Air,27,95,20,08,0,52,4,51,WSW,11,0
+Citilink,27,91,19,84,0,61,4,08,WSW,16,0
+AirAsia,27,80,19,65,0,68,3,80,WSW,10,0
+Garuda Indonesia,27,72,19,53,0,65,3,64,WSW,37,1
+Lion Air,27,91,19,59,1,20,5,53,SW,11,0
+Garuda Indonesia,27,82,19,84,1,70,6,04,SW,26,0
+AirAsia,27,91,20,08,1,93,6,37,SW,26,0
+Lion Air,29,01,19,65,0,18,8,00,WSW,16,0
+AirAsia,29,38,19,84,0,07,7,66,W,9,0
+Garuda Indonesia,29,44,19,78,0,09,7,80,W,30,0
+Lion Air,28,95,19,84,0,19,8,90,WSW,21,0
+AirAsia,29,44,19,78,0,18,7,20,WSW,124,1
+Garuda Indonesia,29,58,19,71,0,11,7,00,WSW,20,0
+Lion Air,28,98,19,84,0,25,5,68,WSW,10,0
+AirAsia,28,86,20,14,0,36,6,01,WSW,22,0
+Garuda Indonesia,28,78,20,14,0,28,5,82,SW,38,1
+Garuda Indonesia,28,78,20,14,0,28,5,82,SW,16,0
+Citilink,28,78,20,14,0,28,5,82,SW,17,0
+Lion Air,28,83,19,84,0,18,4,55,SSW,9,0
+AirAsia,29,02,20,32,0,28,4,93,SSW,28,0
+Citilink,29,08,20,39,0,24,4,94,SSW,3,0
+Garuda Indonesia,29,19,20,39,0,18,4,84,SSW,22,0
+Lion Air,29,33,20,63,0,15,3,84,S,23,0
+AirAsia,29,44,21,48,0,38,4,69,S,44,1
+Garuda Indonesia,29,45,21,55,0,38,4,81,S,32,1
+Citilink,29,49,21,30,0,35,4,94,S,1,0
+Lion Air,28,55,20,20,0,48,4,43,S,23,0
+AirAsia,28,73,19,84,0,19,4,67,S,19,0
+Garuda Indonesia,28,83,19,78,0,13,4,54,S,25,0
+Citilink,28,84,19,65,0,10,4,39,S,8,0
+Citilink,28,26,19,90,0,11,3,16,SSE,118,1
+AirAsia,28,40,20,20,0,10,3,25,S,11,0
+Garuda Indonesia,28,43,20,32,0,15,3,19,S,41,1
+Lion Air,28,47,20,51,0,39,3,94,SSW,14,0
+Citilink,28,79,20,81,0,27,4,83,SSW,42,1
+AirAsia,28,85,20,81,0,32,4,82,SSW,7,0
+Garuda Indonesia,28,92,20,87,0,31,4,75,SSW,15,0
+Lion Air,28,13,20,32,0,61,4,22,SSW,5,0
+Citilink,28,12,20,39,0,67,4,15,SW,42,1
+AirAsia,28,10,20,45,0,71,4,15,SW,22,0
+Garuda Indonesia,28,05,20,51,0,76,4,17,SW,48,1
+Lion Air,28,56,18,74,0,19,0,27,NNE,10,0
+Citilink,29,34,17,94,0,12,0,07,W,30,0
+AirAsia,29,55,17,82,0,09,0,58,WSW,28,0
+Garuda Indonesia,29,80,17,82,0,04,1,26,WSW,24,0
+Lion Air,29,11,18,92,0,06,2,14,N,9,0
+AirAsia,29,06,19,35,0,07,2,70,NNE,15,0
+Citilink,29,10,19,41,0,09,2,78,NNE,10,0
+Garuda Indonesia,29,07,19,47,0,10,2,89,NNE,34,1
+Lion Air,29,41,18,80,0,02,2,51,ENE,4,0
+Citilink,29,52,18,31,0,02,1,75,NNE,46,1
+AirAsia,29,57,18,37,0,01,1,88,NNE,15,0
+Garuda Indonesia,29,54,18,55,0,02,2,02,NNE,26,0
+Lion Air,29,07,19,04,0,05,2,87,NE,21,0
+Citilink,28,94,19,41,0,08,3,72,ENE,45,1
+AirAsia,28,98,19,41,0,06,3,79,ENE,4,0
+Garuda Indonesia,29,02,19,35,0,04,3,69,ENE,33,1
+Lion Air,28,71,18,98,0,06,2,45,ESE,17,0
+Citilink,28,89,18,80,0,02,2,16,ESE,27,0
+AirAsia,28,94,18,74,0,02,2,10,ESE,19,0
+Garuda Indonesia,29,01,18,68,0,02,2,01,SE,23,0
+Lion Air,27,90,19,96,0,37,3,92,S,6,0
+AirAsia,27,69,20,20,0,69,4,58,SSE,13,0
+Garuda Indonesia,27,68,20,20,0,72,4,49,SSE,20,0
+Lion Air,28,62,18,43,0,09,2,91,SSW,5,0
+Citilink,29,00,18,80,0,11,3,25,S,35,1
+AirAsia,29,05,19,10,0,11,3,59,SSE,13,0
+Garuda Indonesia,29,12,19,35,0,10,3,77,SSE,14,0
+Lion Air,29,30,19,84,0,05,4,00,S,10,0
+Citilink,29,35,20,20,0,11,4,18,S,29,0
+AirAsia,29,31,20,39,0,17,4,09,S,10,0
+Garuda Indonesia,29,32,20,45,0,16,3,98,S,20,0
+Lion Air,29,07,19,90,0,09,3,36,S,10,0
+Citilink,29,15,20,02,0,06,4,26,S,46,1
+AirAsia,29,12,20,20,0,08,4,46,S,8,0
+Garuda Indonesia,29,12,20,32,0,13,4,49,S,32,1
+Lion Air,29,16,20,45,0,17,4,76,SSW,7,0
+Citilink,29,15,21,00,0,35,5,74,SSW,15,0
+AirAsia,29,24,20,94,0,37,5,94,SSW,11,0
+Garuda Indonesia,29,32,20,81,0,35,6,13,SSW,18,0
+Lion Air,29,29,20,94,0,48,5,77,SW,17,0
+Citilink,28,94,21,12,1,04,4,85,WSW,14,0
+AirAsia,28,79,21,06,1,18,4,68,WSW,4,0
+Garuda Indonesia,28,55,20,94,1,22,4,43,WSW,37,1
+Citilink,28,88,18,74,0,01,2,62,SSW,39,1
+AirAsia,29,15,18,74,0,01,2,59,SSW,11,0
+Garuda Indonesia,29,20,18,74,0,03,2,50,SSW,22,0
+Citilink,28,57,17,76,0,06,0,54,ENE,26,0
+AirAsia,28,88,17,52,0,09,0,15,ENE,3,0
+Garuda Indonesia,28,95,17,46,0,16,0,06,SE,22,0
+Lion Air,27,87,19,47,0,77,2,21,SSW,7,0
+Citilink,28,01,19,65,0,84,2,49,SW,30,0
+AirAsia,28,26,19,71,0,70,2,56,WSW,45,1
+Garuda Indonesia,28,35,19,71,0,90,2,57,W,24,0
+Citilink,28,38,19,96,0,55,7,01,WSW,25,0
+AirAsia,28,40,20,02,0,52,7,27,WSW,34,1
+Garuda Indonesia,28,34,19,96,0,46,7,30,WSW,30,0
+Lion Air,28,67,19,47,0,09,5,35,W,15,0
+Citilink,28,65,19,41,0,21,4,59,WSW,56,1
+AirAsia,28,57,19,41,0,48,4,26,SW,37,1
+Garuda Indonesia,28,31,19,59,0,60,4,68,SW,22,0
+Citilink,29,04,18,43,0,02,5,33,WSW,37,1
+AirAsia,29,12,18,55,0,02,5,07,WSW,101,1
+Garuda Indonesia,29,14,18,62,0,03,4,81,WSW,49,1
+Citilink,29,08,19,96,0,24,5,45,SSW,50,1
+Garuda Indonesia,29,16,19,96,0,27,5,45,SSW,31,1
+Citilink,29,32,20,14,0,17,6,22,SSW,4,0
+AirAsia,29,48,20,14,0,15,6,39,SSW,24,0
+Garuda Indonesia,29,55,20,20,0,19,6,42,SSW,61,1
+Citilink,29,78,19,96,0,36,6,08,SW,9,0
+AirAsia,29,69,20,32,0,35,6,06,SW,66,1
+Garuda Indonesia,29,67,20,45,0,39,6,12,WSW,22,0
+Citilink,29,10,19,84,0,12,4,97,SSW,41,1
+AirAsia,29,12,19,90,0,14,5,01,SSW,64,1
+Garuda Indonesia,29,08,19,96,0,15,5,09,SSW,39,1
+Citilink,29,45,19,71,0,00,5,36,S,50,1
+AirAsia,29,62,19,47,0,01,5,06,S,105,1
+Garuda Indonesia,29,73,19,29,0,00,4,86,SSW,25,0
+Lion Air,29,24,20,26,0,10,3,13,SSE,13,0
+Citilink,29,21,20,57,0,16,3,23,SSE,31,1
+AirAsia,29,15,20,57,0,18,2,92,SSE,246,1
+Garuda Indonesia,29,14,20,51,0,21,2,79,SSE,29,0
+Lion Air,28,90,19,10,0,17,1,79,S,11,0
+Citilink,28,87,18,98,0,14,1,79,SSW,39,1
+AirAsia,28,83,19,04,0,16,2,08,SSW,334,1
+Garuda Indonesia,28,83,19,17,0,13,2,31,SSW,79,1
+Citilink,28,89,18,92,0,14,1,50,SSW,21,0
+AirAsia,28,91,19,29,0,14,2,09,SW,40,1
+Garuda Indonesia,28,90,19,53,0,11,2,41,SW,44,1
+Lion Air,28,66,19,84,0,12,3,11,SW,14,0
+Citilink,28,80,20,02,0,11,3,90,SW,26,0
+AirAsia,29,06,19,90,0,08,4,06,WSW,211,1
+Garuda Indonesia,29,15,19,96,0,16,4,26,WSW,28,0
+AirAsia,29,59,19,90,0,25,4,57,SSW,14,0
+Garuda Indonesia,29,62,19,78,0,23,4,83,SSW,24,0
+Lion Air,29,32,19,47,0,08,4,16,S,17,0
+Citilink,29,51,19,10,0,04,4,08,S,46,1
+AirAsia,29,97,18,92,0,02,4,14,S,267,1
+Garuda Indonesia,30,15,18,92,0,02,4,19,S,15,0
+Citilink,29,62,21,00,0,27,5,04,SW,14,0
+AirAsia,29,53,20,75,0,32,4,57,SW,14,0
+Garuda Indonesia,29,41,20,69,0,38,4,35,SW,26,0
+Citilink,28,95,19,59,0,16,3,39,SW,63,1
+AirAsia,29,08,19,84,0,18,3,84,SW,128,1
+Garuda Indonesia,29,10,19,90,0,15,4,03,SW,37,1
+Citilink,28,40,19,71,0,26,4,88,SW,42,1
+AirAsia,28,53,19,47,0,19,4,11,SW,431,1
+Garuda Indonesia,28,59,19,29,0,15,3,88,SW,17,0
+Lion Air,28,98,19,65,0,16,4,82,WSW,10,0
+Lion Air,29,20,19,84,0,21,4,79,SW,1,0
+Citilink,29,08,20,14,0,41,4,51,SSW,29,0
+AirAsia,28,94,20,45,1,33,4,97,S,383,1
+Garuda Indonesia,28,87,20,57,1,97,5,57,S,15,0
+Lion Air,30,32,18,49,0,02,5,08,SSW,10,0
+Citilink,30,40,18,55,0,05,4,96,SSW,22,0
+AirAsia,30,22,19,10,0,16,5,15,SSW,176,1
+Garuda Indonesia,30,06,19,35,0,35,5,08,SSW,30,0
+Citilink,28,92,19,84,0,33,3,11,SW,32,1
+AirAsia,28,85,19,78,0,36,3,29,SW,194,1
+Garuda Indonesia,28,82,19,78,0,42,3,47,WSW,20,0
+Garuda Indonesia,28,82,19,78,0,42,3,47,WSW,4,0
+Citilink,28,98,20,63,0,29,5,85,SSW,40,1
+AirAsia,29,33,20,45,0,21,6,01,SSW,106,1
+Garuda Indonesia,29,38,20,39,0,18,5,97,SSW,110,1
+Lion Air,29,19,20,26,0,21,6,24,SSW,14,0
+Citilink,29,23,20,39,0,26,6,64,SSW,28,0
+AirAsia,29,14,20,32,0,42,6,68,SSW,20,0
+Garuda Indonesia,29,05,20,32,0,46,6,63,S,24,0
+Garuda Indonesia,29,05,20,32,0,46,6,63,S,8,0
+Garuda Indonesia,27,40,19,65,1,13,4,33,S,12,0
+Citilink,27,30,19,59,1,26,4,32,S,53,1
+AirAsia,27,29,19,41,1,14,4,26,S,12,0
+Citilink,28,29,17,82,0,14,2,72,WSW,20,0
+Garuda Indonesia,28,34,17,33,0,14,2,01,WSW,24,0
+AirAsia,27,57,16,72,1,63,0,09,ENE,26,0
+Lion Air,29,20,17,58,0,01,2,46,WNW,4,0
+Citilink,29,23,17,64,0,04,2,14,WNW,29,0
+AirAsia,29,19,17,76,0,07,1,81,WNW,7,0
+Garuda Indonesia,29,17,17,88,0,10,1,89,WNW,43,1
+Citilink,27,90,18,07,0,15,1,02,SE,50,1
+AirAsia,28,01,18,31,0,11,1,32,SE,24,0
+Garuda Indonesia,28,01,18,37,0,09,1,18,SSE,20,0
+Citilink,27,40,19,29,0,13,1,81,SW,14,0
+Garuda Indonesia,27,97,19,47,0,15,2,03,SSW,9,0
+AirAsia,28,18,19,41,0,15,2,20,SSW,46,1
+Citilink,28,43,19,29,0,16,1,83,SW,43,1
+AirAsia,28,52,19,17,0,18,1,80,S,24,0
+Citilink,28,95,18,68,0,21,0,74,SSW,42,1
+Garuda Indonesia,29,14,18,62,0,12,0,74,SW,16,0
+Lion Air,29,80,18,49,0,00,3,58,SSW,68,1
+Citilink,29,80,18,80,0,00,3,87,SSW,23,0
+Garuda Indonesia,29,89,18,98,0,00,3,78,SSW,43,1
+Lion Air,29,84,21,00,0,38,5,67,SW,7,0
+Citilink,29,73,21,48,0,90,5,21,SSW,29,0
+Garuda Indonesia,29,19,21,91,1,49,5,56,SSW,8,0
+AirAsia,29,14,21,85,1,50,6,23,SSW,18,0
+Batik Air,29,14,21,85,1,50,6,23,SSW,21,0
+Citilink,29,15,19,84,0,04,5,84,SW,35,1
+Batik Air,29,29,19,96,0,28,6,55,SSW,22,0
+Garuda Indonesia,29,30,20,02,0,39,6,59,SSW,135,1
+Lion Air,29,07,20,39,0,51,4,72,SSW,13,0
+Citilink,28,92,20,45,0,49,5,82,SW,23,0
+AirAsia,28,81,19,84,0,27,6,46,SW,27,0
+Garuda Indonesia,28,68,19,65,0,29,6,38,SW,24,0
+Citilink,29,23,18,74,0,02,2,87,WSW,52,1
+AirAsia,29,37,18,98,0,07,3,34,WSW,9,0
+Garuda Indonesia,29,36,19,10,0,14,3,65,W,40,1
+Lion Air,29,80,16,54,0,00,2,25,SW,24,0
+Citilink,30,06,16,42,0,00,2,04,W,18,0
+AirAsia,30,13,16,78,0,02,2,35,WNW,24,0
+Garuda Indonesia,30,11,17,03,0,03,2,66,WNW,28,0
+Lion Air,29,47,18,01,0,07,3,06,WSW,41,1
+Citilink,29,35,18,43,0,21,3,38,WSW,29,0
+AirAsia,28,86,19,35,0,45,4,58,WSW,6,0
+Batik Air,28,60,19,59,0,51,5,25,WSW,47,1
+Garuda Indonesia,28,37,19,59,0,44,5,65,WSW,34,1
+Lion Air,28,48,17,76,0,03,2,12,SSW,33,1
+Citilink,28,64,17,76,0,07,2,29,SSW,14,0
+AirAsia,28,61,18,01,0,14,2,54,SSW,8,0
+Garuda Indonesia,28,52,18,07,0,15,2,61,SSW,25,0
+Lion Air,26,98,18,49,0,70,3,58,SW,4,0
+Citilink,27,12,18,74,0,53,3,85,SW,28,0
+AirAsia,27,07,18,86,0,43,3,87,SW,4,0
+Garuda Indonesia,27,07,18,80,0,49,3,81,SW,14,0
+Batik Air,27,07,18,80,0,49,3,81,SW,15,0
+Citilink,28,40,19,17,0,40,4,22,WNW,26,0
+AirAsia,28,31,18,98,0,24,4,42,WNW,4,0
+Garuda Indonesia,28,30,18,80,0,22,4,38,W,27,0
+Batik Air,28,23,18,68,0,28,4,33,W,19,0
+Lion Air,27,27,18,98,0,56,4,35,WSW,10,0
+Citilink,27,41,19,10,0,41,4,11,WSW,29,0
+AirAsia,27,37,19,04,0,45,3,67,WSW,109,1
+Garuda Indonesia,27,30,19,04,0,40,3,62,WSW,31,1
+Batik Air,27,30,19,04,0,40,3,62,WSW,53,1
+Citilink,28,61,18,49,0,09,2,57,SW,24,0
+AirAsia,28,69,18,55,0,11,2,91,SW,8,0
+Garuda Indonesia,28,72,18,68,0,12,3,28,SW,20,0
+Citilink,29,15,19,65,0,22,6,64,SSW,31,1
+AirAsia,28,90,20,08,0,34,7,54,SSW,6,0
+Garuda Indonesia,28,69,19,96,0,43,7,71,SSW,27,0
+Batik Air,28,49,19,84,0,41,7,72,SSW,28,0
+Citilink,28,36,19,65,0,59,6,40,SW,19,0
+AirAsia,28,15,19,59,0,84,6,81,SW,8,0
+Batik Air,28,01,19,53,0,83,6,95,SW,17,0
+Garuda Indonesia,27,99,19,47,0,86,6,89,SW,35,1
+Citilink,28,76,19,35,0,13,5,53,SW,24,0
+AirAsia,28,84,19,29,0,11,5,05,SW,11,0
+Garuda Indonesia,28,91,19,23,0,09,4,89,SW,23,0
+Batik Air,28,89,19,23,0,05,4,82,SW,24,0
+Lion Air,28,47,19,96,0,26,3,42,SSW,3,0
+Garuda Indonesia,28,48,20,08,0,39,3,63,SSW,41,1
+Citilink,28,53,20,20,0,55,4,20,SW,23,0
+AirAsia,28,50,20,39,0,53,4,60,SW,35,1
+Batik Air,28,48,20,57,0,61,4,97,SW,21,0
+Citilink,28,76,19,96,0,49,5,22,SW,21,0
+Batik Air,28,26,20,14,0,80,6,15,SW,19,0
+Garuda Indonesia,28,12,20,02,0,80,6,43,SW,75,1
+Lion Air,28,29,18,31,0,09,7,08,SW,2,0
+Citilink,28,26,18,31,0,04,6,87,SW,26,0
+AirAsia,28,31,18,01,0,01,6,38,SW,50,1
+Garuda Indonesia,28,35,17,88,0,02,6,11,SW,21,0
+Batik Air,28,27,17,82,0,01,6,05,SW,26,0
+Citilink,27,32,18,19,0,02,3,52,WSW,22,0
+AirAsia,27,53,18,43,0,05,3,99,WSW,19,0
+Batik Air,27,64,18,55,0,04,4,45,WSW,88,1
+Lion Air,28,46,19,78,0,15,4,56,SW,4,0
+Citilink,28,57,19,65,0,13,4,50,SW,22,0
+AirAsia,28,80,19,59,0,19,4,63,SW,39,1
+Batik Air,28,83,19,65,0,20,4,76,SW,32,1
+Lion Air,29,04,19,90,0,16,5,49,SSW,135,1
+Citilink,29,08,20,08,0,17,5,76,S,22,0
+Batik Air,28,84,20,32,0,30,6,19,SSW,38,1
+Garuda Indonesia,28,74,20,32,0,44,6,24,SSW,13,0
+Lion Air,28,35,19,84,0,20,4,36,SSW,3,0
+Citilink,28,30,20,08,0,31,4,76,SSW,8,0
+Garuda Indonesia,28,13,20,08,0,47,4,43,SSW,34,1
+Batik Air,28,13,20,02,0,43,4,34,SSW,52,1
+Lion Air,28,81,19,41,0,02,3,95,SSW,11,0
+Citilink,28,94,19,47,0,05,3,89,SSW,31,1
+AirAsia,29,10,19,65,0,09,4,19,SSW,9,0
+Garuda Indonesia,29,11,19,78,0,11,4,32,SSW,21,0
+Batik Air,29,13,19,90,0,20,4,40,SSW,29,0
+Citilink,29,12,20,69,0,60,6,11,SSW,17,0
+AirAsia,28,96,20,45,0,41,6,52,SSW,4,0
+Batik Air,28,85,20,26,0,38,6,61,SW,52,1
+Garuda Indonesia,28,83,20,14,0,27,6,57,SW,61,1
+Lion Air,29,01,18,86,0,12,6,28,WSW,2,0
+Garuda Indonesia,30,10,18,68,0,07,6,89,SW,12,0
+Batik Air,30,25,18,62,0,06,6,80,SW,20,0
+Citilink,28,12,20,20,1,13,5,85,WSW,23,0
+Batik Air,27,50,20,20,3,58,5,64,SW,20,0
+Garuda Indonesia,27,45,20,14,5,48,5,70,SW,39,1
+Garuda Indonesia,27,37,19,53,1,79,5,06,SW,19,0
+Citilink,27,48,19,78,2,20,5,04,SW,32,1
+AirAsia,27,68,19,84,1,75,5,15,SW,290,1
+Batik Air,27,98,19,78,1,22,5,16,SW,20,0
+Lion Air,29,44,20,14,0,28,4,97,SW,33,1
+Citilink,29,33,20,20,0,41,4,95,SW,20,0
+Batik Air,28,86,20,32,0,63,4,21,SSW,32,1
+Garuda Indonesia,28,73,20,32,0,63,4,05,SSW,61,1
+Lion Air,26,76,18,25,1,08,1,31,SSW,12,0
+Citilink,27,19,18,25,0,11,1,78,SW,22,0
+Garuda Indonesia,27,55,18,07,0,05,1,07,S,46,1
+Batik Air,27,66,18,13,0,07,1,28,SSE,42,1
+Citilink,28,23,18,98,0,36,1,08,SE,23,0
+Garuda Indonesia,28,31,19,29,0,40,1,81,SSW,10,0
+Batik Air,28,25,19,71,0,47,2,73,SSW,102,1
+Citilink,27,55,19,29,0,55,3,34,NNW,39,1
+Batik Air,27,62,19,23,0,51,2,73,NW,72,1
+Garuda Indonesia,27,63,19,35,0,50,2,97,WNW,33,1
+Citilink,28,88,18,55,0,06,3,92,ENE,22,0
+Garuda Indonesia,28,91,18,55,0,09,2,75,E,22,0
+Batik Air,28,94,18,37,0,12,2,31,E,36,1
+Citilink,28,30,19,29,0,16,3,88,ENE,17,0
+AirAsia,28,06,19,53,0,26,4,25,ENE,6,0
+Garuda Indonesia,27,87,19,47,0,27,4,27,ENE,145,1
+Batik Air,27,75,19,29,0,28,4,21,ENE,29,0
+Citilink,27,56,19,71,0,73,4,81,ESE,53,1
+Garuda Indonesia,27,23,19,47,0,71,4,53,ESE,16,0
+Batik Air,27,17,19,35,0,55,4,47,ESE,47,1
+Citilink,27,88,17,88,0,18,2,05,NNE,32,1
+Batik Air,27,51,18,55,0,29,2,43,NNE,36,1
+Garuda Indonesia,27,34,18,55,0,30,2,20,NNE,36,1
+Garuda Indonesia,28,12,18,25,0,21,1,61,ENE,28,0
+Citilink,28,15,18,25,0,26,1,49,ENE,30,0
+AirAsia,28,06,18,31,0,25,1,43,E,16,0
+Batik Air,27,22,18,62,0,57,2,09,SSE,20,0
+Garuda Indonesia,27,41,19,53,0,93,4,40,W,19,0
+Citilink,27,46,19,59,0,91,4,54,W,24,0
+AirAsia,27,42,19,71,1,03,4,72,W,58,1
+Batik Air,27,33,19,71,0,96,4,82,WSW,155,1
+Citilink,27,65,17,94,0,02,4,83,WSW,29,0
+AirAsia,27,80,17,94,0,00,5,08,WSW,483,1
+Batik Air,28,01,17,76,0,00,4,57,WSW,22,0
+Garuda Indonesia,28,05,17,58,0,00,3,99,WSW,38,1
+Citilink,28,09,18,07,0,10,2,23,WSW,43,1
+Garuda Indonesia,28,12,18,68,0,07,3,42,SW,25,0
+Batik Air,28,15,18,80,0,04,3,79,SW,35,1
+Citilink,27,53,18,92,0,50,2,62,W,20,0
+Garuda Indonesia,27,62,18,80,0,40,2,82,W,163,1
+Batik Air,27,68,18,86,0,39,3,10,W,52,1
+Garuda Indonesia,27,29,19,35,0,95,4,53,W,26,0
+Batik Air,27,08,19,17,0,87,4,32,W,16,0
+Batik Air,28,44,19,10,0,34,3,98,WNW,34,1
+Garuda Indonesia,28,48,18,98,0,31,3,39,W,54,1
+Garuda Indonesia,26,26,19,59,0,04,4,73,WSW,23,0
+Citilink,26,19,19,90,0,08,4,78,WSW,35,1
+Batik Air,26,40,20,14,0,10,5,29,W,33,1
+Lion Air,28,19,20,32,0,18,5,37,WSW,478,1
+Citilink,28,52,20,26,0,16,5,33,WSW,49,1
+AirAsia,28,71,20,20,0,16,5,56,W,180,1
+Garuda Indonesia,28,71,20,20,0,16,5,56,W,17,0
+Batik Air,28,73,20,26,0,22,5,64,W,11,0
+AirAsia,27,84,19,78,1,30,2,92,W,10,0
+Batik Air,27,80,19,84,1,94,3,09,W,21,0
+Garuda Indonesia,27,82,19,96,2,06,3,40,WNW,44,1
+Lion Air,28,16,19,23,0,34,2,84,WNW,12,0
+Citilink,28,12,19,29,0,43,2,67,WNW,20,0
+AirAsia,27,83,19,47,0,54,3,02,W,11,0
+Garuda Indonesia,27,83,19,47,0,54,3,02,W,29,0
+AirAsia,27,83,19,47,0,54,3,02,W,83,1
+Garuda Indonesia,27,83,19,47,0,54,3,02,W,17,0
+Batik Air,27,47,19,71,1,17,4,40,W,11,0
+Lion Air,28,39,18,31,0,01,2,78,WNW,10,0
+Citilink,27,23,19,17,2,44,2,60,WNW,35,1
+AirAsia,27,13,19,17,3,32,2,46,W,14,0
+Garuda Indonesia,27,13,19,17,3,32,2,46,W,19,0
+Lion Air,27,15,18,31,0,90,1,61,WSW,24,0
+Lion Air,27,80,18,62,0,55,1,75,SW,680,1
+AirAsia,27,40,18,80,0,64,1,64,WSW,185,1
+Garuda Indonesia,27,40,18,80,0,64,1,64,WSW,45,1
+Batik Air,27,30,18,92,0,70,1,94,WSW,90,1
+Citilink,27,88,19,10,0,15,2,03,N,57,1
+Garuda Indonesia,27,65,19,10,0,45,1,74,NNE,23,0
+Batik Air,27,48,19,10,0,60,1,59,NNE,99,1
+AirAsia,27,71,18,86,0,60,2,17,NNE,14,0
+Citilink,27,71,18,86,0,60,2,17,NNE,8,0
+Garuda Indonesia,27,26,18,86,0,80,1,66,N,64,1
+Batik Air,27,08,18,80,0,70,1,48,NNW,136,1
+Lion Air,27,61,19,41,0,37,2,10,NNE,8,0
+AirAsia,28,16,19,96,0,42,2,93,NE,12,0
+Citilink,28,17,20,02,0,48,3,05,NE,25,0
+Batik Air,28,17,20,02,0,45,3,08,NE,33,1
+Garuda Indonesia,28,17,20,02,0,45,3,08,NE,37,1
+Citilink,27,59,19,71,0,65,3,11,NNE,48,1
+AirAsia,27,58,19,59,0,71,2,43,NNE,16,0
+Garuda Indonesia,27,54,19,53,0,66,2,13,NE,17,0
+Batik Air,27,56,19,47,0,53,2,02,NE,39,1
+AirAsia,27,33,19,59,0,29,3,68,NNE,2,0
+Garuda Indonesia,27,33,19,47,0,21,3,36,NNE,17,0
+Batik Air,27,33,19,47,0,21,3,36,NNE,43,1
+Citilink,27,65,18,49,0,10,2,41,NNW,38,1
+AirAsia,27,77,18,62,0,09,2,48,NW,222,1
+Garuda Indonesia,27,77,18,62,0,09,2,48,NW,21,0
+Batik Air,27,83,18,68,0,12,2,53,NW,128,1
+Lion Air,27,16,18,55,0,11,1,72,WNW,13,0
+Citilink,27,33,18,80,0,07,2,28,W,31,1
+Garuda Indonesia,27,31,18,92,0,07,2,69,WNW,27,0
+Lion Air,26,55,18,74,0,73,1,88,NE,24,0
+AirAsia,26,37,18,55,1,43,1,52,NE,11,0
+Garuda Indonesia,26,37,18,55,1,43,1,52,NE,117,1
+Batik Air,26,26,18,49,1,89,1,39,NE,92,1
+Citilink,27,43,18,98,1,76,4,45,NNW,24,0
+AirAsia,27,39,18,92,2,48,5,30,NNW,11,0
+Garuda Indonesia,27,26,18,86,2,36,5,79,NNW,12,0
+Batik Air,27,22,18,68,2,07,6,14,NNW,19,0
+Lion Air,27,90,19,23,0,21,2,73,N,13,0
+Citilink,27,91,19,17,0,16,2,64,NNW,38,1
+Garuda Indonesia,27,98,19,65,0,29,4,10,N,15,0
+AirAsia,27,94,19,65,0,24,4,46,N,13,0
+Batik Air,27,92,19,53,0,17,4,72,N,43,1
+Citilink,27,35,18,86,0,37,1,78,NNW,28,0
+Garuda Indonesia,27,32,18,86,0,48,1,96,WNW,31,1
+AirAsia,27,27,18,86,0,49,2,11,WNW,13,0
+Batik Air,27,15,18,86,0,51,2,19,NW,23,0
+Citilink,29,23,16,60,0,03,1,55,NW,7,0
+Batik Air,29,20,16,54,0,03,1,33,NW,36,1
+Garuda Indonesia,26,46,18,37,0,55,1,49,N,32,1
+Citilink,26,46,18,37,0,55,1,49,N,98,1
+AirAsia,26,46,18,37,0,55,1,49,N,19,0
+Batik Air,26,26,18,37,0,59,1,48,N,45,1
+Garuda Indonesia,26,23,19,84,0,25,3,53,ESE,32,1
+Citilink,26,23,19,84,0,25,3,53,ESE,2,0
+Batik Air,26,15,19,65,0,31,3,34,ESE,81,1
+Garuda Indonesia,27,50,19,29,0,39,4,10,ESE,43,1
+Citilink,27,50,19,29,0,39,4,10,ESE,156,1
+AirAsia,27,45,19,35,0,48,4,40,E,141,1
+Batik Air,27,45,19,35,0,48,4,40,E,38,1
+Garuda Indonesia,26,95,18,80,0,26,3,73,E,8,0
+Citilink,27,85,18,07,0,01,3,96,NNE,49,1
+Garuda Indonesia,27,91,18,37,0,02,4,48,NNE,32,1
+AirAsia,27,91,18,37,0,02,4,48,NNE,30,0
+Batik Air,27,85,18,55,0,04,4,82,NNE,33,1
+Citilink,27,66,19,96,0,67,6,66,NNE,45,1
+Garuda Indonesia,27,62,19,96,0,66,6,42,NNE,19,0
+AirAsia,27,62,19,96,0,66,6,42,NNE,22,0
+Garuda Indonesia,27,62,19,96,0,66,6,42,NNE,32,1
+Citilink,27,64,20,02,0,56,6,20,NNE,21,0
+Batik Air,27,66,20,08,0,50,6,06,NNE,14,0
+Garuda Indonesia,27,24,20,69,0,90,6,02,NNE,70,1
+AirAsia,27,24,20,69,0,90,6,02,NNE,307,1
+Batik Air,27,22,20,69,0,79,6,34,NNE,229,1
+Lion Air,27,42,20,32,0,34,5,25,ENE,22,0
+Garuda Indonesia,27,35,20,57,0,35,5,05,NE,16,0
+Batik Air,27,37,20,63,0,34,5,02,NE,87,1
+Garuda Indonesia,27,40,20,51,0,75,5,06,NNE,17,0
+AirAsia,27,40,20,51,0,75,5,06,NNE,30,0
+Batik Air,27,44,20,51,0,80,4,92,NNE,216,1
+Garuda Indonesia,27,51,20,20,0,41,4,72,ENE,35,1
+Batik Air,27,48,20,14,0,37,4,71,ENE,53,1
+Garuda Indonesia,27,45,19,90,0,13,3,95,ENE,15,0
+Batik Air,27,48,19,78,0,07,3,52,E,29,0
+Lion Air,27,54,19,84,0,15,4,17,E,569,1
+Garuda Indonesia,27,67,19,84,0,11,3,68,E,5,0
+Batik Air,27,72,19,84,0,08,3,53,E,56,1
+Garuda Indonesia,27,85,19,59,0,16,2,14,NE,18,0
+Batik Air,27,83,19,59,0,22,2,13,NNE,19,0
+Garuda Indonesia,27,83,20,08,0,30,3,48,NNE,104,1
+Batik Air,27,82,20,08,0,31,3,60,NNE,78,1
+Garuda Indonesia,27,44,19,04,0,21,0,39,ESE,36,1
+Batik Air,27,38,18,86,0,17,0,42,W,131,1
+Lion Air,27,68,19,90,0,27,3,27,NNE,197,1
+Garuda Indonesia,27,77,20,02,0,28,3,39,NNE,52,1
+AirAsia,27,83,20,08,0,30,3,48,NNE,717,1
+Batik Air,27,83,20,08,0,30,3,48,NNE,16,0
+Lion Air,27,82,20,08,0,31,3,60,NNE,2,0
+Garuda Indonesia,28,08,19,71,0,22,5,01,NE,15,0
+Batik Air,27,45,19,47,0,35,2,05,ENE,41,1
+Garuda Indonesia,27,39,18,92,0,23,0,14,SSW,9,0
+AirAsia,27,38,18,86,0,17,0,42,W,239,1
+Batik Air,27,38,18,86,0,17,0,42,W,196,1
+Garuda Indonesia,28,40,20,26,0,11,5,47,WSW,14,0
+AirAsia,28,43,20,26,0,10,5,68,WSW,7,0
+Batik Air,28,47,20,26,0,10,5,81,WSW,28,0
+Garuda Indonesia,27,74,19,53,0,28,2,18,S,15,0
+Batik Air,27,75,19,59,0,24,2,24,S,18,0
+Lion Air,27,94,20,45,0,28,4,62,SSE,21,0
+Garuda Indonesia,28,03,21,00,0,53,5,28,SSE,14,0
+AirAsia,28,03,21,00,0,53,5,28,SSE,9,0
+Batik Air,28,05,21,06,0,37,5,32,S,40,1
+Lion Air,26,93,19,35,1,49,4,81,ESE,19,0
+Garuda Indonesia,27,11,19,29,1,22,3,89,SE,25,0
+Batik Air,27,20,19,17,0,61,3,47,SE,31,1
+Lion Air,27,01,19,59,0,23,3,04,ESE,4,0
+Garuda Indonesia,27,29,19,53,0,22,3,13,E,40,1
+AirAsia,27,30,19,59,0,24,3,25,E,40,1
+Batik Air,27,30,19,59,0,25,3,37,E,28,0
+Citilink,27,77,18,13,0,01,2,82,ESE,47,1
+Garuda Indonesia,27,87,17,94,0,01,2,19,ESE,17,0
+Batik Air,27,94,17,76,0,01,1,62,SE,19,0
+Lion Air,28,16,17,88,0,01,0,90,E,54,1
+Citilink,27,94,18,92,0,06,2,41,E,53,1
+Garuda Indonesia,27,94,18,86,0,05,2,22,E,19,0
+AirAsia,27,89,18,74,0,04,2,02,E,240,1
+Batik Air,27,89,18,74,0,04,2,02,E,15,0
+Lion Air,28,19,19,47,0,15,3,30,NE,42,1
+Garuda Indonesia,28,19,19,47,0,15,3,30,NE,20,0
+AirAsia,28,17,19,47,0,20,3,30,NE,396,1
+Batik Air,28,15,19,53,0,21,3,27,NE,21,0
+Garuda Indonesia,27,99,19,90,0,31,3,52,NE,35,1
+Batik Air,27,98,19,84,0,24,3,41,NE,33,1
+Lion Air,28,53,20,45,0,34,3,15,NE,45,1
+Garuda Indonesia,28,53,20,45,0,34,3,15,NE,16,0
+AirAsia,28,53,20,45,0,34,3,15,NE,127,1
+Batik Air,28,60,20,39,0,34,2,76,NE,20,0
+Garuda Indonesia,27,95,21,06,1,38,5,29,ENE,22,0
+Batik Air,27,91,21,00,0,92,5,13,ENE,33,1
+Lion Air,28,01,20,81,0,35,5,49,ENE,65,1
+Garuda Indonesia,27,26,19,35,0,59,5,11,NE,18,0
+AirAsia,27,26,19,35,0,59,5,11,NE,33,1
+Batik Air,27,22,19,35,0,68,5,23,NE,39,1
+Lion Air,27,84,20,08,2,16,5,61,ESE,5,0
+Garuda Indonesia,27,65,19,84,0,92,5,95,ESE,13,0
+Batik Air,27,47,19,65,0,67,6,01,ESE,32,1
+Garuda Indonesia,27,55,20,02,0,54,5,72,E,25,0
+AirAsia,27,55,20,02,0,54,5,72,E,11,0
+Batik Air,27,54,19,90,0,47,5,69,E,27,0
+Lion Air,27,18,19,59,0,53,5,33,E,59,1
